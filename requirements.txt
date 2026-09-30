@@ -1,0 +1,8 @@
+# The notebook was written against pandas 2.x; pandas 3 changes how NaN is cast to str and breaks the Year cleaning step.
+pandas>=2.2,<3
+numpy
+matplotlib
+seaborn
+plotly
+openpyxl
+jupyter

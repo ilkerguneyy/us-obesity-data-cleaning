@@ -1,0 +1,736 @@
+Yr;state_name;AGEgrp;Income_Lvl;gender;diet type;ActivityLevel ;obesity_lvl;BMI_val;Phys_Activity_Hrs;Calories;medical visits;ScreenTime;Stress_LVL
+2006; Delaware; Children;middle;M@l3;low fat;Activ3;Und3rw3ight;30.4;4.2;2826.6;2;7;6.8
+2019; Nevada;Chi...;High ;M@l3;BALANCED; Moderate;NORMAL;25.5;1.2;3178.2;3;1.7;4.7
+2014;Okl@hom@;Adolescents ; Middle;Female ;balanced;S3d3nt@ry;normal;25.4;11;2601.3;2;6.4;3.4
+2010;Mont@n@;adolescents;MIDDLE;M@l3;Hig...;ACTIVE;normal;30.7;11.9;1806.3;3;2.5;2.9
+2007;delaware;S3niors;NA;Mal...;Bal...; Sedentary;UNDERWEIGHT;NA;17.4;2956.2;3;7.6;6.9
+202...;WYOMING;adults; Middle; Female; Balanced;Activ3; Obese;28.6;11.5;2700.5;1;3.7;NA
+2006; Nevada;Chi...;Hig...;F3m@l3;LOW FAT;Sed...;Norm@l;29.3;6.9;NA;2;5.2;2.6
+2018;nevada;ADOLESCENTS;Middl3;male;B@l@nc3d;Sedentary ;UNDERWEIGHT;19....;16.1;303...;2;6.4;7.2
+2022;oregon;ADOLESCENTS;middle;Mal...;low fat;Sed...; Underweight;30....;10.8;3450.8;2;2.5;6.1
+2010;Sou...;Childr3n;High;MALE;HIGH FAT;Moderate ;Norm@l;30.1;1.6;2647.1;NA;7.7;8.7
+2010; Oklahoma;adults;low; Female;high fat;S3d3nt@ry; Normal;21.9;11.3;2183.3;1;3.7;2.1
+2023;Nebraska ;Chi...;high;male;Balanced ; Sedentary;OBESE;25.8;18.2;2796.9;0;7;8.1
+202...;kentucky;Adu...;low;MALE;Hig...;sedentary; Underweight;26.8;7.9;1636.9;1;2.4;7.1
+2003;Flo...;Ado...; High;Mal...; Balanced;Activ3;UNDERWEIGHT;26.3;5.9;3294.8;2;7.2;2
+NA; North Carolina; Adults;Hig...; Female;High Fat ;NA;Ov3rw3ight;28.7;2.9;-1738.8;0;2.2;7.3
+2023;Mar...; Seniors;Middl3; Female;low fat;Activ3;Und...;34....;3;2155.7;1;4.8;5
+2002;Illinois;Ado...;LOW;MALE;low fat;Sedentary ;NA;32.4;8.7;3131.5;0;3.2;9.5
+2021;NEVADA; Seniors;Middl3;NA;Low F@t; Sedentary;NA;20.4;11....;269...;2;7.7;2.3
+2020; West Virginia;Childr3n;low;Female ;low fat;Moderate ;OVERWEIGHT;30.1;1.6;2287.3;2;3.4;6.8
+200...;N3w H@mpshir3;children;Hig...;female;BALANCED;active;Overweight ;33.6;18.8;2446.9;3;8.9;4.4
+2023; Illinois;Childr3n;NA;FEMALE; High Fat;S3d3nt@ry;Nor...;28.9;15....;3209.1;NA;9;9.6
+2011;Vir...;Adults;low;FEMALE; Balanced;Active ;Normal ;32.5;11.7;2180;5;2.8;4
+2005;Ohio ;ADOLESCENTS;Mid...;Female ; Low Fat;Activ3; Underweight;37.1;16.6;323...;5;6.5;9.7
+2001;COLORADO;Children ; Middle;Fem...;BALANCED;NA; Overweight;-32.1;1.6;1676.3;1;1.8;9.1
+2020;Louisiana ;children;middle; Female;high fat;Moderate ;obese;28.2;9.5;3053.6;4;4.5;3.4
+2000; California;adolescents; Middle;Fem...;B@l@nc3d;moderate;Nor...;32.2;12....;3195.1;2;7.4;8.2
+2011;washington;children;Hig...;Fem...;HIGH FAT; Moderate;OBESE;27.7;16.6;1863.6;3;6.9;NA
+2021;Missouri; Seniors;high;M@l3;B@l@nc3d;Moderate ;Obese ;27.1;15.7;2360.7;2;6.6;3.3
+2011; Alaska;ADOLESCENTS;high; Male; High Fat;Mod3r@t3;NORMAL;25.2;5.5;183...;3;3.5;4.9
+2016;GEORGIA;NA;High;Male ;high fat;NA;Normal ;34.8;18.8;2913.2;2;4.4;5.7
+2009;New Jersey ; Adolescents;high;female; Low Fat;Mod...;Nor...;22.9;2.5;257...;NA;1.9;3.7
+2015;wyoming;NA;Mid...;M@l3;Hig...;Sedentary ;Normal ;34....;17.5;2770.6;2;7.5;1.1
+2014;Ver...;ADOLESCENTS;Middle ;F3m@l3;Low...;Act...;Ov3rw3ight;29.5;19....;1893;2;5.5;3
+2014;California ;SENIORS;Middl3;Fem...;Low Fat ; Moderate; Overweight;20;3.5;1923.5;0;7.4;3.5
+201...;NORTH CAROLINA;Ado...;MIDDLE;Mal...;low fat;Mod3r@t3;Ove...;28.8;14.4;NA;4;3.2;5
+2011;Ala...; Adults;HIGH;F3m@l3;Bal...; Active;Ove...;16....;0.8;214...;4;3.9;2.5
+2022;LOUISIANA; Children;high;MALE;B@l@nc3d; Sedentary;Underweight ;30.1;8.1;2619.5;1;4;8.9
+2019;new york;ADULTS;High ;MALE;B@l@nc3d;active;Overweight ;31.4;10.3;321...;3;1.2;7.3
+2002;Washington ; Children; Low;M@l3;BALANCED;Activ3;NORMAL;24;11.6;2833.9;0;4.1;1.8
+2004;Wis...;Seniors ; Middle;FEMALE;high fat; Moderate;Obe...;27.6;18.7;2370.8;2;8.2;6.9
+2018;H@w@ii;adults; Middle;male;High Fat ; Active;Overweight ;36.8;13.4;3406.2;0;9.1;NA
+200...;MASSACHUSETTS;Ado...;Hig...;FEMALE;Bal...;NA;Underweight ;24.5;9.6;2938.5;3;5.7;9.6
+2020;montana; Children;middle;MALE;High F@t;MODERATE;NORMAL;21.7;16.2;3360.3;2;5.1;1
+2008;Missouri;NA;MIDDLE;MALE;HIGH FAT;Moderate ; Obese;34.4;19;2555.2;1;1.3;3.2
+200...;Michig@n;adults;Hig...;MALE;LOW FAT;NA;obese;-36.8;0.4;2017.8;0;8.9;9.4
+2017;N3br@sk@;S3niors;Low;F3m@l3; Low Fat;Mod3r@t3;Overweight ;27....;19....;1605.7;0;1.1;9.4
+2003;Wisconsin;ADULTS;Low ; Female;low fat;Active ;OBESE;NA;1.7;2952.2;4;9.5;7.5
+2013;Illinois;seniors; Low;FEMALE;Low...;Act...; Overweight;33.7;NA;174...;2;5.4;7.9
+2017;Nor...;seniors;High;male;Hig...;Sedentary ;NA;23.3;5.6;2105.6;2;4.1;1.8
+2008; North Dakota;CHILDREN; Middle;M@l3;balanced;sedentary;Norm@l;24.6;2.6;256...;3;9.3;5.6
+2020;South Dakota ;Adults ;HIGH;Female ;HIGH FAT;active;Normal ;33.2;8.8;2628.8;5;1.2;3.1
+2001; Ohio;Adults ;high;F3m@l3;NA; Sedentary;Underweight ;35.4;12.9;2701.2;3;6.2;2.6
+2019;NA;seniors; Middle;F3m@l3;High F@t;Active ; Normal;NA;7.6;1832.5;0;5.9;8.3
+2014;Mas...;ADULTS;Low;Fem...;Low F@t;SEDENTARY;Nor...;22.6;1.1;2259.5;0;3;2.2
+2006;W3st Virgini@; Adolescents;Low ;FEMALE; Low Fat;Mod3r@t3;overweight;36.9;12;2734.4;2;4.9;5.2
+2011;Color@do;adolescents;Hig...;female;Low F@t;S3d3nt@ry;Normal ;24.3;18;NA;2;6.9;9.4
+2007;Nevada ;ADULTS;Low;Male ;Balanced ;MODERATE;Ov3rw3ight;25.3;7.7;295...;2;7.5;2.7
+2014;KENTUCKY;ADULTS;high;F3m@l3; High Fat; Moderate;Overweight ;28.7;4.3;3345.2;3;1;9.8
+2002;California ;S3niors;High;Mal...;BALANCED;Mod3r@t3;NORMAL;34.8;8.9;3024.4;0;9.4;9.9
+201...;new mexico;Adol3sc3nts; Middle;Male ;Low F@t;MODERATE;Underweight ;31.3;1;268...;0;2.5;6
+2016;California ;ADOLESCENTS;middle; Female;balanced;SEDENTARY; Underweight;29.1;16.4;1884;3;3.1;2.5
+2003;PENNSYLVANIA;NA; Middle; Female;High Fat ; Active; Obese;29.3;16.5;2833.4;2;3.4;3.8
+2017;Ari...;S3niors;Hig...;Male ;NA;moderate;Ob3s3;27.2;11.8;2746.8;3;1.3;4.8
+2007;Min...;CHILDREN; Middle;Fem...;Low Fat ;Sedentary ;Nor...;29.8;7.1;NA;1;2.1;3.8
+200...;Oregon ;Adolescents ;Low ;F3m@l3; Low Fat;Mod3r@t3;Und...;14....;16;2479.6;3;9.9;3.5
+2001;Oregon ;seniors;LOW;MALE; Balanced; Sedentary;Overweight ;25.5;11.1;255...;3;3.8;9.8
+2005; Georgia;ADULTS;High;MALE;Low F@t;S3d3nt@ry;Obese ;28.2;16.5;2168.9;1;2;2.4
+2021;georgia; Seniors;Hig...;M@l3;LOW FAT;SEDENTARY; Overweight;21.2;12.6;2538.6;3;2;7.6
+NA;M@in3;ADULTS;middle;Fem...;high fat;Act...;obese;28.9;15.7;1895.1;4;7.5;1
+2003; Kentucky;Adults;HIGH;male;NA;sedentary; Normal;26....;12....;3110.3;2;8.7;6.4
+2021;massachusetts;SENIORS;high;F3m@l3;LOW FAT;Sedentary ;underweight;35....;8.3;1871.6;1;3.3;9.2
+2017;Ind...;Adults ;Low;M@l3;high fat; Active;Obe...;34.9;19.2;1669.9;4;1.2;3.6
+2011;Florid@;NA;Low; Male;Hig...; Active;Und...;24.7;10.8;2372.5;1;3;2.7
+2001;Vir...;adolescents;Middl3;Male ;B@l@nc3d;SEDENTARY;Overweight ;26.2;12.1;2816.6;1;1.5;6.9
+2009;alabama;ADULTS;NA;Fem...;Low...; Active;Normal ;26.6;4.4;2375.4;3;1.9;7.4
+2003; Vermont; Children;Hig...;female;HIGH FAT; Moderate;Und3rw3ight;24.7;12.5;2053.5;1;4.9;7.2
+2013;Ill...;Adults;Low; Male;Bal...;moderate;Nor...;28;11.4;NA;4;3.1;3.9
+2015;ARKANSAS;Ado...;HIGH;male;Balanced ;ACTIVE;Underweight ;23.2;3.7;2194;3;5.6;3.3
+2014;Alabama ;Chi...;Low; Male;Low F@t;Activ3;Ov3rw3ight;21.3;1.2;3365.7;0;3.3;9.6
+200...;Wis...;Ado...;MIDDLE;NA;low fat;sedentary;Overweight ;30.1;12.1;3345.3;2;9.5;9.3
+2013;SOUTH CAROLINA;Ado...;low;Male ;balanced;active;Normal ;30.1;15....;2504.7;3;9.2;5.1
+2022;NEW YORK;Childr3n;high;Female ;HIGH FAT;SEDENTARY;Ove...;NA;10....;2155.8;2;6.1;8.6
+200...;North D@kot@;Children ;MIDDLE;MALE;Bal...;Moderate ;obese;31.5;4.5;2974.3;1;4.2;5.1
+202...;NEVADA;Childr3n;Low;MALE;Low...; Active;Und...;23.8;13....;1573.4;4;4.4;4.8
+2015;NEW MEXICO;seniors;low;male; High Fat; Sedentary;OVERWEIGHT;28....;1.6;2449.5;1;4.7;2.4
+2012;D3l@w@r3;Childr3n;Middl3;male;High F@t;Sedentary ;Obese ;31....;8.8;217...;1;7.5;4.8
+2017;Rho...; Children;MIDDLE;Male ;Balanced ; Moderate;NA;26.8;3.3;NA;0;5.1;5.8
+2014;MONTANA;Chi...;LOW;MALE;Low Fat ;Active ;OBESE;29.3;3.7;1524;3;8.7;1.2
+2020;Nor...;Children ;Hig...;F3m@l3;BALANCED;Moderate ;normal;24.4;4;2605.6;0;9.5;5
+2023; Arizona;Adults;Low; Male;BALANCED;S3d3nt@ry;Normal ;26;7.7;2981.3;2;4;8
+NA; Wyoming;SENIORS;middle;Fem...; Balanced;S3d3nt@ry;Und3rw3ight;26;1;2470;1;6;7.1
+2008; Idaho;Ado...;Low;Mal...;Hig...; Active;Underweight ;23....;8;1670.8;1;1.9;6.7
+201...;Al@b@m@;CHILDREN;Middle ;male;High F@t;SEDENTARY;Obese ;26.1;10....;3444.9;2;2.8;9.2
+2012; Utah;Adu...;MIDDLE;Female ; Low Fat;NA;Underweight ;19....;9.7;2536;4;4.7;1.2
+200...;Cal...;Adu...;Hig...;male;low fat;MODERATE;underweight;24.5;7.7;272...;4;2.9;6
+200...;New...;Adults ;Middle ;female; Balanced; Active;UNDERWEIGHT;25....;16.8;1973.2;3;8.9;8.1
+2008;N3w J3rs3y;Adolescents ; Middle; Female;Balanced ;Active ;NA;NA;2.9;2467;4;2.4;5.9
+2023;Ken...;Chi...;high;M@l3;balanced;Sed...;NA;NA;10.1;2358.3;1;NA;3.9
+2000;Wes...;Seniors ;Mid...;female;Low F@t;Sed...;Underweight ;26.7;1.2;1649.8;2;6.5;2.2
+2011;W@shington;Seniors ;HIGH;female;Hig...;Active ;Und...;29.4;1.4;1712.3;1;7.2;9
+200...;Min...;adults;Hig...;Mal...;High F@t;Sedentary ;Obe...;31.4;11.5;317...;1;4.4;5.2
+202...;Iow@;ADOLESCENTS; Middle; Female; Balanced;SEDENTARY; Overweight;23.8;11....;1979.6;4;8.8;8.9
+2010;Or3gon;Adolescents ;Middle ;male;balanced; Sedentary;underweight;21;17.6;1889.9;2;NA;6.3
+2018;MASSACHUSETTS;adolescents; Low; Male;Balanced ;ACTIVE;Norm@l;21.8;11.2;2509.8;0;5;7.1
+201...;Indiana ;S3niors;High ; Male;balanced; Sedentary;obese;24....;19.2;3037.5;3;1.6;8.2
+2007; Alaska;ADULTS;low;M@l3; Low Fat;Active ;UNDERWEIGHT;25.2;1;1623.9;1;5.2;6.9
+2002;HAWAII;children;Middl3; Female;HIGH FAT;SEDENTARY;Und3rw3ight;23.2;2;265...;2;8.4;4.6
+200...;Rho...;SENIORS;low;Mal...;BALANCED;MODERATE;Nor...;20.5;0.9;1738.4;2;6.5;5.6
+2000; Pennsylvania;Adults ;Hig...;Male ; Low Fat;sedentary;Nor...;NA;3.7;1572.9;0;8.5;8.2
+2004;Nor...;Adults ;Low;Female ;B@l@nc3d;S3d3nt@ry; Obese;27.9;10....;1605.5;2;5.4;4.4
+2009;P3nnsylv@ni@;Childr3n; High;M@l3; Balanced;Activ3;obese;30;12.9;3168.3;5;2.1;4.5
+2006; Wyoming;children;MIDDLE;M@l3; High Fat;Activ3; Normal;24.2;0.9;1735.9;2;NA;1.9
+2008;Nor...;Childr3n; Middle; Female;Balanced ;Sed...;NA;24....;18....;159...;3;3.7;9.2
+2006;louisiana;adolescents;High; Female; High Fat;Moderate ;NORMAL;22.4;16.8;2375.8;0;7.3;1.8
+2008;New Jersey ;Children ;MIDDLE;F3m@l3;HIGH FAT;Sed...;Underweight ;26.8;5.9;3188;2;8.1;6.8
+2007;IOWA; Adults;MIDDLE;Female ;Hig...;SEDENTARY;Norm@l;NA;1.5;2024.8;1;3.7;4.7
+2011;nebraska;Children ;Mid...;Fem...;Low F@t;Mod3r@t3;normal;29.9;3.4;234...;3;5.5;NA
+2001;NORTH DAKOTA;Adults ; Middle;female;low fat;Activ3;OVERWEIGHT;18....;2.5;1579.8;2;4.8;7.1
+2000;Pen...;S3niors; High;Female ;HIGH FAT;Sed...;Normal ;25....;2.5;NA;1;4.7;1.6
+2015;North C@rolin@;Adol3sc3nts; Low; Male;balanced;active; Normal;28.5;10.4;265...;2;3.1;6.3
+2022;Mis...;Sen...;LOW;F3m@l3; High Fat;Active ;Ov3rw3ight;27.9;4.9;2641.8;1;2.2;7.9
+2022;Iow@;S3niors;MIDDLE;female;Bal...;MODERATE;NA;40.5;7.2;2164.9;2;2.8;8.5
+2023;new jersey;Adu...;LOW;F3m@l3;HIGH FAT;MODERATE;overweight;28....;19.8;213...;5;1.5;2.5
+2004; Tennessee;SENIORS;LOW;Mal...;B@l@nc3d;ACTIVE;underweight;22;13.7;1713.2;3;2.8;9.1
+2002;kentucky;Adults;Mid...;Mal...;Low Fat ; Sedentary;Overweight ;26.5;19;2233.6;4;1.1;6.9
+2011;Cal...;children;middle;Female ; Balanced;Act...;Und3rw3ight;18....;2.9;1699;2;6.6;8.9
+2007;new hampshire;CHILDREN;low;FEMALE;High F@t;Sedentary ;Obese ;26.6;7.6;3033.2;2;3.8;5.4
+202...; Arkansas;Adu...;high;FEMALE; Low Fat;S3d3nt@ry;Ove...;NA;11.1;3432.5;0;9.8;5.9
+2002;GEORGIA;Chi...; Middle;NA;NA;moderate;OVERWEIGHT;31.6;1.5;3440.1;2;2.7;9.3
+2000;NA;ADOLESCENTS;HIGH;M@l3;Balanced ;S3d3nt@ry; Obese;24.3;0.1;323...;1;4.1;9.1
+2002;Georgia ;NA;Low;female; Balanced;S3d3nt@ry;NA;26.4;13.4;2701.6;1;4.2;NA
+2004;K3ntucky;adolescents;Middl3;MALE;BALANCED;NA;Ove...;23....;12.8;2901.7;2;1.1;NA
+201...; Maryland;S3niors;NA;FEMALE;Balanced ;Mod3r@t3;UNDERWEIGHT;35.7;8.2;2070.4;3;8.6;4.5
+2013;NA;Childr3n;Middle ;male;Low F@t;sedentary;overweight;25.4;9.8;2761.5;1;1.3;4.5
+200...; California;Ado...;Low;Mal...; Low Fat;SEDENTARY;NORMAL;36.2;8.3;2411.3;2;9.5;3.6
+2000;North Dakota ;CHILDREN;Hig...; Female;Low...;moderate;Ove...;31.1;0.5;2464;NA;9;3.4
+2004; Colorado;Sen...;Low;FEMALE; Low Fat; Active;Ob3s3;29.4;6.7;301...;2;5.8;8.7
+2022;Al@sk@;ADULTS;low; Female; High Fat;MODERATE;Obe...;NA;3.5;2063.8;1;5.9;1.6
+NA;ILLINOIS;adults; Middle; Female;Low Fat ;Mod3r@t3;Und...;29....;2;2136.1;1;6.9;7.1
+200...;NA;adolescents;HIGH;male;balanced; Sedentary;Overweight ;17....;19.1;3349.3;3;4.5;2.6
+2008;T3x@s; Children;Low ;Mal...;BALANCED;sedentary;UNDERWEIGHT;25.6;12;1612.4;3;6.8;4.1
+2014;west virginia;Chi...;LOW;Mal...; Low Fat;Activ3;Underweight ;31.2;14.6;2471.3;1;1.4;1.6
+2014;Haw...;Adol3sc3nts;HIGH;Fem...;BALANCED;Sed...;normal;26.8;6.3;3325.6;0;1.5;3.4
+2009;WASHINGTON;Adults ;LOW;male;Low Fat ; Sedentary; Normal;20....;7.9;2720.7;3;5.1;7.9
+2012;Min...;seniors;Low ;FEMALE; Balanced;Moderate ;Obe...;26....;4.7;2592.8;3;5.9;9
+2018;K@ns@s;Adolescents ;Hig...;MALE;high fat; Sedentary;UNDERWEIGHT;35.5;NA;1999.5;3;9;3
+2006; New Mexico;SENIORS;High ; Female;HIGH FAT;active;obese;33.2;NA;2186.6;0;1.9;5.2
+2016;Hawaii ;Adults ;high;F3m@l3;Low Fat ;moderate;Ove...;26.7;16;3204.1;0;8.4;5.2
+2019;KANSAS; Children;High ;Mal...;Low...;Activ3;Und3rw3ight;31.8;13.6;2618.4;0;2.9;8.9
+NA;DELAWARE;ADULTS;Middl3; Female;Low...;Moderate ; Underweight;25.2;10.9;252...;4;4.5;7.9
+2004;NA; Adolescents;High;female;Bal...;SEDENTARY;Ov3rw3ight;18.5;NA;1699.2;1;3.8;5.6
+2022;South C@rolin@;NA;middle;Male ;Low Fat ;moderate;Overweight ;22....;18.4;1532.1;3;4.6;7
+2006; Arkansas;Adolescents ;Middl3;female;high fat;Moderate ;Obese ;34....;1.5;3427.4;0;2.4;8.6
+2012;missouri;ADOLESCENTS; Middle;Female ;B@l@nc3d;Sedentary ;Obese ;25.6;5.6;2254;0;5.5;1.1
+NA;Arizona ;adults;Low;Fem...;Low F@t;Sedentary ;OVERWEIGHT;25.8;7;2706.4;4;8.2;4.6
+2010;N3w York;Adolescents ;MIDDLE; Male;B@l@nc3d; Active;OBESE;25....;15....;1659.4;1;5;9.2
+2003;Ari...;adults; Middle;Mal...; Balanced;Activ3; Overweight;36.5;19.9;2866.2;2;NA;7.7
+2012; Nebraska;Chi...;low;female; Low Fat; Sedentary;UNDERWEIGHT;35.1;4.8;3365.1;4;8.6;5.9
+NA; New Hampshire;Adu...;low;M@l3;Bal...;sedentary; Underweight;38.1;17.5;2651.3;1;7.4;5.8
+2018;new york;CHILDREN;Low ;F3m@l3;High Fat ; Sedentary;normal;26.2;16.6;1752.2;0;5.4;4.1
+2021;WYOMING;ADULTS;High;Female ; High Fat;moderate;Und3rw3ight;28.5;NA;266...;NA;NA;5.7
+2001;Maine ;SENIORS;low;F3m@l3;B@l@nc3d;Moderate ; Overweight;19.4;8;3032.7;2;9;6.9
+2009;massachusetts;SENIORS; Low; Female;Low F@t;NA;Ob3s3;34.4;8.2;2312.8;1;6.2;4.8
+2012;CALIFORNIA; Adolescents;Middl3;FEMALE;B@l@nc3d;Sedentary ;NORMAL;21.2;19.6;3259.7;1;3;7.4
+2020;LOUISIANA;ADULTS;LOW;Mal...;high fat; Active; Obese;28.1;3.6;2797.4;1;3.4;8.8
+2005;nevada;Adults;high;FEMALE;Balanced ;Sedentary ;Ove...;21.5;16;3298.5;3;8.2;2.4
+2011;TENNESSEE;Chi...;LOW;Mal...;BALANCED;Mod...; Underweight;24.1;6.7;2747;1;1.4;5.1
+2011;michigan; Adolescents;Hig...;Mal...;HIGH FAT;MODERATE;Nor...;22.8;14.6;176...;1;9.9;4.7
+201...; Massachusetts;Adu...; Low;F3m@l3;B@l@nc3d;Sed...;Overweight ;NA;8.4;2119.4;3;2.2;7.2
+201...;Colorado ;Adolescents ;Low;Female ;Balanced ;S3d3nt@ry;Nor...;24.3;11.6;1903.6;1;8.2;3.2
+2022;alabama;Seniors ;low;MALE; Low Fat;MODERATE;NA;24.3;16.7;3317.7;2;4.6;6.8
+200...;Cal...; Adults;Low;M@l3;LOW FAT; Moderate;Underweight ;31.2;16.1;3020.8;0;5.4;8.9
+200...; South Dakota; Adults;High ; Male; High Fat; Moderate;OVERWEIGHT;21.5;17.3;2852.8;1;8.9;4.8
+2000;Id@ho;Adolescents ;High;Female ;high fat;Sedentary ; Obese;28.1;1.2;2101.9;3;4.7;9.2
+2019; Montana;Adults;Mid...;MALE;High Fat ;MODERATE; Normal;33....;13.8;1868.1;1;5.8;9.9
+2012;virginia;ADOLESCENTS; High;female;LOW FAT; Moderate;NORMAL;24.4;2.8;3012.9;NA;1.4;2
+200...;North Dakota ; Adults; Low;Fem...;Hig...;Act...;NA;23.4;8.3;2448.3;2;1;3.1
+2002;Wisconsin;Childr3n;Mid...;FEMALE;high fat;sedentary;OVERWEIGHT;25.8;11;1951.6;0;3.2;9.6
+2006;Indi@n@;ADOLESCENTS;Middl3;MALE; High Fat;active;normal;32.9;NA;2733.2;4;7.1;9.6
+2005;montana;adults;Middl3;Female ;Low Fat ;active;NORMAL;28;10.4;1580.7;2;2.1;1.9
+2007;Ver...; Seniors;Low;FEMALE;Bal...;MODERATE; Normal;24.3;19....;2152.3;1;2;1.1
+2008; Nebraska;ADULTS;high;Fem...;high fat;sedentary;overweight;29.4;2.7;2437.1;1;4.7;2.4
+2004;florida;Sen...;Low; Female;B@l@nc3d;Mod...; Overweight;21.5;13.5;179...;2;6.8;10
+2000;Mont@n@;seniors;Middle ;Female ;Hig...;SEDENTARY; Obese;30.4;7.9;3469.3;1;NA;2.6
+2018;Was...;CHILDREN;Low ;Mal...;Bal...; Active;overweight;29;2.7;1918.2;2;2.6;5.5
+2009;Michigan ; Adolescents;Low ;Female ; Low Fat;Sedentary ;Ove...;25.5;3.2;1760.7;2;1.7;8.6
+2011;washington;adults;high;FEMALE;Low...; Moderate;Und3rw3ight;22.8;19;1907.1;1;9.5;1.2
+2023; New Jersey;CHILDREN;HIGH;male;High Fat ; Moderate;obese;22.6;17.6;3038.1;1;3.3;6.4
+2014; Texas;Adu...;Mid...;Female ;B@l@nc3d;moderate;Nor...;29.7;18.1;2351;5;8.7;3.5
+2021;west virginia;Seniors ;low;MALE;low fat;Sed...;Ove...;33.1;19.8;2630.8;1;8.8;8.8
+2023;Ken...;Adolescents ;low;female;High Fat ;Active ;normal;23.8;4.2;1542;6;8;3.6
+2008;MONTANA;ADULTS;HIGH;Mal...; High Fat;Act...; Normal;29....;7.1;1568.9;4;2.5;7.2
+2019;oklahoma;ADULTS;Low; Male;LOW FAT;sedentary;Underweight ;16.6;13.4;2391.7;2;8.4;7.1
+201...; Alabama; Seniors;Low ;Fem...;Low Fat ; Moderate;Ov3rw3ight;24.1;9.7;3133.3;1;7.9;3
+2016;Del...;adults;Low;female;High Fat ;ACTIVE;OBESE;26....;8.4;3270.5;1;6.4;1.3
+2019;Wisconsin ; Adults; High;Female ;Balanced ;Mod3r@t3;OVERWEIGHT;22.5;7.2;1673.4;3;4;4.7
+2011;Ohi...;Sen...;Mid...;Mal...;Balanced ;Sed...; Normal;22.3;11.9;2576.7;2;3.4;3.6
+2006;Iow...;children;MIDDLE; Male;NA;MODERATE;OBESE;23.7;11.5;3326.5;1;2.1;8.3
+2001;washington;Sen...;Low;M@l3;HIGH FAT;Act...; Overweight;28.5;3.2;2275.9;4;5.6;8.2
+2002;Michigan ; Children;MIDDLE;NA; Low Fat;active; Normal;26.1;9.4;3159.1;2;6.3;5.1
+2016; Indiana; Adolescents;High;Mal...;Hig...;moderate;normal;15.8;11.1;1767.4;1;4.2;6.5
+2004;Mont@n@;CHILDREN;High ;MALE;Low...; Sedentary;Underweight ;16....;11.4;3370.8;3;5.3;6.4
+2016;N3v@d@;children;Middl3;Fem...; Balanced;Mod3r@t3;underweight;24;4.2;300...;2;4.3;8.4
+2023; Minnesota;Adol3sc3nts;middle;Mal...;Balanced ;Sed...;Underweight ;29.3;14.8;3382.7;4;6.8;4.8
+2016;INDIANA; Children;Low ;M@l3; Low Fat;moderate;normal;13....;0.5;2853.2;4;9.1;3.5
+2016;Mississippi ; Seniors;Mid...;FEMALE;Low...;Active ;Ov3rw3ight;24.5;7.1;2226.8;1;2.5;3.4
+200...;Al@sk@;Chi...;Low;Mal...; High Fat;Sedentary ;Underweight ;24.4;15.6;3376.4;4;4.4;5.8
+2001;VERMONT;ADOLESCENTS;low;Female ; Balanced;Sed...;OVERWEIGHT;33.9;11.3;2051.1;0;2.3;5
+202...; Montana; Seniors;Hig...;FEMALE;Hig...; Sedentary;Underweight ;25.1;5.2;2164.3;3;6.6;5
+2022;Indiana ; Adolescents; High;female;high fat;active;Obe...;28.9;13.9;2901.6;3;7.6;1.8
+2004;Conn3cticut;Adolescents ;High ;Female ;high fat;Moderate ;NA;27....;11.3;3030.6;2;9.4;7.5
+2000; Arizona;Adults ;HIGH;female;Bal...;ACTIVE;underweight;16....;15.9;3358.8;3;3.5;2.9
+2000;Washington ;Adu...;Mid...;MALE;high fat; Sedentary;Normal ;30.8;14.7;1909.6;1;9.6;2.8
+2018;minnesota;adolescents;HIGH;male;High F@t; Moderate;UNDERWEIGHT;28.1;12.2;3096;4;1.6;4.7
+200...;Vir...;adolescents;Middl3;female;High Fat ;ACTIVE;Und...;29.5;9.8;2977.1;NA;6.4;3.1
+2020;TEXAS; Adolescents; High;FEMALE;Hig...;S3d3nt@ry;NORMAL;46....;2.7;1627.6;0;1.5;6.3
+2011;Was...; Adults;MIDDLE;MALE;Hig...; Sedentary;Obese ;16.6;5.2;2274.4;NA;9;4.3
+200...;vermont;Adults; Low;Female ;high fat;active; Overweight;35....;8.4;2065.5;1;5.8;5
+NA; Louisiana;Childr3n;Mid...;Female ;Balanced ; Active; Underweight;25.6;12....;2109;0;7;5.8
+2003;PENNSYLVANIA; Children;MIDDLE;F3m@l3;High Fat ;active; Normal;28.4;10.3;3465.9;3;8.5;2.8
+2022; Ohio;Adol3sc3nts;high;MALE;Low Fat ; Sedentary; Underweight;26.8;5.8;2785.6;1;2.4;2.4
+201...;Iow...;Sen...;Middl3;MALE; High Fat;Active ;normal;24.9;0.1;293...;1;1.3;8.9
+2023;MISSOURI;SENIORS;low;F3m@l3;high fat;Sedentary ;Overweight ;24.2;9.9;3453.2;1;8.9;4.9
+2016;OREGON;Adults;Low;female;B@l@nc3d;Activ3; Overweight;28.6;5.7;2254.4;4;3.8;4.7
+2005;nevada;NA;high;Male ; Balanced; Sedentary;Ob3s3;19.4;NA;3103.7;3;2.2;1.3
+2023;GEORGIA;Adults; Low;male;low fat;SEDENTARY;Norm@l;30.8;0.5;236...;0;5.2;5.5
+2004;Rhode Island ; Adolescents;Mid...;F3m@l3; Low Fat; Moderate; Normal;24.9;11.7;3239.1;NA;6.4;6
+2019;Kentucky ;Sen...; Low;FEMALE; Balanced;Active ;OBESE;21.3;18.8;1861.3;4;1.3;6
+2001;Rhode Island ;Chi...;NA;Mal...; Balanced;ACTIVE;Obe...;24.7;3.5;3395.4;2;3.5;7.4
+200...;Michigan ;ADOLESCENTS;Middl3;Mal...;Hig...;Sed...;Norm@l;33....;9.4;193...;1;1.3;2.6
+202...;Mon...;Childr3n;Hig...;Mal...; Balanced;S3d3nt@ry;obese;24....;1.8;215...;2;4.8;3.3
+2010; Utah;Chi...;middle; Female;Low F@t;Sedentary ; Overweight;28.8;12.5;3012.4;1;9.1;8.3
+2015;MISSOURI;adolescents;Low;M@l3; High Fat; Moderate;Und...;23....;11;228...;3;9.8;9.5
+201...;Ken...;CHILDREN;HIGH;FEMALE; Low Fat;MODERATE;OVERWEIGHT;30.8;8.1;271...;3;6.7;2.2
+2000;Illinois;Seniors ; High;male;high fat; Sedentary;Obese ;30.4;10....;2389.1;6;2.5;5.5
+2008;Mar...;CHILDREN;MIDDLE;Mal...;Bal...; Active;Norm@l;36....;17....;298...;1;9.2;2.9
+2005;missouri;Sen...;Hig...;M@l3;Low Fat ;Act...;normal;26.1;3.9;1956.7;3;5.6;1.5
+2015;Ark...;Seniors ; Middle;Mal...;Hig...; Moderate;Ov3rw3ight;30.3;0.5;161...;1;2.4;3.9
+2002;Geo...;S3niors;MIDDLE;Fem...;Hig...;Moderate ;NORMAL;27.5;17.2;2099.9;4;9.3;2.3
+2019;ARIZONA; Adults;middle;female;B@l@nc3d;S3d3nt@ry;OBESE;33.5;11.5;2448.6;2;7.8;7.4
+2003;SOUTH DAKOTA;Childr3n;Middle ;Male ;BALANCED;ACTIVE;Overweight ;23....;17.8;1836;3;7.6;5.8
+201...;VERMONT;Adol3sc3nts;LOW;Female ;balanced;SEDENTARY;normal;30.7;11.9;2209.6;1;7.4;2.3
+2002;Louisi@n@;ADOLESCENTS;middle;MALE;Low F@t;Mod...;Und...;26;16.2;2300;2;2.8;1.1
+201...;W@shington;Chi...;NA;MALE; High Fat;Active ;UNDERWEIGHT;26.7;8.6;1614.8;2;2.9;8.3
+2019;Okl...;Adults;LOW; Male;B@l@nc3d;Activ3;OBESE;27.5;15;2666.6;2;7.2;2.6
+2006;Washington ;NA;high; Male;Low Fat ;moderate;Nor...;28....;18....;3268.7;1;3;6.5
+2019;michigan;Sen...;Low ;FEMALE;LOW FAT;Sed...;Ob3s3;26.4;11.4;1803.5;4;4.9;4
+2008;North D@kot@;Childr3n;Mid...;M@l3;Low Fat ; Sedentary;overweight;28....;3.6;2695.6;1;8;6.3
+2000;Was...;Children ;Low;M@l3;B@l@nc3d;Activ3;underweight;34....;5.4;2829.5;1;8.1;3.8
+2007;DELAWARE;Ado...;Low;female;B@l@nc3d;Mod3r@t3;OVERWEIGHT;31.9;4;233...;2;5.1;1.8
+2006;Sou...;CHILDREN;high;MALE; High Fat;Act...;Normal ;31.3;4.9;2902.2;2;8.1;3
+2017;wisconsin; Adults;High;Mal...;high fat;moderate;Ob3s3;24.7;6.1;232...;5;8.5;2.7
+2007;Uta...; Children;MIDDLE;Mal...;Balanced ;S3d3nt@ry;Obe...;22.6;NA;2509.3;0;6.9;4.9
+2000;maine;adolescents;Low ;Female ;Low F@t;MODERATE; Obese;31.8;11....;1514.7;0;3.1;6.9
+201...;Tennessee ;seniors;Low ;M@l3;Low F@t;SEDENTARY;OVERWEIGHT;31.4;8.5;2883.4;2;3.5;3.4
+2017; South Dakota;Adol3sc3nts;Low ; Female;Low...; Moderate;UNDERWEIGHT;34.4;12....;282...;1;3.8;1.1
+2022;OREGON;Ado...; Middle;Male ;Hig...;ACTIVE;Ove...;24;1.6;1576.8;4;2.1;5.7
+2009;Col...;Seniors ; Middle; Male;Low F@t;SEDENTARY;Ov3rw3ight;25.9;NA;2236.5;4;3.5;6.5
+2002;Mont@n@;Adolescents ;NA;F3m@l3;high fat;Act...;normal;18.8;3.4;3458.1;2;2.9;9.7
+2006; North Dakota;adolescents;MIDDLE;MALE; High Fat;Activ3; Normal;25....;10....;2341.5;1;NA;6.3
+2015;VERMONT;Childr3n;Middl3;Mal...;LOW FAT;S3d3nt@ry;NORMAL;32;4.3;2503.9;1;9.2;5.2
+2015;colorado;children;High ;NA;LOW FAT;sedentary;NA;24.7;5.7;3319.9;4;1.9;6.2
+2019;oregon;seniors;LOW;FEMALE;B@l@nc3d;ACTIVE;underweight;30.2;8;293...;1;NA;9.4
+2016;North Carolina ;Children ;NA;female;B@l@nc3d;Activ3;Norm@l;26....;16....;2664.1;NA;7.2;8.5
+2001;Mic...;Children ;LOW;female;LOW FAT; Active;NORMAL;28.6;0.3;3095.6;0;1.9;3.9
+200...;massachusetts;Adol3sc3nts;Low;Female ;High F@t; Active;UNDERWEIGHT;21.3;13;3228.7;1;9.3;3.1
+2015;Colorado ;Adu...;Low;Male ;High F@t; Sedentary;obese;27.4;13.4;2413.8;3;6.1;3.4
+2011; Colorado;Chi...;Low; Female;high fat;S3d3nt@ry;UNDERWEIGHT;12;16;2450.2;NA;4.3;5.5
+200...;Wes...;Adults;low; Male;HIGH FAT; Active;underweight;26.1;18.7;2272.1;3;7.8;7.7
+2004;ARKANSAS;Childr3n;low; Male; High Fat;Moderate ;Und3rw3ight;18.8;0.4;3433.4;2;3.3;5.5
+2022;New...;Children ;High; Male;BALANCED;MODERATE;NORMAL;33;3.1;289...;2;7.2;1.6
+2008;Hawaii ;SENIORS;LOW;FEMALE;Low Fat ;SEDENTARY;Obese ;30.9;17.7;1666.4;1;1.4;7.5
+2008;New Jersey ;NA;Hig...;FEMALE;Bal...; Active;UNDERWEIGHT;29....;9.2;322...;2;8.6;8.3
+2002;NEW MEXICO;Sen...;middle;M@l3;Hig...;Act...; Normal;34.6;11.3;2461.1;0;5;3.6
+2018;Mississippi;adults;LOW;FEMALE; High Fat;sedentary;Ov3rw3ight;22.3;13....;163...;1;6.7;7
+2015; Florida;Adol3sc3nts;Middle ;Female ;High Fat ;NA;Ove...;35.7;13.6;2599.4;0;3;4.8
+2015; Arizona;Childr3n;Middl3;FEMALE;High F@t;Mod3r@t3;Und3rw3ight;31.7;18.6;2334.3;5;7.1;9
+2002;New Mexico ;Chi...;Middle ;Female ;Low...;MODERATE;Overweight ;25.8;19.9;3255.5;4;8;8.6
+2019;South C@rolin@;Childr3n;High ;M@l3;Hig...;S3d3nt@ry; Obese;32.7;14.4;1908;3;5.3;5.7
+2023;OREGON;Adults;Middl3;MALE;Low Fat ;Mod...; Overweight;21.5;5.7;3152.9;1;6.6;7.2
+2021;Okl...;Seniors ;MIDDLE;Fem...;NA;S3d3nt@ry;Ove...;22.9;17....;2615.4;2;NA;9
+2023;Mississippi;Adol3sc3nts;Mid...;NA;Low F@t; Sedentary; Obese;24;1;1609.2;1;9;5.5
+2000;N3w M3xico;adults;Low;female;BALANCED;active;Und3rw3ight;24.4;NA;3443.7;4;5.5;3.8
+NA;Color@do; Seniors;Low;NA;high fat;moderate; Underweight;21.7;17....;2525.2;1;8.6;7.8
+2019;alaska; Adults;High ; Male;Low Fat ;Sed...;Obe...;33.1;5.1;NA;0;8.2;3
+2010;maryland; Adolescents;high;Mal...;B@l@nc3d;Moderate ;OBESE;25.7;4.4;2438.8;3;4.7;4.5
+201...;Nevada ;SENIORS;Low;MALE;high fat;Moderate ;Obese ;28.8;2.8;3215.7;1;3.1;8.8
+2007;Haw...;adults;High;FEMALE;Hig...;ACTIVE;Overweight ;24.1;17.2;2109.8;3;4.7;7.5
+2003;Ark@ns@s;adolescents;Low;male;High Fat ;moderate;obese;17.9;10;1885.4;0;8.4;4.6
+2005;Iow...;Childr3n;Middl3;FEMALE;Low F@t;active;Normal ;28....;13.5;1758.1;2;3;2.9
+2007;Col...;ADOLESCENTS;Middl3;male;low fat;Sedentary ;Ov3rw3ight;17.4;4.8;209...;2;5.7;4.2
+2019;wisconsin;children; High; Male;Bal...;Moderate ;Underweight ;26....;15.2;3060.1;1;8.3;3.6
+2002;new jersey;ADULTS;Low ;F3m@l3;low fat; Sedentary;UNDERWEIGHT;20.2;15.2;2443.3;3;4.2;2.6
+2015;P3nnsylv@ni@;Sen...;Low ;NA;Low F@t;Mod3r@t3;Und3rw3ight;36.9;6.3;1955;3;6.8;7.7
+2002;Ala...;S3niors;HIGH;FEMALE;high fat;Sed...;OVERWEIGHT;31.6;NA;183...;1;3.2;3.3
+2017;IOWA; Adults; Low;Fem...;high fat;MODERATE;Norm@l;27.5;4.2;2165.5;1;2;5.1
+2013;H@w@ii;seniors;middle;Fem...;HIGH FAT;MODERATE;obese;33....;19.5;3379.8;3;8.1;4.5
+2017;DELAWARE; Seniors; High;Female ;HIGH FAT;Mod...;obese;22.8;12.9;2186.1;1;1.9;9.8
+2001;Mon...;Children ;Hig...;Female ;high fat;moderate;Underweight ;29....;18.7;347...;0;3.4;4.5
+2021;Ver...;ADULTS;Low;Fem...;high fat;moderate;Und...;28;6.1;2470.5;1;8.7;1.7
+2002; Utah; Adolescents; High;male;Hig...;moderate;Ov3rw3ight;28.3;15.6;1858.3;3;4.1;1.8
+2015;california; Children;Low;Fem...;Balanced ;Mod3r@t3; Normal;33.4;15.3;3282.3;4;9.8;6.3
+2008;COLORADO;Adults ;LOW;female; Balanced; Moderate;OBESE;30.7;13.8;2420.7;2;9.8;6.4
+2003; Montana;NA;low;MALE;Balanced ; Moderate;OVERWEIGHT;28.4;19.3;2919.3;0;3.4;4.8
+2000;Ark@ns@s;ADOLESCENTS; Low;Fem...;Balanced ;Sedentary ;Ob3s3;18....;7.9;346...;2;1.4;4.9
+2003;maine;ADOLESCENTS;Low; Male;HIGH FAT; Active;Und...;22.2;2.6;1600.4;1;7.3;1.5
+2000; Maryland;Adu...;High;M@l3;BALANCED;MODERATE;Obe...;26.4;13....;1693.4;3;5.1;5.6
+2013;north carolina;ADOLESCENTS;NA;F3m@l3;High F@t;Activ3;normal;27....;14.6;2940.9;2;1.9;5.5
+2020;Mar...;Childr3n;Middl3;Mal...;Bal...;moderate; Normal;21.3;11.5;2063.7;2;7.4;2.3
+2015;WISCONSIN;Adolescents ;High;FEMALE;Low F@t;MODERATE;Und3rw3ight;39.1;4.1;1868.6;2;1.3;1.9
+201...; Idaho;children;High; Male;B@l@nc3d;SEDENTARY;Normal ;34.6;10....;1578.7;0;8.8;2.1
+2023;WASHINGTON; Children;Middle ;male;Bal...;S3d3nt@ry;normal;30....;6.2;1543.7;3;2.2;1.9
+200...;alabama;Adol3sc3nts; Middle;M@l3;High Fat ;ACTIVE;OVERWEIGHT;27.4;8.5;3049;2;2.1;6.5
+2006; Montana;Adults ;middle;Fem...;BALANCED;SEDENTARY;obese;25.9;12.9;1768.9;0;2.6;2.8
+2002;INDIANA;Sen...;Mid...;F3m@l3;NA;S3d3nt@ry;Und3rw3ight;22.2;14.9;243...;2;9.6;3.3
+201...; Pennsylvania;Ado...; Middle;M@l3; High Fat; Active;Und...;27....;4.6;2711.8;2;7.2;2.6
+2000; Oregon;Chi...;LOW; Male; High Fat;SEDENTARY; Underweight;28....;8.1;235...;2;8.2;9.6
+2015;H@w@ii;Children ; High; Female; Balanced;moderate;Und...;20.8;5.4;1554.2;2;4.6;8.7
+2011;Okl@hom@;ADOLESCENTS;low;FEMALE;Hig...;Activ3; Underweight;28.7;4;3067;3;4;3.1
+2018; Illinois;ADULTS; Middle; Male;Hig...;active;normal;26.2;15.7;1521;1;3.1;3.9
+2021;TEXAS;Adu...;Middle ;male;high fat;MODERATE;Ov3rw3ight;17....;18.2;3023.8;2;5.3;2.9
+2022;Ari...;Chi...;Middl3; Female; High Fat;Sedentary ;underweight;22.7;7.4;3286.6;2;6;5.4
+202...; North Carolina;Chi...;LOW;Fem...;high fat;Active ;Overweight ;24.9;15;2365.7;3;6.7;1.2
+2013;Col...;ADULTS; Low;FEMALE;High Fat ; Active;overweight;36....;17.9;2571.1;2;3.3;7
+200...;Wyo...;SENIORS;middle;Female ;Low F@t;Mod...;Normal ;NA;16.9;2454;4;9.5;5.7
+2005;GEORGIA;Adolescents ;Low ;Female ;Balanced ; Moderate;Und3rw3ight;20.3;3.7;2278.4;2;2.5;9.1
+2012; California;CHILDREN;Low;male;Low...; Sedentary;Normal ;29.4;19.1;3274.8;1;9.7;2.5
+2018;minnesota;CHILDREN;Middle ; Female;high fat;ACTIVE;Und3rw3ight;19.3;7.5;3287.9;1;1.1;8.2
+2021; Georgia;ADULTS; Low;Male ;High Fat ;Sedentary ;Normal ;32.4;6.8;2171.6;0;5.3;8.1
+2007;Uta...; Adolescents;HIGH; Female;balanced;Sedentary ; Overweight;24....;1.2;2730.1;2;4;2.1
+200...;Ala...;ADULTS;High; Male;Low F@t;Mod...;Und...;26.5;9.7;3353.8;4;5;4.6
+2020;Illinois ;Ado...;NA;female;BALANCED; Active;obese;33.6;2.2;3424.1;1;6.1;2.5
+2000; South Carolina;Adol3sc3nts;High; Female;LOW FAT;Activ3;Ov3rw3ight;20.6;5;2517.9;0;4.9;3.3
+2014;Alaska ;Adolescents ;Middle ;MALE; High Fat;active;OBESE;20....;6.3;2405.6;2;4.7;3.4
+2000;maryland;Childr3n;middle;M@l3;Bal...;MODERATE; Overweight;24....;16.2;205...;0;7.6;6
+2004;Al@b@m@;Sen...;Middl3;F3m@l3;Bal...;moderate;Normal ;32.2;17.5;3417.7;0;7.2;NA
+2015;Oregon ;Adults;Hig...;NA;HIGH FAT;Mod...;Und3rw3ight;19.4;6;1785.6;3;8.5;9.5
+2018;Florida ;Seniors ;High ;Fem...; Balanced;Mod...;OVERWEIGHT;12.8;17.2;2659.7;2;3.2;2.1
+2003;Ken...;Adults;low; Female;LOW FAT;moderate;Norm@l;24.7;17.1;2065.1;3;6.5;9.8
+2002;Flo...;adolescents;low; Female; Low Fat;Activ3;Und...;29.8;15.3;2058;1;6.3;3.1
+2016;HAWAII;Chi...; High;male; Low Fat;Sed...;underweight;33;2.9;2309.9;1;4.3;8
+2016;IOWA; Seniors;high;male; Low Fat;ACTIVE;overweight;24.7;13.8;3497.6;2;5.4;4.1
+2011;NA;Chi...;HIGH;female; High Fat;sedentary;UNDERWEIGHT;24.9;18....;1609.9;4;3.8;2.3
+2013;Pen...;Adu...;high;M@l3;BALANCED;NA;Overweight ;32.8;13.7;2657.1;3;2.3;8.7
+2020;Ohio;CHILDREN;Low;MALE;Low F@t;Sed...;Underweight ;17.7;6.6;1665.1;1;2.9;3.8
+2005;NEW JERSEY;children;Hig...; Male;high fat;Active ;OBESE;25....;10;180...;4;1.9;6.9
+2002;NEW MEXICO;NA; Low;female;B@l@nc3d;active;Norm@l;28;12.9;2379.1;1;7.1;6.1
+NA;wisconsin;Adol3sc3nts;High ;male; Balanced;Sed...; Obese;29.2;10.2;2520.9;3;6.9;NA
+200...;california;Childr3n;Hig...;F3m@l3;Hig...;Moderate ;OVERWEIGHT;24.5;2.4;2017.6;1;9.6;5.5
+2023;Utah ;adolescents;High;Male ;High F@t;moderate;OBESE;27....;6.2;2132.9;1;7.6;7.6
+201...;Wyo...; Adults; Low; Female;Low F@t;Act...;Overweight ;14.6;16....;1673.9;2;1.5;1.8
+2013; Indiana;Children ;Low;M@l3;BALANCED;Sedentary ;Und3rw3ight;23.7;17.2;2106.4;3;9;7
+2020;HAWAII;Sen...; Middle; Female;B@l@nc3d; Moderate;Und3rw3ight;29.3;2.7;3433.1;1;8.8;9.1
+200...;Flo...;Adu...;High ;female;HIGH FAT;Mod...;Overweight ;22.1;19;3389.4;3;5;1.5
+200...;North D@kot@;NA; Middle;Male ;Bal...;ACTIVE; Obese;27.3;6.6;2169.8;2;6.3;2.3
+2019;Idaho ;Seniors ;Mid...;female;Low Fat ;Mod...;Und3rw3ight;29.2;13.2;NA;NA;9.8;7.4
+2020;Ohio;CHILDREN;LOW;Fem...;BALANCED;sedentary;Nor...;25.3;15;NA;2;NA;4.9
+2022;Ohio;children; Low;F3m@l3;Hig...;Activ3;Und...;27....;16.2;1512.4;0;9.1;4.6
+2000;Alabama ;Adu...;Middle ;FEMALE;High Fat ;ACTIVE;NORMAL;22.2;18....;NA;5;NA;2.2
+2002;SOUTH CAROLINA;CHILDREN;NA;FEMALE;Low Fat ;sedentary;OBESE;26....;6.3;3396.7;2;2.7;5.6
+2017;MICHIGAN;Adolescents ;Low ;F3m@l3;low fat;NA;Nor...;30.1;17....;NA;2;5;2.1
+2009;new hampshire;seniors;Hig...;NA; Balanced;MODERATE; Normal;27.8;2.6;1822.9;0;6.3;5.3
+2021; Delaware;adolescents;NA;female;B@l@nc3d;Mod...;Nor...;24....;14.1;342...;4;8.3;7.9
+2002;HAWAII;Chi...;MIDDLE;Male ;High Fat ;sedentary;Normal ;28.1;14.8;2575.1;1;9.9;3.3
+2007;SOUTH DAKOTA;Adu...;Mid...;Male ;Low F@t;Mod3r@t3; Underweight;30.6;13.6;152...;1;4.5;5.3
+201...;Or3gon;Sen...; Middle; Female;Low F@t;S3d3nt@ry; Normal;16.8;5;201...;5;1.4;9.9
+2023;Indi@n@;Chi...;MIDDLE;F3m@l3;Low F@t;NA;UNDERWEIGHT;32.8;17.5;2399.9;0;8.2;7.2
+2017; New Jersey; Children;LOW;Mal...;BALANCED;moderate;Normal ;25.3;3.4;2885.8;2;6.4;8.6
+2014; Ohio;ADULTS;Low ;M@l3;low fat; Sedentary;overweight;29.1;1.1;2966.3;1;2.8;4.7
+2021;M@ss@chus3tts;adults;Mid...;male; High Fat;Mod3r@t3;OBESE;33....;14.3;349...;3;5.5;7.9
+NA;oregon;adolescents;LOW;Fem...;High Fat ;Activ3;Norm@l;20.1;9.5;2075;2;7.7;1.4
+2001;Cal...;seniors;Middle ;Mal...;Balanced ;Act...;Ov3rw3ight;23.5;17;2576.4;5;7.9;2.1
+2009; Maine; Seniors;high;female;B@l@nc3d;Sed...;Norm@l;25.6;7.7;256...;3;5.5;2.8
+2001;Indi@n@;Adu...;High ;female;low fat; Moderate;Nor...;23....;3.4;231...;NA;3.7;4.6
+201...;MONTANA;Adol3sc3nts;Hig...;M@l3; Balanced;moderate;NORMAL;35....;16.7;1838.3;2;9.8;8.6
+2007; Arkansas;Sen...;Middl3;FEMALE;High F@t;Act...; Overweight;22.7;11;3454.9;1;7;NA
+200...;Missouri;adults;HIGH;Fem...; Low Fat;Act...;OBESE;24.2;3.8;3206.6;0;4.7;NA
+2008;Vermont ;Childr3n;LOW;NA;Hig...;MODERATE;Ov3rw3ight;28;14.4;249...;1;3.5;7.4
+2010; Tennessee;SENIORS; High;F3m@l3; Low Fat; Sedentary;Obe...;21;10.2;2706.5;3;7.6;6.3
+2021;Missouri ;Ado...;HIGH;Mal...;BALANCED;Active ;NORMAL;25;NA;1954.5;1;3.2;4.2
+2015;louisiana;adolescents;High ;Mal...;Low F@t; Sedentary;Und3rw3ight;28.6;9.2;2587.6;NA;2.5;NA
+2006;South Carolina ;Adolescents ;Low;Female ; Low Fat;SEDENTARY;Norm@l;25.3;16.6;2889.9;0;5.8;4.1
+200...;delaware;Chi...;Mid...;Fem...;NA;ACTIVE;Obe...;26.5;16.6;2530.3;2;3.6;1.8
+2022;Rhod3 Isl@nd;S3niors;Low;MALE; High Fat;sedentary;Ov3rw3ight;24.4;14.2;3480.6;3;6.7;9.9
+NA;South C@rolin@;SENIORS;middle; Female; Low Fat;S3d3nt@ry;Norm@l;19.4;2.1;272...;4;2.1;2.1
+201...;Indiana ;Childr3n;Mid...;Mal...;B@l@nc3d;MODERATE;Ove...;28....;16.8;2241.9;2;6.9;1.7
+2023;N3w York; Seniors;High ;Female ;Bal...;NA;OVERWEIGHT;35....;13.4;304...;3;3.5;8.9
+201...;pennsylvania;CHILDREN;Middle ; Female;Hig...; Moderate; Overweight;27....;13.9;1840.9;3;1;3.7
+2006; North Carolina;Children ; Low;MALE;Bal...;ACTIVE;NA;28.1;7.3;2269;2;2.1;6.9
+2003; Minnesota; Children;low;M@l3;Hig...;Active ;Ov3rw3ight;30.5;17.6;2193.9;3;9.4;4
+2012;iowa;Adol3sc3nts;Middl3;Mal...;Bal...;moderate;Ov3rw3ight;20.7;14.5;2363.6;0;8.8;4.5
+2019; North Carolina;SENIORS;high;M@l3;low fat;active;Normal ;35.5;2.3;3063.6;2;3.1;3.4
+2000;missouri;Childr3n;high;Female ;Hig...; Sedentary; Overweight;28;8.2;2468.3;2;8;4.1
+200...;kentucky;Seniors ;low;MALE; High Fat;Sed...;Nor...;35.2;17.7;3088;4;6.5;4.7
+NA;north carolina;NA;High ;FEMALE;Low...;Sedentary ;Obese ;23.3;0.9;2653;2;9.7;7.5
+2015;Washington ;Childr3n; Middle;Male ;HIGH FAT;Activ3;obese;36.1;19....;2184.1;2;4.4;5.6
+2013; Alaska;ADULTS;Middl3; Male; Balanced;SEDENTARY;OBESE;30.9;13.6;3120;2;7.1;9.5
+2011;INDIANA;ADOLESCENTS;Low ;FEMALE;balanced;Activ3;Ove...;29.8;12....;1976.6;2;1.6;1.4
+2018;South C@rolin@;Adults ;middle; Male;High F@t;Sedentary ;UNDERWEIGHT;28.2;5.4;194...;1;4.6;5.5
+202...;south carolina;SENIORS;Low;NA;balanced;Mod...;underweight;25....;5;2509;2;9.7;6.3
+2014;Rho...;Seniors ; Middle;male; High Fat;Activ3;Ove...;33;18.8;2021.7;3;5.9;9.3
+2001; Colorado; Adolescents;Low ;Mal...; Low Fat;Activ3;Underweight ;27.7;6;1518.2;1;3.6;1.4
+2001;NA;Sen...; High;female;High Fat ; Sedentary;Normal ;17.2;15.5;2796.6;3;2.1;6.2
+2022;Arizon@; Adults;Middl3;female;Low F@t;Act...;underweight;21.4;7.9;2522.2;3;7.3;8.7
+NA;Connecticut ; Children; Middle;male;Balanced ;Activ3;Ove...;26.1;2.8;2391;1;6.8;NA
+201...;D3l@w@r3;children;Low;Mal...; Low Fat;Moderate ;overweight;28.5;0.2;3433.9;1;4.4;8.9
+2021; Tennessee;Children ;Low;Male ; Balanced;MODERATE;Normal ;26.7;10....;2642.4;4;9.6;1.2
+NA;Iow@;adolescents;Middle ;Female ;Hig...;S3d3nt@ry;obese;33....;19.5;3226.9;2;1.2;7.6
+2016;washington;Seniors ;Low;FEMALE; Balanced;Mod...;Ove...;17.2;7.4;1778.9;1;3.7;9.4
+2019;NEW HAMPSHIRE;Adu...;MIDDLE;Female ;HIGH FAT; Sedentary;Nor...;27....;7.1;2638.4;1;9.3;6.9
+2009;Nor...; Seniors;High ;female;high fat;sedentary;Underweight ;17....;6.9;3236;0;3.9;5
+200...;new jersey;Seniors ;Low; Male;LOW FAT;Sed...;NA;30.8;10....;266...;2;3.3;1.4
+201...;RHODE ISLAND;Seniors ;Middle ;M@l3;Low F@t;Act...;Nor...;26.5;8.8;2936;3;5.8;9.3
+2021;nebraska;NA;high;Mal...;Low Fat ; Moderate;NA;29.1;17.6;224...;2;8.4;5.2
+2010;oklahoma;ADULTS;High ; Female;Low F@t;sedentary;Overweight ;22.7;10.1;168...;1;1.9;1.3
+2004;New Hampshire ;ADULTS;NA;Mal...;B@l@nc3d;MODERATE;Und...;33.4;10.2;2415.8;1;9.5;7.2
+2000;Pennsylvania ;Seniors ;LOW;female; Balanced;S3d3nt@ry;Nor...;32.2;2.8;2289;4;8.2;5.3
+2007;NORTH CAROLINA;Chi...;Middle ;Fem...; Balanced; Moderate;UNDERWEIGHT;29.9;19.7;3234.1;1;2.6;2.1
+2020;Or3gon;Chi...;Hig...; Male; High Fat;Mod...;normal;26....;5;1988;1;7.4;2.9
+2011;Neb...;Adu...;Middle ;male;Balanced ;Sedentary ;Und3rw3ight;29.9;1.5;3433.5;3;4.5;1.6
+2011; North Carolina;Children ;Low;male; Balanced;Active ;Obe...;23....;13.3;3416.3;1;4.6;6.2
+2004; Arkansas;children;Hig...;FEMALE;Bal...;NA;Ov3rw3ight;31.3;11.9;199...;1;8;6.6
+2006;Michig@n;CHILDREN;Mid...;FEMALE;Low...;Active ;Underweight ;35.2;8.3;219...;3;9.7;5.6
+2003;alaska; Adolescents;Low;Mal...; Balanced;Active ;OBESE;32.4;8.4;3291.1;2;2.1;8.4
+2005;Georgia ; Seniors;High ;Male ;High F@t;Sed...;NA;23.4;15....;3433.2;2;4.8;8.7
+201...;california;Adults;Low;Fem...;Low Fat ;Sedentary ;underweight;28.8;3.9;238...;2;5.3;6.5
+2019;Geo...; Adults;high; Male;high fat;Sedentary ;OBESE;20....;16.4;214...;2;4.4;1.1
+201...;Nor...;Adolescents ;Mid...;F3m@l3;Bal...;moderate;Und...;29....;13;255...;3;4.3;7.3
+2002;pennsylvania;Seniors ;Low ;Female ;Low...;sedentary;Underweight ;29.3;8.4;2875.5;3;1.5;4.8
+2022;Illinois;Adu...;High; Male;High F@t;SEDENTARY;NA;17.7;9.2;2046.9;5;7.2;6.1
+2007;new mexico;Childr3n;Low;male; Balanced;Mod...;Obese ;21.2;5.1;2972.9;1;4.9;6.8
+2019;Was...;ADULTS;LOW;male;HIGH FAT;Mod...;obese;25.6;15;1603.3;3;2.8;4.2
+2015;Okl@hom@;NA;MIDDLE; Male;HIGH FAT;Sed...;Normal ;25.5;10.3;1598.6;1;8.3;9.3
+2012;vermont;Ado...;Low ; Female;High F@t;S3d3nt@ry;UNDERWEIGHT;21;6.4;2272.6;0;8.2;2.2
+2017; Mississippi;Childr3n;High;FEMALE;BALANCED;Sed...;Ove...;28.9;11....;2206.9;2;5.4;7
+200...;iowa;Adults;HIGH;female;balanced;Sedentary ;Und3rw3ight;28.3;19.9;2131.3;3;3.7;1
+201...;New Hampshire ;Adu...; High;M@l3;High F@t;Activ3;UNDERWEIGHT;26;8.7;2482;1;6.7;9.3
+2016;D3l@w@r3;Adu...;Hig...; Female;LOW FAT;active;Normal ;23.2;18.4;214...;4;3.6;2
+202...;Cal...;ADOLESCENTS;Middle ;Mal...;Low Fat ;sedentary;underweight;32.2;6.9;1884.5;1;3.1;1.9
+201...; New Hampshire;Adolescents ;Low ;Mal...;Balanced ;Active ;Ove...;35....;1.1;2118.9;0;7.6;4
+2022; Washington;Sen...;NA;M@l3;B@l@nc3d;Mod...;Ove...;24....;4.1;344...;2;1.4;4.4
+2004;arkansas;Adu...;Low ;male;balanced;active; Normal;23.9;8.4;2322.2;0;NA;2.9
+2020;Ida...;Chi...; Low;MALE;BALANCED;Activ3;Und3rw3ight;29....;4.4;NA;4;1.1;6.3
+202...;V3rmont;adolescents;LOW; Male;B@l@nc3d;SEDENTARY;Overweight ;25.2;0;2653.1;1;2.4;5
+2008; Alaska;adults;Mid...;female;Low F@t;ACTIVE;Und...;26.3;NA;3466.7;2;1.6;1.3
+2011;Nebraska ;Adults ; Low; Male;B@l@nc3d;Active ;Underweight ;30....;16....;1983.2;1;10;3.9
+202...; New Mexico;ADOLESCENTS;Middl3;F3m@l3;Hig...;active;underweight;17.5;14.8;NA;1;3.6;NA
+2000;NA;Sen...;High;Female ;Hig...;Act...;Nor...;33.6;3.4;293...;1;2.3;7.2
+2000;OKLAHOMA;Ado...;High ;NA;low fat; Moderate;Underweight ;27....;2.4;2714.6;2;NA;7.5
+2014;MONTANA;adolescents;low;Male ;High Fat ;S3d3nt@ry;Ove...;24.9;1.4;1677.2;1;9.4;7.3
+200...;TEXAS;Childr3n;middle;male;Low...;Sedentary ;underweight;26.6;14.5;2853.7;2;5.7;3.8
+202...;N3br@sk@;CHILDREN; High;Female ;low fat;Mod3r@t3;overweight;26.8;18....;162...;3;4.3;1.9
+2015;CALIFORNIA;S3niors; Middle; Male;High Fat ;Activ3;underweight;18.3;8.6;2692.3;4;8.9;3.5
+2007;M@ryl@nd;Adults ;middle; Female; Balanced; Moderate;OVERWEIGHT;34....;2.4;2979.2;2;4.6;8.5
+2012;H@w@ii;adolescents;low;Mal...;HIGH FAT;ACTIVE;Overweight ;27.2;10.2;1921.9;NA;4;9.8
+2020;Geo...; Seniors;High; Male;Hig...;Mod3r@t3;underweight;29.2;7;3183.2;3;2.9;5.4
+2000;south carolina;CHILDREN;Low ;FEMALE;low fat;Sedentary ; Underweight;31.8;7.5;1560.7;3;4.4;1.1
+2015;pennsylvania;Ado...;Low ;female;high fat;S3d3nt@ry;Overweight ;21.9;12.4;3187.6;2;3.9;2.3
+2006;Color@do; Adults;Hig...;Mal...;Low Fat ;Sed...;Obe...;29....;14....;2420.7;3;7.1;3.9
+2004;D3l@w@r3;children;Hig...;F3m@l3;BALANCED;ACTIVE;normal;25.7;2.2;1935.2;1;3.6;6.2
+202...;minnesota;Childr3n;middle;FEMALE;Bal...;Active ;Ob3s3;31.2;NA;1767.6;4;6.2;1.7
+2022; Washington; Children;High;female;balanced;Mod3r@t3;Obese ;16.4;19.9;3406.6;0;1.6;9.5
+2002;Mont@n@;Sen...;MIDDLE;NA;High F@t;moderate;UNDERWEIGHT;26.5;4.7;NA;5;2.7;4.3
+2011;virginia;ADULTS;Middle ;Female ; Low Fat;Sedentary ;normal;NA;1.1;1898.2;2;4.7;9.2
+2015;TEXAS;adolescents;Mid...;Male ;BALANCED;active; Obese;29.2;3.8;2195.6;1;NA;8
+2018;IDAHO; Seniors;Hig...;MALE; Low Fat;Mod...;Und...;29....;0.8;2740.5;1;4.4;7.8
+2004;Mon...; Seniors;Low;F3m@l3;Low F@t;Act...;Obese ;23....;7.8;2589.6;1;7;6.5
+2021;Illinois;SENIORS;Middl3;MALE;Bal...;Active ;NA;23.4;16;175...;2;3.3;6.6
+2013;South C@rolin@; Children;LOW;male; Balanced;Sedentary ;Und3rw3ight;NA;6.8;2079.5;1;2.1;6.7
+2004;louisiana;Adults ;LOW;F3m@l3;Low Fat ;S3d3nt@ry;underweight;22.5;NA;1977.5;4;1.5;6.7
+2014;missouri;S3niors; High; Male;BALANCED;Active ; Underweight;31....;13.5;1927.1;3;3.7;6
+2016;North C@rolin@;ADOLESCENTS;low;FEMALE;low fat;NA;Norm@l;25.2;10.2;232...;0;2.4;9.9
+2013;Was...; Adults;Low ; Female;LOW FAT;Act...; Obese;12.5;17.2;2908.1;2;2.6;7.6
+2019;NA;Adolescents ;High ;Mal...;balanced;active;underweight;25.1;17....;1934.9;0;7.8;8
+2004;T3x@s;Adults;MIDDLE; Female;High F@t;Sed...;overweight;21.8;0.2;2233.4;0;1.1;NA
+2011;Idaho ;NA; Low;Fem...;balanced;Mod...;Ob3s3;18....;15.6;2281.8;2;6;2.9
+2015;UTAH;Children ;HIGH;female;High Fat ;SEDENTARY;Ov3rw3ight;20....;9.2;3452.9;3;4.4;1.8
+2015;OKLAHOMA; Seniors;Low;F3m@l3;LOW FAT;Mod...;NORMAL;27.5;19.8;3409.3;2;5.6;NA
+2020;WEST VIRGINIA;Adolescents ;Low;Female ; Low Fat;Act...;Und3rw3ight;33....;9.7;NA;2;6.1;5.6
+2006;Arkansas ; Adults;NA;MALE;High Fat ;Moderate ;Overweight ;28.6;19.7;1983.3;1;3.8;8.5
+2003;California ; Seniors;low;Male ;Low F@t; Sedentary;NA;24....;15.1;1636.1;0;3.7;5
+2000;oregon; Seniors;Hig...;FEMALE;HIGH FAT;NA;Und...;29.3;5;2133.8;2;7.6;6.1
+2004;Del...;adults;low;Female ;High Fat ; Active; Overweight;24.7;10.8;2033.6;3;8.8;5.7
+2022;T3nn3ss33;adolescents;MIDDLE;male;Low Fat ;S3d3nt@ry;Ove...;23.5;19.8;2511.9;3;NA;1.3
+2009;wisconsin;Chi...;middle;Female ;NA;Activ3;normal;21.2;17.2;3055.5;3;1.9;6.5
+2021;Nevada ;children;high;male; Balanced;S3d3nt@ry;Underweight ;18.2;1.9;3216.6;3;9.1;8.5
+2004;New...;Adol3sc3nts;Mid...;Fem...;B@l@nc3d;sedentary;Und3rw3ight;25.1;14....;3189.7;0;NA;NA
+2003;FLORIDA;seniors;LOW;Female ;Low...;Activ3; Overweight;27.8;6.9;221...;1;6;6.3
+2001;New Hampshire ;Seniors ;Mid...;FEMALE;low fat;Mod3r@t3;OVERWEIGHT;26.5;0.1;287...;2;4.2;6.3
+2019;Ind...;SENIORS;high;FEMALE; High Fat; Sedentary;Overweight ;24.9;8.1;2125.7;1;2.1;2.5
+2009; South Carolina; Seniors;MIDDLE;Fem...;High F@t;Mod3r@t3; Underweight;22....;4.7;1621.8;4;6.3;NA
+2018;south dakota;ADOLESCENTS;Middl3;FEMALE;High Fat ; Sedentary; Normal;30....;16.4;2903.1;0;5.7;9.8
+2000; Michigan; Seniors;Middle ;Fem...; High Fat;sedentary; Normal;20.4;6.7;1519.7;1;2.8;4.5
+2023;Haw...; Adults; High;male; Balanced;SEDENTARY;Und...;30.9;16.6;231...;4;5.1;3
+2004;Minnesota ;SENIORS;middle;male; Balanced;sedentary;Obese ;22;NA;2158.8;1;8.2;2.5
+2012;ALABAMA;Chi...;Mid...; Male;NA;MODERATE;Nor...;23.2;6.2;288...;NA;6.3;7
+2003;Virgini@;Seniors ;low; Female;high fat;MODERATE;Ove...;19.7;4.8;3032.5;4;1.9;6.5
+201...;oregon;Adol3sc3nts; High; Female;high fat; Sedentary;OBESE;24....;4.7;2108.2;2;NA;6.8
+2023;MASSACHUSETTS;children;MIDDLE;FEMALE;Low F@t;S3d3nt@ry;Obe...;31.9;1.4;3123.3;3;7.3;1.8
+2015;Mont@n@;Adolescents ;Hig...;female;Hig...;Mod...;Normal ;29.6;3.7;2087.8;1;8.1;9
+2022;NA;adolescents;Middl3; Female;HIGH FAT;Active ;Obe...;31.9;11.1;239...;2;6.7;4.5
+2001;NA;Childr3n;middle; Female;HIGH FAT; Active; Obese;29.6;5.8;2954;1;2.4;3.8
+2016;Minnesota ;ADOLESCENTS;middle;female;high fat; Moderate;Normal ;21.5;8.3;2885.8;3;7.4;5.2
+2019;Alabama ; Adolescents;LOW;male; High Fat;Sed...;Nor...;25.3;7.5;3474.7;3;7.1;4.5
+2023;South C@rolin@;NA;low;Fem...;LOW FAT;S3d3nt@ry;obese;23.1;17.5;1950.3;1;1.2;8.8
+2011;Iowa ;adults;Low; Male;high fat;ACTIVE;Ov3rw3ight;33.7;18.1;2824.6;3;4.7;9.4
+2017;massachusetts;ADOLESCENTS;Hig...;MALE;Low...;ACTIVE;Und...;21;9.9;2719.4;3;4;3.7
+2002;Washington ;Adolescents ;High;FEMALE;high fat; Moderate;Obe...;31.5;6.6;3330.2;3;7;8.8
+2000;Florida ;Adol3sc3nts;low;FEMALE;BALANCED; Active;Obe...;31.5;2.1;1812.7;NA;2.9;8
+2000;florida;Seniors ;Hig...; Male;Bal...;Mod3r@t3;OVERWEIGHT;36.1;19.1;300...;0;6.3;9.4
+NA;georgia;adults;MIDDLE;NA;B@l@nc3d;Activ3;Obe...;25;1.2;2636.5;4;9.2;3.2
+2010;MONTANA;CHILDREN;Middl3;F3m@l3;BALANCED;ACTIVE;Obese ;30.6;6;2049.3;1;8.2;6.2
+200...;SOUTH DAKOTA;seniors;Middle ; Female;Low...;active; Underweight;38.4;6;244...;2;9.3;3.5
+2011;Ohio;SENIORS;Low; Male; Low Fat;SEDENTARY;Und3rw3ight;23.9;6.4;2167.6;2;9.8;8.4
+2002;Mis...;adults; High;Fem...;High F@t;Sed...;Und...;19.3;3.3;265...;1;1.1;1
+200...;NA;Adults ;low; Female;BALANCED;SEDENTARY;normal;17.6;15.7;3278;2;NA;6.1
+2000;hawaii;Sen...;High ;female;Low...;Active ;NORMAL;30.6;2.4;2638.6;6;4.7;4.1
+2007;pennsylvania; Children;Mid...;MALE; High Fat; Moderate; Underweight;17.6;12....;2763.4;0;8.7;3.9
+2009;Al@sk@;SENIORS;Low; Male;High Fat ; Moderate;underweight;25.1;2.5;2537.5;4;3.3;6.8
+2010;Conn3cticut;ADULTS;Hig...; Male;Low F@t; Moderate; Normal;29....;1.4;1602.3;2;9.8;8.7
+2011;Lou...;Children ;High ;Female ;NA; Moderate;NA;27.9;18.2;1965.7;1;6.5;6.5
+201...;NEBRASKA; Adults;MIDDLE;Female ;High Fat ;Sedentary ;Ob3s3;29.1;3.8;2484;2;NA;8.7
+2011;north dakota;children;Low;M@l3;NA;Sed...;Obe...;28.1;16.4;2120.5;4;1.8;3.4
+2013;NEBRASKA;Adolescents ;Low; Male;Bal...;ACTIVE;underweight;33.4;10....;1863.5;1;2.7;5.7
+2001;kentucky;ADULTS; Low;M@l3;BALANCED;ACTIVE;Overweight ;22....;1.6;2508.3;2;7.8;5.1
+2018;texas; Adults; Middle; Female;high fat;moderate;NORMAL;23.6;19.1;214...;2;1.2;1.1
+2017;utah;Seniors ;Low;M@l3;Balanced ;Sed...; Underweight;23.1;4.9;2016.2;5;8.4;6
+2002;Mississippi;Adults ;middle;Mal...; High Fat;Mod3r@t3;Ove...;31.2;17.2;2428;1;1.1;7
+202...; Missouri;Adu...; Middle;female;B@l@nc3d; Active; Overweight;31.5;3.4;1766.6;0;6.9;6.3
+2016; Connecticut;Ado...;Mid...;Fem...;Hig...;Activ3; Overweight;29.3;17.1;3355.5;2;4.3;7.6
+2007;NA;adults;high; Female;B@l@nc3d;moderate;normal;32.9;0.3;3235.4;1;6.5;6.1
+200...;Mississippi;Ado...;LOW;male;Low Fat ;Act...;Normal ;21.1;10.2;2915.2;0;7.3;1.6
+2001;north carolina;Ado...;Low; Female;Balanced ; Moderate;obese;35.3;15.4;171...;1;4.1;2
+2018;Wisconsin;Adol3sc3nts;Middl3;female;balanced; Sedentary;Obe...;34.6;18.7;3051.8;1;2;6.4
+NA;New...;Adolescents ;MIDDLE;male;high fat;Mod3r@t3;overweight;30....;18.2;3115.9;2;1.6;3.5
+2006;texas;CHILDREN;Low ;Fem...; High Fat; Sedentary;Ove...;35.9;NA;3035.5;2;6.3;1.7
+2003;michigan;seniors;Middl3; Male;balanced;S3d3nt@ry;Normal ;18.7;17.8;1727.9;2;5.7;4.9
+2020; Montana;NA;Low;M@l3; Low Fat;Activ3;Obese ;24.4;4;278...;0;7.7;6
+2017;nevada;Adu...; High;FEMALE;low fat;Active ;OVERWEIGHT;23.3;5.7;3168.6;3;NA;4
+2012; Wyoming;Chi...;Middle ;F3m@l3;High F@t;Active ;Obese ;30.6;5.8;265...;1;4.8;7.5
+2010;Massachusetts ;CHILDREN;Low ;female;Low...;Moderate ;NA;21.7;7.5;2792.8;1;4.6;6.8
+2023;Wisconsin ;Adu...; Middle;FEMALE;B@l@nc3d;Moderate ;overweight;30.8;7.9;2416.7;3;1.2;4
+2003;Connecticut ;adults;Low ; Female;high fat;Act...; Normal;33.9;10....;2557.4;1;NA;7.8
+2020; Kentucky; Adults;Low ;Fem...;balanced;MODERATE;Overweight ;30.5;3.2;1568.8;0;9.8;6.8
+2003;Mar...;Childr3n;MIDDLE;Male ;High Fat ;Act...; Overweight;28.4;13....;2777.9;1;8.9;6.7
+200...;South D@kot@; Children;high;Mal...;high fat;MODERATE;Ob3s3;NA;3.4;1662.9;2;4;6
+2004;Wisconsin ;Adu...;Low ; Female;high fat;Sedentary ;overweight;22.8;6.2;2370;2;6.3;1.1
+2008;M@ryl@nd;seniors;Low;M@l3;HIGH FAT;SEDENTARY;NORMAL;33....;NA;2085.3;1;NA;7.3
+2023;Mic...;Sen...;low;F3m@l3;Low F@t;Activ3;Ov3rw3ight;30.9;15.9;NA;1;5;4.4
+2002;nevada;Ado...;High ;male; Balanced;MODERATE;Norm@l;26.8;14.8;1766.8;4;1.2;9.5
+2016;SOUTH CAROLINA;Adults;High; Male;balanced;NA;Norm@l;24.9;12....;2883.3;3;1.7;8.4
+2002;Wis...; Adolescents; Middle;Male ;Bal...;S3d3nt@ry;Obe...;16....;3.1;3090;0;5.6;6.3
+201...;NA;SENIORS;High;female;HIGH FAT;S3d3nt@ry;Und3rw3ight;21....;10....;1826.7;1;9.7;3.3
+2003;Ala...;adolescents;Mid...;Mal...;Low...;Act...;Und...;36.6;1.7;1708.6;3;7.2;2.8
+2017;N3w York;Adults;Middle ;NA;Bal...;sedentary;Obe...;20....;NA;1791;3;1.6;4.1
+2016;ILLINOIS; Adults;HIGH; Male; Low Fat;Act...;Ove...;27.9;8.3;NA;1;2.7;5.3
+2006; New Jersey; Adults;Middl3;Male ; High Fat;sedentary;Ob3s3;32;0.8;2556.4;2;7.9;3.7
+2023; Minnesota; Children;HIGH;Male ;B@l@nc3d;Sed...;NORMAL;20.7;5.5;NA;NA;8.6;5.6
+2022;M@in3;ADOLESCENTS;middle;Male ;Low...;Moderate ;Underweight ;27.9;19.1;1713.4;1;6.6;2.5
+2004;New...;Seniors ; High;MALE;High F@t;Sed...;Obese ;31.7;19.1;2799.1;0;6.8;9.8
+2011;New Jersey ;S3niors;High ;F3m@l3;Low F@t;SEDENTARY;OVERWEIGHT;27.1;7;3236;2;1.3;2
+2016;new hampshire;Sen...;Middle ;F3m@l3;BALANCED;Active ;Obese ;41.3;0.9;3156.4;3;8.5;9.4
+2022;WISCONSIN;Chi...;Low ;MALE;Bal...; Sedentary; Underweight;18.7;3.6;NA;2;8.1;9.2
+2012;Vermont ;Children ;Mid...; Male;High Fat ;Active ;OBESE;32.3;7.8;1650.6;3;3.3;5.7
+2022; New Hampshire; Adults; High;M@l3;Hig...;Sedentary ;Ob3s3;26....;19;1724.8;0;7.4;7.5
+2002;new jersey;SENIORS;Low;M@l3;Hig...;sedentary;Underweight ;NA;2.8;159...;2;2.9;4.9
+200...;kansas;CHILDREN;middle; Female; Low Fat; Active;normal;29.2;15.3;201...;4;1.4;6.7
+2016;South Carolina ;ADULTS; Middle;Male ;LOW FAT; Moderate;Normal ;23.3;2.2;1771.3;4;2.8;4.1
+2016;MAINE;seniors;Middle ;F3m@l3;low fat;ACTIVE; Underweight;28....;19.6;2020.1;2;2.6;3.7
+2019;LOUISIANA;adolescents;Low;M@l3;High F@t;Act...;Ob3s3;NA;7.6;2270.1;2;4;6.2
+2015;Al@b@m@; Adults;Hig...;Fem...;B@l@nc3d;Active ;UNDERWEIGHT;30;15.5;3386;1;4.8;5.5
+2021;indiana;Childr3n;MIDDLE;Mal...;Balanced ;moderate; Normal;28.5;6.9;2720.8;1;5.6;6.2
+2012;WASHINGTON;Children ;MIDDLE;Male ;Low F@t;sedentary;overweight;30.2;12.6;3169.9;0;5.3;3.6
+2018;Wyo...;Adults ;Middle ;Female ;LOW FAT;ACTIVE;OBESE;32.3;3.8;2920.7;2;3.4;4.3
+201...;Ala...;Adults;Middle ;male;BALANCED;Active ;NORMAL;28.8;2.9;1725;0;1.3;1.8
+200...;nevada; Children; Middle;MALE;Balanced ; Moderate; Obese;27.7;18.8;2971.8;1;6.4;1.5
+2011;NA;Ado...;High ;male;LOW FAT;active;Und3rw3ight;22....;18....;2050.2;3;4.6;3.3
+2008;wyoming;SENIORS;high; Female;Low F@t;S3d3nt@ry;OVERWEIGHT;23.4;17.7;2778.2;0;3.7;1.7
+201...;New...;adolescents; Middle;male;Balanced ;MODERATE;Underweight ;32....;12.5;2181.9;2;8.8;1.9
+2011;PENNSYLVANIA;Adults ;Low;MALE; High Fat; Sedentary;OVERWEIGHT;34....;16....;3495.3;1;7.7;8.3
+2008;Arkansas ;Adolescents ; High;female; Low Fat; Sedentary;obese;25.8;1.4;2027.1;2;8.7;1.3
+2006;Ala...;Chi...;Low ;Female ; Balanced;moderate;OBESE;27.2;6.7;2058.3;0;5.5;6.9
+2013;Delaware ;Adults;High ;Female ;Balanced ;active;underweight;22....;6.3;3361.3;2;2.2;3.5
+2019;NEW HAMPSHIRE;Seniors ; Middle;Male ;BALANCED;S3d3nt@ry; Overweight;32.9;12.7;1549.3;1;7.3;8.8
+201...;rhode island;Childr3n;High;Mal...;Balanced ;sedentary;OVERWEIGHT;30....;7.1;2893.4;3;2.9;5.4
+2014;Arizona ; Children;Mid...;MALE;Hig...;SEDENTARY;obese;36.7;3;NA;3;5;3.8
+2015;NA;SENIORS;High ; Female; Balanced;SEDENTARY;Und3rw3ight;22.6;11.9;3172.8;2;1.6;5.7
+2020;Georgia ;NA;Mid...;male; Low Fat;Moderate ;OVERWEIGHT;25.1;16....;3448.9;2;8.4;4.4
+2004; Georgia;Ado...;MIDDLE;male;High F@t; Moderate;Ob3s3;28.2;7.6;3451.2;2;2.1;6.1
+200...;Maine ;NA;Mid...;FEMALE;B@l@nc3d;S3d3nt@ry;Norm@l;30.2;2.6;1630.6;0;9.1;2
+2011;virginia;Seniors ;middle;FEMALE;Hig...;Act...;UNDERWEIGHT;25.9;3.9;314...;2;8.8;10
+2019;north dakota;S3niors;low;FEMALE;LOW FAT;Sed...;NORMAL;22.6;4.7;2792.6;2;5.2;4.8
+2020;north carolina;Adu...;middle;Fem...;Bal...; Active;UNDERWEIGHT;31.4;6;2794.7;1;7.7;4.1
+2003;minnesota;Seniors ; Low;Fem...;Low F@t;S3d3nt@ry;Obe...;30.6;12....;175...;3;6.6;7.4
+2020; Nevada;seniors; Low; Male;B@l@nc3d; Active;Overweight ;22.4;12;2800.4;1;8.2;4.3
+202...;New...;adolescents;middle; Female;BALANCED;SEDENTARY;Ov3rw3ight;33.8;13.9;3465;1;4.9;8.5
+201...;Wyo...;Childr3n;LOW;MALE;Balanced ;Act...;Overweight ;32.9;7.3;3323.6;2;8.1;5.1
+2006;Conn3cticut;Childr3n; High;Mal...;balanced;S3d3nt@ry;Und3rw3ight;27.7;16.5;2378.3;1;5.2;7.5
+2012;NEW HAMPSHIRE;Children ;Mid...;FEMALE;balanced;sedentary;Obe...;27.4;4.1;1579.9;1;9.5;2
+2020;D3l@w@r3;Children ;low;F3m@l3;Hig...;Act...;Nor...;29....;9.4;222...;0;5.4;8.6
+2009;Ala...;Seniors ; Middle;female;B@l@nc3d;moderate;obese;22.7;16....;315...;3;5.2;7.6
+2006;arizona; Adults;Mid...;male;NA;Active ;Norm@l;27.2;3.6;2903;NA;8.1;2.9
+2013;MISSISSIPPI;Adults ;MIDDLE;female;HIGH FAT;moderate;Underweight ;16....;2.2;2418.7;2;8.4;2.3
+2004;Min...; Adolescents;Low ;Female ;HIGH FAT;Sed...;underweight;31.4;17.7;1610.2;4;6;3.8
+2002; Delaware;Adol3sc3nts;Hig...;Female ;Hig...; Active;Normal ;19.2;6.9;2353.8;1;2.6;9.8
+2022;WASHINGTON;NA;High ;female;high fat;Act...;NORMAL;34.5;13.7;2438;3;5.2;3.3
+2010; Oregon;ADULTS;NA;Fem...;high fat;Activ3;Nor...;25.3;0.5;335...;2;9.7;5.1
+2010; Arizona;Adu...;middle;NA;High Fat ;Mod3r@t3; Obese;25.9;13.8;278...;2;7.8;1.3
+NA;north carolina;Chi...;low;Male ; Balanced;moderate; Normal;23....;6.3;2123.3;1;8.3;4.6
+2014;NEVADA;SENIORS;Low;Male ;Bal...;Sed...;Underweight ;25.6;1.1;2550.6;3;1.3;6.1
+2011;washington;S3niors;Low;Female ;Low...;moderate;UNDERWEIGHT;34.1;12.2;1632.1;1;5.2;9.6
+2008; Delaware;Childr3n;MIDDLE;Female ;NA;Moderate ;OVERWEIGHT;14....;4.8;3445.1;2;6.8;5.7
+2009;North D@kot@; Seniors;Low;female;balanced;Sed...; Normal;33.4;7.7;2220.1;1;8.5;8.4
+2011;Ohio ;Seniors ;Middle ;Mal...;HIGH FAT;Active ;OBESE;28.7;1.6;245...;3;1.4;5.9
+2016;New York ;Adolescents ; Low;FEMALE;HIGH FAT;Active ;Obese ;21;2.9;2210.6;3;8.7;1.4
+2005;Mississippi;ADULTS;high; Female;B@l@nc3d;Sedentary ; Obese;21....;6;2865;1;5.9;3.8
+2006;indiana;Seniors ;LOW; Female;LOW FAT;Activ3;overweight;35.4;1.8;2824.5;2;2.8;6.2
+2013;new york;ADOLESCENTS;Low;MALE;HIGH FAT;moderate;Underweight ;22.3;18.2;2930.6;0;3.9;9.6
+2012;Vir...;Adu...;Hig...;female;Balanced ;sedentary;Obese ;21.2;0.1;2036.3;2;3.5;8.7
+200...;Texas ;CHILDREN;Middl3;MALE;BALANCED;S3d3nt@ry;Underweight ;32.7;9.7;2131.3;2;5.8;3.1
+2009; Kansas;ADOLESCENTS;Middle ;Female ;LOW FAT;Sed...;Ov3rw3ight;28.7;2.5;1750.5;0;1.5;3
+2008;Ark...;Adolescents ;Low;Male ;Low Fat ; Active;Norm@l;22.3;6.2;2811;3;2.4;2.8
+2017;Oregon ;Adults;High ;M@l3;high fat;sedentary;Normal ;28.1;18.5;1579.6;4;8.3;9.3
+2001;MASSACHUSETTS; Children; Middle;MALE;LOW FAT; Sedentary;NORMAL;21.9;3.2;2695.4;0;2.2;8.7
+2004;indiana; Adolescents;low;F3m@l3;BALANCED;sedentary;obese;32.5;19.3;3239.4;3;3.1;NA
+2004;NA;seniors;HIGH; Female;Bal...;ACTIVE;Nor...;32.3;4.1;3281.7;1;5.1;4.5
+200...;NA;SENIORS; Middle;Male ; Low Fat; Moderate;NA;29....;14....;2398.1;2;5.7;5.5
+201...; Louisiana;seniors;MIDDLE;Mal...;Low...;sedentary;Ove...;28.8;10.9;2418.6;3;7.9;5.2
+2007;CONNECTICUT; Children; High;female;Low Fat ;moderate;NA;35.8;17.7;1653.9;2;5;3.3
+2015;G3orgi@;Adol3sc3nts; High; Female;low fat;ACTIVE;Obe...;27;11.1;2841.5;0;8.1;5.5
+2012;Con...; Seniors;high;Mal...;HIGH FAT; Active;Und...;21.1;10.7;3142.5;0;6.6;1.3
+200...;north carolina;CHILDREN;High ;FEMALE;Low...;Act...;Normal ;29.2;3.9;1989.3;1;2;2.2
+2021;Minnesota ;S3niors;LOW;Fem...;Hig...;ACTIVE;Normal ;37....;3.3;2342.6;4;2.4;9
+201...; Massachusetts; Adults;high;F3m@l3;Balanced ;moderate; Normal;21.9;18.3;3177.7;1;4.9;7.8
+2016;maine; Adolescents; Middle;female;low fat;sedentary;Ob3s3;25.2;NA;325...;0;4.6;4.8
+2006;WEST VIRGINIA;Adolescents ;Mid...;Male ;High F@t; Active;OVERWEIGHT;29.1;7.4;1986.4;2;7.7;5.7
+2012;maine;Childr3n;low;Female ; Low Fat;Active ;Nor...;26.7;15.2;260...;0;6.2;4.3
+200...;Okl...; Children; Middle;Fem...;Bal...;Moderate ;overweight;22....;6.8;188...;3;4.5;7.7
+2003;New...;Ado...;Mid...;Mal...;balanced; Moderate;Normal ;32.6;19;1703.8;3;2.5;8.1
+2005;LOUISIANA;Seniors ;NA;M@l3;Balanced ;Activ3; Normal;38.6;14.8;332...;2;3;7.9
+2018;Alaska ; Seniors; Middle;F3m@l3;low fat;Sed...;Obe...;28....;11.9;3141;4;6.2;7.5
+2011;alabama;Adults;Low;F3m@l3;LOW FAT; Sedentary; Underweight;22.5;NA;302...;0;4.8;2.8
+2021;Was...;NA;high;F3m@l3;Hig...; Active;Obese ;19.3;1;1597.5;4;5.6;4
+2006; California;Chi...;High ;FEMALE;balanced;MODERATE;Norm@l;28.3;5.1;3187.5;1;2.5;5.2
+2009;Mar...;Chi...; Low;Mal...;Low F@t;Active ;normal;32.5;9.3;237...;2;7;4
+201...;HAWAII;S3niors; High;Male ;BALANCED;Activ3;Und...;29.4;4.5;2184.8;1;8.7;7.8
+2006; Tennessee;Children ;HIGH;MALE;balanced;Mod...;OVERWEIGHT;27;14....;2593;1;3.3;4
+2002; Alaska;Adol3sc3nts;Low; Female;Hig...;Active ;OVERWEIGHT;24....;18....;168...;4;5.4;2.2
+201...;Ari...;Adol3sc3nts;Hig...;female; High Fat;Act...;normal;21.5;8.5;3013.3;0;9.8;4.6
+201...;Minnesota ;S3niors;NA;Female ;NA; Active;Ov3rw3ight;31.2;6.8;2664.9;0;4;9.8
+2017;Ida...;adolescents; Low;F3m@l3;High Fat ;MODERATE; Normal;31.6;19.2;1873.2;3;6.4;3
+2019;maryland; Adolescents;Mid...; Male;BALANCED;S3d3nt@ry;Und...;19.3;8.9;1876.5;1;1.8;6.5
+2007;C@liforni@;Adults;Middle ;Male ;high fat; Sedentary;Und3rw3ight;34.9;9.8;1868.5;2;6.5;4.9
+2008;Ore...;adults;High;female;Hig...;MODERATE;Norm@l;29.9;7;1614;1;1.8;1.6
+200...; Pennsylvania;Adol3sc3nts;Hig...;MALE;High Fat ; Sedentary;Und3rw3ight;34....;NA;2675.6;2;9.6;5.4
+2000;New Jersey ;SENIORS;Low;Fem...;high fat;ACTIVE;Ob3s3;20....;11.4;3180.7;3;7.4;7.3
+2002;NA;Adults;HIGH;Fem...;Bal...;SEDENTARY;Obese ;20....;15.2;1535;3;8.1;5.6
+2012;Nor...;CHILDREN; Low;Mal...;Hig...; Active;underweight;26.3;16.2;NA;1;7.3;8.8
+2016;Utah ;CHILDREN;Low; Female;balanced; Sedentary;NORMAL;29.5;6.8;2645.5;1;6.3;3.6
+2023;Ohio;Chi...;high;Female ;Low Fat ;Mod...;Nor...;36....;8.7;NA;NA;5;1.8
+200...;Michig@n;S3niors;low;Mal...; Balanced;S3d3nt@ry;Und...;30....;17;2153.5;NA;8.7;9.4
+2005;Uta...;adolescents;MIDDLE;F3m@l3;balanced;sedentary;Overweight ;25.8;7.3;2199.2;2;9.6;4.4
+2020;Mississippi; Children;High ;female;Hig...;Sed...;OBESE;21.9;15.9;2692.7;4;5.5;6.2
+2005;kentucky;seniors;Middl3;Mal...; Low Fat;MODERATE;OVERWEIGHT;33....;18.8;2048.4;4;9.4;8.1
+2011;Georgia ; Adults;high;Female ; Low Fat; Sedentary;Nor...;22.2;12.5;1553.2;4;6.2;3.9
+201...; New Jersey;ADOLESCENTS; Low;Mal...;Low F@t; Moderate;NA;35.1;14.8;2970.5;2;5.8;7.4
+2012;Virginia ;Adults ;Hig...;F3m@l3;Low F@t;active; Overweight;25.6;16.1;2751.3;2;5.1;2.2
+2014;MINNESOTA;Seniors ; Middle;M@l3; Balanced;Sed...; Underweight;35;16....;NA;0;2.9;3.6
+2020; New York;Chi...;Low;Male ;Low Fat ;Mod...;OVERWEIGHT;30.4;7.9;298...;2;1;2.3
+2015; Kentucky; Children;high;MALE;NA;Mod...;Ov3rw3ight;26.3;1;285...;1;3.2;8.3
+2021;wyoming;Seniors ; High;F3m@l3;NA;Sedentary ;Ob3s3;24.4;8;1911.8;2;5.6;3
+2020;NA; Children;High;Mal...;Balanced ;active;Obese ;25.3;13.5;2205;NA;4.4;7.5
+201...;Ind...; Adolescents;Mid...;M@l3; Low Fat;MODERATE;OVERWEIGHT;29.1;9;1752.2;1;5;9.5
+2004;Florida ; Seniors;middle;Mal...; High Fat;Sed...;OVERWEIGHT;27.4;15;175...;5;9.8;5.7
+2003; South Carolina;Adults ;High ;Mal...;High Fat ;Act...;NORMAL;24....;7.1;2852.4;1;4.2;5.9
+200...;alaska; Seniors; Low;Male ;Low Fat ;MODERATE;Obese ;26.2;12.7;3217.2;3;5.1;5.1
+201...;VERMONT;Ado...;LOW;Female ; High Fat;Mod3r@t3;Ob3s3;27....;3.7;NA;2;2.2;3.9
+2019;missouri;Adolescents ;Middl3;Fem...;High F@t;Activ3; Normal;16.4;15;275...;NA;1.4;5.3
+2017; Rhode Island;SENIORS;Low ;female;Bal...;active;Und3rw3ight;29.3;NA;1868.2;4;8;6.4
+2014;Florid@;SENIORS;MIDDLE;Fem...; Balanced;Sedentary ;obese;22.1;4.1;1711.3;1;6.1;9.9
+2008;Mic...;CHILDREN;High;F3m@l3;NA;S3d3nt@ry;OBESE;21.2;5.8;3125.7;0;7.8;9.4
+201...;texas; Adolescents;Mid...;Fem...; Low Fat; Moderate;Und3rw3ight;18.6;15;265...;4;2.3;8.8
+2013;virginia;Sen...; Middle;Fem...;High F@t;Act...;Obese ;18;9.7;2736.6;3;6.1;9
+2014; Arkansas;Seniors ;HIGH; Male;balanced;Activ3;Ob3s3;20....;4.3;3062.9;1;3.3;5.2
+2000;montana; Adolescents;LOW; Female;Low Fat ;Active ;Und...;23.5;19.3;290...;2;3.1;6.9
+2020; New Hampshire;seniors;middle;MALE;Low...;Mod...;Und...;36.8;14.3;3168.9;4;1.1;9.1
+2021;Ver...; Children;Middle ;MALE;low fat;ACTIVE; Overweight;24.4;19.1;1612.4;3;2.2;4.5
+2021;North D@kot@;Adolescents ;High ;female; Low Fat;ACTIVE;Norm@l;27....;8.5;299...;1;3.8;9.7
+2002;MINNESOTA; Children;Low;male;Low F@t; Moderate; Normal;29....;9.5;320...;0;2.1;4.7
+201...;OREGON;CHILDREN;MIDDLE;male;Low...;sedentary; Underweight;27.7;18;2072.3;4;9.9;6.4
+2022;H@w@ii; Children;High ;MALE;High Fat ;sedentary; Underweight;26.6;10.5;2780.9;1;3.8;7.4
+201...;colorado;Childr3n; Middle;male;Balanced ;Moderate ; Obese;NA;14.1;212...;1;2.2;9.6
+NA;Louisi@n@; Adolescents;High;female;BALANCED;Act...;Ov3rw3ight;34.3;5;3415.9;3;2.8;3.2
+2009; Massachusetts;Chi...;Low ;female;low fat;Mod...;Overweight ;36;8.9;1566.8;3;6.3;7.7
+2015; Tennessee;Childr3n;low;F3m@l3;BALANCED;S3d3nt@ry;Und3rw3ight;18.6;2.5;2659.6;2;1.6;5.7
+200...;Oklahoma ;Seniors ;Low;F3m@l3;B@l@nc3d;Sed...;Ob3s3;21.9;4.1;183...;0;8.8;NA
+2005;South Dakota ;Adolescents ;Low;NA;balanced;Mod3r@t3;OBESE;25.6;0;2924.4;3;9.7;8
+2011;PENNSYLVANIA;adolescents;Mid...;female;Low Fat ;MODERATE;Normal ;22....;0.8;1851.8;1;3.2;6
+2023;north dakota; Adults;middle;FEMALE;Low F@t; Sedentary;Norm@l;29.5;19.5;NA;1;5.1;6.9
+2020;KENTUCKY;Ado...;Low ;FEMALE;Bal...; Moderate;Obe...;23.4;4.8;2488.7;2;1.2;3.9
+NA; New Hampshire;Adults;LOW;MALE;BALANCED;S3d3nt@ry;Und...;38.1;17.5;2651.3;1;7.4;5.8
+2022;NA;adolescents;Mid...;FEMALE;High F@t;Act...;Obese ;31.9;11.1;2392.7;2;6.7;4.5
+2013; Alaska;Adu...;Middl3;Mal...;B@l@nc3d;Sedentary ;Obe...;30....;13.6;3120;2;7.1;9.5
+2010;new york;adolescents;middle;Mal...;B@l@nc3d;Activ3;OBESE;25.5;15.6;1659.4;1;5;9.2
+2022;Arizon@;children; Middle;Female ;High F@t;Sedentary ;Und...;22.7;7.4;3286.6;2;6;5.4
+2000;Was...;Adults ;Middl3;MALE;HIGH FAT;S3d3nt@ry; Normal;30.8;14.7;1909.6;1;9.6;2.8
+2000;Illinois; Seniors;high; Male; High Fat;sedentary;Ob3s3;30.4;10.4;2389.1;6;2.5;5.5
+2005;IOWA; Children;Mid...;female;Low F@t; Active;NORMAL;28.4;13.5;1758.1;2;3;2.9
+2002;utah;Adol3sc3nts; High;Mal...;Hig...;moderate;Overweight ;28....;15....;1858.3;3;4.1;1.8
+202...;Ohio;CHILDREN;Low; Female; Balanced; Sedentary; Normal;25....;15;NA;2;NA;4.9
+2004;Florida ;S3niors;MIDDLE;MALE;High Fat ;S3d3nt@ry;OVERWEIGHT;27.4;15;1759.7;5;9.8;5.7
+2021;Georgia ;Adults ;low;Mal...;Hig...;SEDENTARY;Norm@l;32.4;6.8;2171.6;0;5.3;8.1
+2002;michigan;Children ;Middl3;NA; Low Fat;ACTIVE;Norm@l;26.1;9.4;3159.1;2;6.3;5.1
+2014;ALABAMA;Chi...;LOW;Mal...; Low Fat;active;Overweight ;21.3;1.2;3365.7;0;3.3;9.6
+2020;DELAWARE;Childr3n;Low;FEMALE;HIGH FAT;ACTIVE;Normal ;29.8;9.4;2224.6;0;5.4;8.6
+2015;Al@b@m@; Adults;Hig...; Female; Balanced;ACTIVE;Underweight ;30;15.5;338...;1;4.8;5.5
+2020;New...;Adolescents ;Middle ;F3m@l3;Hig...;ACTIVE;Und3rw3ight;17.5;14.8;NA;1;3.6;NA
+200...;Was...;Adol3sc3nts;High ;female;High Fat ; Moderate;Obe...;31.5;6.6;3330.2;3;7;8.8
+2018;Louisi@n@;seniors; Middle;male;low fat; Sedentary;overweight;28.8;10.9;241...;3;7.9;5.2
+201...;MONTANA;ADOLESCENTS; High;F3m@l3;HIGH FAT;moderate; Normal;29....;3.7;2087.8;1;8.1;9
+2017; Michigan; Adolescents;Low;FEMALE;low fat;NA;Norm@l;30.1;17....;NA;2;5;2.1
+200...;Kentucky ;Adu...;Low;Fem...;Low F@t;Mod...;Normal ;24.7;17....;2065.1;3;6.5;9.8
+2023;Min...;Chi...;High;MALE; Balanced;sedentary;Normal ;20.7;5.5;NA;NA;8.6;5.6
+2007;Color@do;Adolescents ; Middle;MALE;Low Fat ;Sedentary ;OVERWEIGHT;17.4;4.8;2095.7;2;5.7;4.2
+2019;alaska;Adults ; High; Male;low fat;sedentary;obese;33.1;5.1;NA;0;8.2;3
+202...;Illinois;Adol3sc3nts;NA;FEMALE;balanced;Act...;Obe...;33.6;2.2;3424.1;1;6.1;2.5
+2020;WEST VIRGINIA;Adolescents ;low;Female ;Low...; Active; Underweight;33.6;9.7;NA;2;6.1;5.6
+200...; West Virginia;Adol3sc3nts;Low;female;Low Fat ;Mod...;OVERWEIGHT;36....;12;2734.4;2;4.9;5.2
+2000; Washington;Children ;low;male;Balanced ;Activ3;Und...;34.9;5.4;2829.5;1;8.1;3.8
+2016;Oregon ;Adults ;Low; Female;BALANCED; Active;Ove...;28.6;5.7;2254.4;4;3.8;4.7
+2013;NA;children;Middl3;Male ; Low Fat; Sedentary;overweight;25.4;9.8;2761.5;1;1.3;4.5
+2018;Wisconsin ;ADOLESCENTS;MIDDLE; Female;balanced;Sed...;Obe...;34.6;18.7;3051.8;1;2;6.4
+2004;Colorado ;seniors;low;female;LOW FAT;Active ;OBESE;29.4;6.7;3015.6;2;5.8;8.7
+2004;North Dakota ;Adults ; Low;F3m@l3;B@l@nc3d; Sedentary; Obese;27.9;10.8;1605.5;2;5.4;4.4
+2008;Nebraska ;Adults; High;Female ;Hig...;Sed...;overweight;29....;2.7;2437.1;1;4.7;2.4

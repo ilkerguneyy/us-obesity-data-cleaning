@@ -1,0 +1,736 @@
+Year,State,AgeGroup,IncomeLevel,Gender,DietType,ActivityLevel,ObesityLevel,BMI,PhysicalActivityHours,CaloricIntake,MedicalVisits,ScreenTimeHours,StressLevel
+2006,Delaware,Children,Middle,Male,Low Fat,Sedentary,Obese,30.4,4.2,2826.6,2,7.0,6.8
+2019,Nevada,Children,High,Male,Balanced,Sedentary,Overweight,25.5,1.2,3178.2,3,1.7,4.7
+2014,Oklahoma,Adolescents,Middle,Female,Balanced,Moderate,Overweight,25.4,11.0,2601.3,2,6.4,3.4
+2010,Montana,Adolescents,Middle,Male,High Fat,Moderate,Obese,30.7,11.9,1806.3,3,2.5,2.9
+2007,Delaware,Seniors,Unknown,Male,Balanced,Active,Overweight,27.0,17.4,2956.2,3,7.6,6.9
+2021,Wyoming,Adults,Middle,Female,Balanced,Moderate,Overweight,28.6,11.5,2700.5,1,3.7,5.4
+2006,Nevada,Children,High,Female,Low Fat,Moderate,Overweight,29.3,6.9,2272.1,2,5.2,2.6
+2018,Nevada,Adolescents,Middle,Male,Balanced,Active,Normal,19.0,16.1,3030.0,2,6.4,7.2
+2022,Oregon,Adolescents,Middle,Male,Low Fat,Moderate,Obese,30.0,10.8,3450.8,2,2.5,6.1
+2010,South Dakota,Children,High,Male,High Fat,Sedentary,Obese,30.1,1.6,2647.1,1,7.7,8.7
+2010,Oklahoma,Adults,Low,Female,High Fat,Moderate,Normal,21.9,11.3,2183.3,1,3.7,2.1
+2023,Nebraska,Children,High,Male,Balanced,Active,Overweight,25.8,18.2,2796.9,0,7.0,8.1
+2021,Kentucky,Adults,Low,Male,High Fat,Moderate,Overweight,26.8,7.9,1636.9,1,2.4,7.1
+2003,Florida,Adolescents,High,Male,Balanced,Moderate,Overweight,26.3,5.9,3294.8,2,7.2,2.0
+2012,North Carolina,Adults,High,Female,High Fat,Sedentary,Overweight,28.7,2.9,1738.8,0,2.2,7.3
+2023,Maryland,Seniors,Middle,Female,Low Fat,Sedentary,Obese,34.0,3.0,2155.7,1,4.8,5.0
+2002,Illinois,Adolescents,Low,Male,Low Fat,Moderate,Obese,32.4,8.7,3131.5,0,3.2,9.5
+2021,Nevada,Seniors,Middle,Unknown,Low Fat,Moderate,Normal,20.4,11.0,2690.0,2,7.7,2.3
+2020,West Virginia,Children,Low,Female,Low Fat,Sedentary,Obese,30.1,1.6,2287.3,2,3.4,6.8
+2004,New Hampshire,Children,High,Female,Balanced,Active,Obese,33.6,18.8,2446.9,3,8.9,4.4
+2023,Illinois,Children,Unknown,Female,High Fat,Active,Overweight,28.9,15.0,3209.1,0,9.0,9.6
+2011,Virginia,Adults,Low,Female,Balanced,Moderate,Obese,32.5,11.7,2180.0,5,2.8,4.0
+2005,Ohio,Adolescents,Middle,Female,Low Fat,Active,Obese,37.1,16.6,3230.0,5,6.5,9.7
+2001,Colorado,Children,Middle,Female,Balanced,Sedentary,Obese,32.1,1.6,1676.3,1,1.8,9.1
+2020,Louisiana,Children,Middle,Female,High Fat,Moderate,Overweight,28.2,9.5,3053.6,4,4.5,3.4
+2000,California,Adolescents,Middle,Female,Balanced,Moderate,Obese,32.2,12.0,3195.1,2,7.4,8.2
+2011,Washington,Children,High,Female,High Fat,Active,Overweight,27.7,16.6,1863.6,3,6.9,5.4
+2021,Missouri,Seniors,High,Male,Balanced,Active,Overweight,27.1,15.7,2360.7,2,6.6,3.3
+2011,Alaska,Adolescents,High,Male,High Fat,Moderate,Overweight,25.2,5.5,1830.0,3,3.5,4.9
+2016,Georgia,Unknown,High,Male,High Fat,Active,Obese,34.8,18.8,2913.2,2,4.4,5.7
+2009,New Jersey,Adolescents,High,Female,Low Fat,Sedentary,Normal,22.9,2.5,2570.0,1,1.9,3.7
+2015,Wyoming,Unknown,Middle,Male,High Fat,Active,Obese,34.0,17.5,2770.6,2,7.5,1.1
+2014,Vermont,Adolescents,Middle,Female,Low Fat,Active,Overweight,29.5,19.0,1893.0,2,5.5,3.0
+2014,California,Seniors,Middle,Female,Low Fat,Sedentary,Normal,20.0,3.5,1923.5,0,7.4,3.5
+2014,North Carolina,Adolescents,Middle,Male,Low Fat,Active,Overweight,28.8,14.4,2272.1,4,3.2,5.0
+2011,Alaska,Adults,High,Female,Balanced,Sedentary,Underweight,16.0,0.8,2140.0,4,3.9,2.5
+2022,Louisiana,Children,High,Male,Balanced,Moderate,Obese,30.1,8.1,2619.5,1,4.0,8.9
+2019,New York,Adults,High,Male,Balanced,Moderate,Obese,31.4,10.3,3210.0,3,1.2,7.3
+2002,Washington,Children,Low,Male,Balanced,Moderate,Normal,24.0,11.6,2833.9,0,4.1,1.8
+2004,Wisconsin,Seniors,Middle,Female,High Fat,Active,Overweight,27.6,18.7,2370.8,2,8.2,6.9
+2018,Hawaii,Adults,Middle,Male,High Fat,Active,Obese,36.8,13.4,3406.2,0,9.1,5.4
+2004,Massachusetts,Adolescents,High,Female,Balanced,Moderate,Normal,24.5,9.6,2938.5,3,5.7,9.6
+2020,Montana,Children,Middle,Male,High Fat,Active,Normal,21.7,16.2,3360.3,2,5.1,1.0
+2008,Missouri,Unknown,Middle,Male,High Fat,Active,Obese,34.4,19.0,2555.2,1,1.3,3.2
+2004,Michigan,Adults,High,Male,Low Fat,Sedentary,Obese,36.8,0.4,2017.8,0,8.9,9.4
+2017,Nebraska,Seniors,Low,Female,Low Fat,Active,Overweight,27.0,19.0,1605.7,0,1.1,9.4
+2003,Wisconsin,Adults,Low,Female,Low Fat,Sedentary,Overweight,27.0,1.7,2952.2,4,9.5,7.5
+2013,Illinois,Seniors,Low,Female,Low Fat,Moderate,Obese,33.7,9.75,1740.0,2,5.4,7.9
+2017,New York,Seniors,High,Male,High Fat,Moderate,Normal,23.3,5.6,2105.6,2,4.1,1.8
+2008,North Dakota,Children,Middle,Male,Balanced,Sedentary,Normal,24.6,2.6,2560.0,3,9.3,5.6
+2020,South Dakota,Adults,High,Female,High Fat,Moderate,Obese,33.2,8.8,2628.8,5,1.2,3.1
+2001,Ohio,Adults,High,Female,Unknown,Active,Obese,35.4,12.9,2701.2,3,6.2,2.6
+2019,Unknown,Seniors,Middle,Female,High Fat,Moderate,Overweight,27.0,7.6,1832.5,0,5.9,8.3
+2014,Texas,Adults,Low,Female,Low Fat,Sedentary,Normal,22.6,1.1,2259.5,0,3.0,2.2
+2006,West Virginia,Adolescents,Low,Female,Low Fat,Moderate,Obese,36.9,12.0,2734.4,2,4.9,5.2
+2011,Colorado,Adolescents,High,Female,Low Fat,Active,Normal,24.3,18.0,2272.1,2,6.9,9.4
+2007,Nevada,Adults,Low,Male,Balanced,Moderate,Overweight,25.3,7.7,2950.0,2,7.5,2.7
+2014,Kentucky,Adults,High,Female,High Fat,Sedentary,Overweight,28.7,4.3,3345.2,3,1.0,9.8
+2002,California,Seniors,High,Male,Balanced,Moderate,Obese,34.8,8.9,3024.4,0,9.4,9.9
+2014,New Mexico,Adolescents,Middle,Male,Low Fat,Sedentary,Obese,31.3,1.0,2680.0,0,2.5,6.0
+2016,California,Adolescents,Middle,Female,Balanced,Active,Overweight,29.1,16.4,1884.0,3,3.1,2.5
+2003,Pennsylvania,Unknown,Middle,Female,High Fat,Active,Overweight,29.3,16.5,2833.4,2,3.4,3.8
+2017,Arizona,Seniors,High,Male,Unknown,Moderate,Overweight,27.2,11.8,2746.8,3,1.3,4.8
+2007,Maine,Children,Middle,Female,Low Fat,Moderate,Overweight,29.8,7.1,2272.1,1,2.1,3.8
+2004,Oregon,Adolescents,Low,Female,Low Fat,Active,Underweight,14.0,16.0,2479.6,3,9.9,3.5
+2001,Oregon,Seniors,Low,Male,Balanced,Moderate,Overweight,25.5,11.1,2550.0,3,3.8,9.8
+2005,Georgia,Adults,High,Male,Low Fat,Active,Overweight,28.2,16.5,2168.9,1,2.0,2.4
+2021,Georgia,Seniors,High,Male,Low Fat,Active,Normal,21.2,12.6,2538.6,3,2.0,7.6
+2012,Maine,Adults,Middle,Female,High Fat,Active,Overweight,28.9,15.7,1895.1,4,7.5,1.0
+2003,Kentucky,Adults,High,Male,Unknown,Moderate,Overweight,26.0,12.0,3110.3,2,8.7,6.4
+2021,Massachusetts,Seniors,High,Female,Low Fat,Moderate,Obese,35.0,8.3,1871.6,1,3.3,9.2
+2017,Indiana,Adults,Low,Male,High Fat,Active,Obese,34.9,19.2,1669.9,4,1.2,3.6
+2011,Florida,Unknown,Low,Male,High Fat,Moderate,Normal,24.7,10.8,2372.5,1,3.0,2.7
+2001,Virginia,Adolescents,Middle,Male,Balanced,Moderate,Overweight,26.2,12.1,2816.6,1,1.5,6.9
+2009,Alabama,Adults,Unknown,Female,Low Fat,Sedentary,Overweight,26.6,4.4,2375.4,3,1.9,7.4
+2003,Vermont,Children,High,Female,High Fat,Active,Normal,24.7,12.5,2053.5,1,4.9,7.2
+2013,Illinois,Adults,Low,Male,Balanced,Moderate,Overweight,28.0,11.4,2272.1,4,3.1,3.9
+2015,Arkansas,Adolescents,High,Male,Balanced,Sedentary,Normal,23.2,3.7,2194.0,3,5.6,3.3
+2014,Alabama,Children,Low,Male,Low Fat,Sedentary,Normal,21.3,1.2,3365.7,0,3.3,9.6
+2004,Wisconsin,Adolescents,Middle,Unknown,Low Fat,Moderate,Obese,30.1,12.1,3345.3,2,9.5,9.3
+2013,South Carolina,Adolescents,Low,Male,Balanced,Active,Obese,30.1,15.0,2504.7,3,9.2,5.1
+2022,New York,Children,High,Female,High Fat,Moderate,Overweight,27.0,10.0,2155.8,2,6.1,8.6
+2004,North Dakota,Children,Middle,Male,Balanced,Sedentary,Obese,31.5,4.5,2974.3,1,4.2,5.1
+2021,Nevada,Children,Low,Male,Low Fat,Active,Normal,23.8,13.0,1573.4,4,4.4,4.8
+2015,New Mexico,Seniors,Low,Male,High Fat,Sedentary,Overweight,28.0,1.6,2449.5,1,4.7,2.4
+2012,Delaware,Children,Middle,Male,High Fat,Moderate,Obese,31.0,8.8,2170.0,1,7.5,4.8
+2017,Ohio,Children,Middle,Male,Balanced,Sedentary,Overweight,26.8,3.3,2272.1,0,5.1,5.8
+2014,Montana,Children,Low,Male,Low Fat,Sedentary,Overweight,29.3,3.7,1524.0,3,8.7,1.2
+2020,New York,Children,High,Female,Balanced,Sedentary,Normal,24.4,4.0,2605.6,0,9.5,5.0
+2023,Arizona,Adults,Low,Male,Balanced,Moderate,Overweight,26.0,7.7,2981.3,2,4.0,8.0
+2012,Wyoming,Seniors,Middle,Female,Balanced,Sedentary,Overweight,26.0,1.0,2470.0,1,6.0,7.1
+2008,Idaho,Adolescents,Low,Male,High Fat,Moderate,Normal,23.0,8.0,1670.8,1,1.9,6.7
+2014,Alabama,Children,Middle,Male,High Fat,Moderate,Overweight,26.1,10.0,3444.9,2,2.8,9.2
+2012,Utah,Adults,Middle,Female,Low Fat,Moderate,Normal,19.0,9.7,2536.0,4,4.7,1.2
+2004,California,Adults,High,Male,Low Fat,Moderate,Normal,24.5,7.7,2720.0,4,2.9,6.0
+2004,New York,Adults,Middle,Female,Balanced,Active,Overweight,25.0,16.8,1973.2,3,8.9,8.1
+2008,New Jersey,Adolescents,Middle,Female,Balanced,Sedentary,Overweight,27.0,2.9,2467.0,4,2.4,5.9
+2023,Kentucky,Children,High,Male,Balanced,Moderate,Overweight,27.0,10.1,2358.3,1,5.15,3.9
+2000,Texas,Seniors,Middle,Female,Low Fat,Sedentary,Overweight,26.7,1.2,1649.8,2,6.5,2.2
+2011,Washington,Seniors,High,Female,High Fat,Sedentary,Overweight,29.4,1.4,1712.3,1,7.2,9.0
+2004,Maine,Adults,High,Male,High Fat,Moderate,Obese,31.4,11.5,3170.0,1,4.4,5.2
+2021,Iowa,Adolescents,Middle,Female,Balanced,Moderate,Normal,23.8,11.0,1979.6,4,8.8,8.9
+2010,Oregon,Adolescents,Middle,Male,Balanced,Active,Normal,21.0,17.6,1889.9,2,5.15,6.3
+2018,Massachusetts,Adolescents,Low,Male,Balanced,Moderate,Normal,21.8,11.2,2509.8,0,5.0,7.1
+2014,Indiana,Seniors,High,Male,Balanced,Active,Normal,24.0,19.2,3037.5,3,1.6,8.2
+2007,Alaska,Adults,Low,Male,Low Fat,Sedentary,Overweight,25.2,1.0,1623.9,1,5.2,6.9
+2002,Hawaii,Children,Middle,Female,High Fat,Sedentary,Normal,23.2,2.0,2650.0,2,8.4,4.6
+2004,Ohio,Seniors,Low,Male,Balanced,Sedentary,Normal,20.5,0.9,1738.4,2,6.5,5.6
+2000,Pennsylvania,Adults,High,Male,Low Fat,Sedentary,Overweight,27.0,3.7,1572.9,0,8.5,8.2
+2004,New York,Adults,Low,Female,Balanced,Moderate,Overweight,27.9,10.0,1605.5,2,5.4,4.4
+2009,Pennsylvania,Children,High,Male,Balanced,Active,Obese,30.0,12.9,3168.3,5,2.1,4.5
+2006,Wyoming,Children,Middle,Male,High Fat,Sedentary,Normal,24.2,0.9,1735.9,2,5.15,1.9
+2008,New York,Children,Middle,Female,Balanced,Active,Normal,24.0,18.0,1590.0,3,3.7,9.2
+2006,Louisiana,Adolescents,High,Female,High Fat,Active,Normal,22.4,16.8,2375.8,0,7.3,1.8
+2008,New Jersey,Children,Middle,Female,High Fat,Moderate,Overweight,26.8,5.9,3188.0,2,8.1,6.8
+2007,Iowa,Adults,Middle,Female,High Fat,Sedentary,Overweight,27.0,1.5,2024.8,1,3.7,4.7
+2011,Nebraska,Children,Middle,Female,Low Fat,Sedentary,Obese,29.9,3.4,2340.0,3,5.5,5.4
+2001,North Dakota,Adults,Middle,Female,Low Fat,Sedentary,Underweight,18.0,2.5,1579.8,2,4.8,7.1
+2000,Oregon,Seniors,High,Female,High Fat,Sedentary,Overweight,25.0,2.5,2272.1,1,4.7,1.6
+2015,North Carolina,Adolescents,Low,Male,Balanced,Moderate,Overweight,28.5,10.4,2650.0,2,3.1,6.3
+2022,Missouri,Seniors,Low,Female,High Fat,Sedentary,Overweight,27.9,4.9,2641.8,1,2.2,7.9
+2022,Iowa,Seniors,Middle,Female,Balanced,Moderate,Obese,40.5,7.2,2164.9,2,2.8,8.5
+2023,New Jersey,Adults,Low,Female,High Fat,Active,Overweight,28.0,19.8,2130.0,5,1.5,2.5
+2004,Tennessee,Seniors,Low,Male,Balanced,Active,Normal,22.0,13.7,1713.2,3,2.8,9.1
+2002,Kentucky,Adults,Middle,Male,Low Fat,Active,Overweight,26.5,19.0,2233.6,4,1.1,6.9
+2011,California,Children,Middle,Female,Balanced,Sedentary,Underweight,18.0,2.9,1699.0,2,6.6,8.9
+2007,New Hampshire,Children,Low,Female,High Fat,Moderate,Overweight,26.6,7.6,3033.2,2,3.8,5.4
+2021,Arkansas,Adults,High,Female,Low Fat,Moderate,Overweight,27.0,11.1,3432.5,0,9.8,5.9
+2002,Georgia,Children,Middle,Unknown,Unknown,Sedentary,Obese,31.6,1.5,3440.1,2,2.7,9.3
+2000,Unknown,Adolescents,High,Male,Balanced,Sedentary,Normal,24.3,0.1,3230.0,1,4.1,9.1
+2002,Georgia,Unknown,Low,Female,Balanced,Active,Overweight,26.4,13.4,2701.6,1,4.2,5.4
+2004,Kentucky,Adolescents,Middle,Male,Balanced,Active,Normal,23.0,12.8,2901.7,2,1.1,5.4
+2014,Maryland,Seniors,Unknown,Female,Balanced,Moderate,Obese,35.7,8.2,2070.4,3,8.6,4.5
+2013,Unknown,Children,Middle,Male,Low Fat,Moderate,Overweight,25.4,9.8,2761.5,1,1.3,4.5
+2004,California,Adolescents,Low,Male,Low Fat,Moderate,Obese,36.2,8.3,2411.3,2,9.5,3.6
+2000,North Dakota,Children,High,Female,Low Fat,Sedentary,Obese,31.1,0.5,2464.0,3,9.0,3.4
+2004,Colorado,Seniors,Low,Female,Low Fat,Moderate,Overweight,29.4,6.7,3010.0,2,5.8,8.7
+2022,Alaska,Adults,Low,Female,High Fat,Sedentary,Overweight,27.0,3.5,2063.8,1,5.9,1.6
+2012,Illinois,Adults,Middle,Female,Low Fat,Sedentary,Overweight,29.0,2.0,2136.1,1,6.9,7.1
+2004,Unknown,Adolescents,High,Male,Balanced,Active,Underweight,17.0,19.1,3349.3,3,4.5,2.6
+2008,Texas,Children,Low,Male,Balanced,Moderate,Overweight,25.6,12.0,1612.4,3,6.8,4.1
+2014,West Virginia,Children,Low,Male,Low Fat,Active,Obese,31.2,14.6,2471.3,1,1.4,1.6
+2014,Hawaii,Adolescents,High,Female,Balanced,Moderate,Overweight,26.8,6.3,3325.6,0,1.5,3.4
+2009,Washington,Adults,Low,Male,Low Fat,Moderate,Normal,20.0,7.9,2720.7,3,5.1,7.9
+2012,Maine,Seniors,Low,Female,Balanced,Sedentary,Overweight,26.0,4.7,2592.8,3,5.9,9.0
+2018,Kansas,Adolescents,High,Male,High Fat,Moderate,Obese,35.5,9.75,1999.5,3,9.0,3.0
+2006,New Mexico,Seniors,High,Female,High Fat,Moderate,Obese,33.2,9.75,2186.6,0,1.9,5.2
+2016,Hawaii,Adults,High,Female,Low Fat,Active,Overweight,26.7,16.0,3204.1,0,8.4,5.2
+2019,Kansas,Children,High,Male,Low Fat,Active,Obese,31.8,13.6,2618.4,0,2.9,8.9
+2012,Delaware,Adults,Middle,Female,Low Fat,Moderate,Overweight,25.2,10.9,2520.0,4,4.5,7.9
+2004,Unknown,Adolescents,High,Female,Balanced,Moderate,Normal,18.5,9.75,1699.2,1,3.8,5.6
+2022,South Carolina,Unknown,Middle,Male,Low Fat,Active,Normal,22.0,18.4,1532.1,3,4.6,7.0
+2006,Arkansas,Adolescents,Middle,Female,High Fat,Sedentary,Obese,34.0,1.5,3427.4,0,2.4,8.6
+2012,Missouri,Adolescents,Middle,Female,Balanced,Moderate,Overweight,25.6,5.6,2254.0,0,5.5,1.1
+2012,Arizona,Adults,Low,Female,Low Fat,Moderate,Overweight,25.8,7.0,2706.4,4,8.2,4.6
+2010,New York,Adolescents,Middle,Male,Balanced,Active,Overweight,25.0,15.0,1659.4,1,5.0,9.2
+2003,Arizona,Adults,Middle,Male,Balanced,Active,Obese,36.5,19.9,2866.2,2,5.15,7.7
+2012,Nebraska,Children,Low,Female,Low Fat,Sedentary,Obese,35.1,4.8,3365.1,4,8.6,5.9
+2012,New Hampshire,Adults,Low,Male,Balanced,Active,Obese,38.1,17.5,2651.3,1,7.4,5.8
+2018,New York,Children,Low,Female,High Fat,Active,Overweight,26.2,16.6,1752.2,0,5.4,4.1
+2021,Wyoming,Adults,High,Female,High Fat,Moderate,Overweight,28.5,9.75,2660.0,1,5.15,5.7
+2001,Maine,Seniors,Low,Female,Balanced,Moderate,Normal,19.4,8.0,3032.7,2,9.0,6.9
+2009,Massachusetts,Seniors,Low,Female,Low Fat,Moderate,Obese,34.4,8.2,2312.8,1,6.2,4.8
+2012,California,Adolescents,Middle,Female,Balanced,Active,Normal,21.2,19.6,3259.7,1,3.0,7.4
+2020,Louisiana,Adults,Low,Male,High Fat,Sedentary,Overweight,28.1,3.6,2797.4,1,3.4,8.8
+2005,Nevada,Adults,High,Female,Balanced,Active,Normal,21.5,16.0,3298.5,3,8.2,2.4
+2011,Tennessee,Children,Low,Male,Balanced,Moderate,Normal,24.1,6.7,2747.0,1,1.4,5.1
+2011,Michigan,Adolescents,High,Male,High Fat,Active,Normal,22.8,14.6,1760.0,1,9.9,4.7
+2014,Massachusetts,Adults,Low,Female,Balanced,Moderate,Overweight,27.0,8.4,2119.4,3,2.2,7.2
+2014,Colorado,Adolescents,Low,Female,Balanced,Moderate,Normal,24.3,11.6,1903.6,1,8.2,3.2
+2022,Alabama,Seniors,Low,Male,Low Fat,Active,Normal,24.3,16.7,3317.7,2,4.6,6.8
+2004,California,Adults,Low,Male,Low Fat,Active,Obese,31.2,16.1,3020.8,0,5.4,8.9
+2004,South Dakota,Adults,High,Male,High Fat,Active,Normal,21.5,17.3,2852.8,1,8.9,4.8
+2000,Idaho,Adolescents,High,Female,High Fat,Sedentary,Overweight,28.1,1.2,2101.9,3,4.7,9.2
+2019,Montana,Adults,Middle,Male,High Fat,Active,Obese,33.0,13.8,1868.1,1,5.8,9.9
+2012,Virginia,Adolescents,High,Female,Low Fat,Sedentary,Normal,24.4,2.8,3012.9,1,1.4,2.0
+2004,North Dakota,Adults,Low,Female,High Fat,Moderate,Normal,23.4,8.3,2448.3,2,1.0,3.1
+2002,Wisconsin,Children,Middle,Female,High Fat,Moderate,Overweight,25.8,11.0,1951.6,0,3.2,9.6
+2006,Indiana,Adolescents,Middle,Male,High Fat,Moderate,Obese,32.9,9.75,2733.2,4,7.1,9.6
+2005,Montana,Adults,Middle,Female,Low Fat,Moderate,Overweight,28.0,10.4,1580.7,2,2.1,1.9
+2007,Vermont,Seniors,Low,Female,Balanced,Active,Normal,24.3,19.0,2152.3,1,2.0,1.1
+2008,Nebraska,Adults,High,Female,High Fat,Sedentary,Overweight,29.4,2.7,2437.1,1,4.7,2.4
+2004,Florida,Seniors,Low,Female,Balanced,Active,Normal,21.5,13.5,1790.0,2,6.8,10.0
+2000,Montana,Seniors,Middle,Female,High Fat,Moderate,Obese,30.4,7.9,3469.3,1,5.15,2.6
+2018,Texas,Children,Low,Male,Balanced,Sedentary,Overweight,29.0,2.7,1918.2,2,2.6,5.5
+2009,Michigan,Adolescents,Low,Female,Low Fat,Sedentary,Overweight,25.5,3.2,1760.7,2,1.7,8.6
+2011,Washington,Adults,High,Female,Low Fat,Active,Normal,22.8,19.0,1907.1,1,9.5,1.2
+2023,New Jersey,Children,High,Male,High Fat,Active,Normal,22.6,17.6,3038.1,1,3.3,6.4
+2014,Texas,Adults,Middle,Female,Balanced,Active,Overweight,29.7,18.1,2351.0,5,8.7,3.5
+2021,West Virginia,Seniors,Low,Male,Low Fat,Active,Obese,33.1,19.8,2630.8,1,8.8,8.8
+2023,Kentucky,Adolescents,Low,Female,High Fat,Sedentary,Normal,23.8,4.2,1542.0,6,8.0,3.6
+2008,Montana,Adults,High,Male,High Fat,Moderate,Overweight,29.0,7.1,1568.9,4,2.5,7.2
+2019,Oklahoma,Adults,Low,Male,Low Fat,Active,Underweight,16.6,13.4,2391.7,2,8.4,7.1
+2014,Alabama,Seniors,Low,Female,Low Fat,Moderate,Normal,24.1,9.7,3133.3,1,7.9,3.0
+2016,Delaware,Adults,Low,Female,High Fat,Moderate,Overweight,26.0,8.4,3270.5,1,6.4,1.3
+2019,Wisconsin,Adults,High,Female,Balanced,Moderate,Normal,22.5,7.2,1673.4,3,4.0,4.7
+2011,Ohio,Seniors,Middle,Male,Balanced,Moderate,Normal,22.3,11.9,2576.7,2,3.4,3.6
+2006,Iowa,Children,Middle,Male,Unknown,Moderate,Normal,23.7,11.5,3326.5,1,2.1,8.3
+2001,Washington,Seniors,Low,Male,High Fat,Sedentary,Overweight,28.5,3.2,2275.9,4,5.6,8.2
+2002,Michigan,Children,Middle,Unknown,Low Fat,Moderate,Overweight,26.1,9.4,3159.1,2,6.3,5.1
+2016,Indiana,Adolescents,High,Male,High Fat,Moderate,Underweight,15.8,11.1,1767.4,1,4.2,6.5
+2004,Montana,Children,High,Male,Low Fat,Moderate,Underweight,16.0,11.4,3370.8,3,5.3,6.4
+2016,Nevada,Children,Middle,Female,Balanced,Sedentary,Normal,24.0,4.2,3000.0,2,4.3,8.4
+2023,Minnesota,Adolescents,Middle,Male,Balanced,Active,Overweight,29.3,14.8,3382.7,4,6.8,4.8
+2016,Indiana,Children,Low,Male,Low Fat,Sedentary,Underweight,13.0,0.5,2853.2,4,9.1,3.5
+2016,Mississippi,Seniors,Middle,Female,Low Fat,Moderate,Normal,24.5,7.1,2226.8,1,2.5,3.4
+2004,Alaska,Children,Low,Male,High Fat,Active,Normal,24.4,15.6,3376.4,4,4.4,5.8
+2001,Vermont,Adolescents,Low,Female,Balanced,Moderate,Obese,33.9,11.3,2051.1,0,2.3,5.0
+2021,Montana,Seniors,High,Female,High Fat,Moderate,Overweight,25.1,5.2,2164.3,3,6.6,5.0
+2022,Indiana,Adolescents,High,Female,High Fat,Active,Overweight,28.9,13.9,2901.6,3,7.6,1.8
+2004,Connecticut,Adolescents,High,Female,High Fat,Moderate,Overweight,27.0,11.3,3030.6,2,9.4,7.5
+2000,Arizona,Adults,High,Female,Balanced,Active,Underweight,16.0,15.9,3358.8,3,3.5,2.9
+2000,Washington,Adults,Middle,Male,High Fat,Active,Obese,30.8,14.7,1909.6,1,9.6,2.8
+2018,Minnesota,Adolescents,High,Male,High Fat,Moderate,Overweight,28.1,12.2,3096.0,4,1.6,4.7
+2004,Virginia,Adolescents,Middle,Female,High Fat,Moderate,Overweight,29.5,9.8,2977.1,0,6.4,3.1
+2020,Texas,Adolescents,High,Female,High Fat,Sedentary,Obese,46.0,2.7,1627.6,0,1.5,6.3
+2011,Texas,Adults,Middle,Male,High Fat,Moderate,Underweight,16.6,5.2,2274.4,0,9.0,4.3
+2004,Vermont,Adults,Low,Female,High Fat,Moderate,Obese,35.0,8.4,2065.5,1,5.8,5.0
+2012,Louisiana,Children,Middle,Female,Balanced,Moderate,Overweight,25.6,12.0,2109.0,0,7.0,5.8
+2003,Pennsylvania,Children,Middle,Female,High Fat,Moderate,Overweight,28.4,10.3,3465.9,3,8.5,2.8
+2022,Ohio,Adolescents,High,Male,Low Fat,Moderate,Overweight,26.8,5.8,2785.6,1,2.4,2.4
+2014,Iowa,Seniors,Middle,Male,High Fat,Sedentary,Obese,24.9,0.1,2930.0,1,1.3,8.9
+2023,Missouri,Seniors,Low,Female,High Fat,Moderate,Normal,24.2,9.9,3453.2,1,8.9,4.9
+2016,Oregon,Adults,Low,Female,Balanced,Moderate,Overweight,28.6,5.7,2254.4,4,3.8,4.7
+2005,Nevada,Unknown,High,Male,Balanced,Moderate,Normal,19.4,9.75,3103.7,3,2.2,1.3
+2023,Georgia,Adults,Low,Male,Low Fat,Sedentary,Obese,30.8,0.5,2360.0,0,5.2,5.5
+2004,Rhode Island,Adolescents,Middle,Female,Low Fat,Moderate,Obese,24.9,11.7,3239.1,1,6.4,6.0
+2019,Kentucky,Seniors,Low,Female,Balanced,Active,Normal,21.3,18.8,1861.3,4,1.3,6.0
+2001,Rhode Island,Children,Unknown,Male,Balanced,Sedentary,Normal,24.7,3.5,3395.4,2,3.5,7.4
+2004,Michigan,Adolescents,Middle,Male,High Fat,Moderate,Obese,33.0,9.4,1930.0,1,1.3,2.6
+2021,Montana,Children,High,Male,Balanced,Sedentary,Normal,24.0,1.8,2150.0,2,4.8,3.3
+2010,Utah,Children,Middle,Female,Low Fat,Active,Overweight,28.8,12.5,3012.4,1,9.1,8.3
+2015,Missouri,Adolescents,Low,Male,High Fat,Moderate,Normal,23.0,11.0,2280.0,3,9.8,9.5
+2014,Kentucky,Children,High,Female,Low Fat,Moderate,Obese,30.8,8.1,2710.0,3,6.7,2.2
+2000,Illinois,Seniors,High,Male,High Fat,Moderate,Obese,30.4,10.0,2389.1,6,2.5,5.5
+2008,Maryland,Children,Middle,Male,Balanced,Active,Obese,36.0,17.0,2980.0,1,9.2,2.9
+2005,Missouri,Seniors,High,Male,Low Fat,Sedentary,Overweight,26.1,3.9,1956.7,3,5.6,1.5
+2015,Arkansas,Seniors,Middle,Male,High Fat,Sedentary,Obese,30.3,0.5,1610.0,1,2.4,3.9
+2002,Georgia,Seniors,Middle,Female,High Fat,Active,Overweight,27.5,17.2,2099.9,4,9.3,2.3
+2019,Arizona,Adults,Middle,Female,Balanced,Moderate,Obese,33.5,11.5,2448.6,2,7.8,7.4
+2003,South Dakota,Children,Middle,Male,Balanced,Active,Normal,23.0,17.8,1836.0,3,7.6,5.8
+2014,Vermont,Adolescents,Low,Female,Balanced,Moderate,Obese,30.7,11.9,2209.6,1,7.4,2.3
+2002,Louisiana,Adolescents,Middle,Male,Low Fat,Active,Overweight,26.0,16.2,2300.0,2,2.8,1.1
+2014,Washington,Children,Unknown,Male,High Fat,Moderate,Overweight,26.7,8.6,1614.8,2,2.9,8.3
+2019,Oklahoma,Adults,Low,Male,Balanced,Active,Overweight,27.5,15.0,2666.6,2,7.2,2.6
+2006,Washington,Unknown,High,Male,Low Fat,Active,Overweight,28.0,18.0,3268.7,1,3.0,6.5
+2019,Michigan,Seniors,Low,Female,Low Fat,Moderate,Overweight,26.4,11.4,1803.5,4,4.9,4.0
+2008,North Dakota,Children,Middle,Male,Low Fat,Sedentary,Overweight,28.0,3.6,2695.6,1,8.0,6.3
+2000,Texas,Children,Low,Male,Balanced,Moderate,Obese,34.0,5.4,2829.5,1,8.1,3.8
+2007,Delaware,Adolescents,Low,Female,Balanced,Sedentary,Obese,31.9,4.0,2330.0,2,5.1,1.8
+2006,South Dakota,Children,High,Male,High Fat,Sedentary,Obese,31.3,4.9,2902.2,2,8.1,3.0
+2017,Wisconsin,Adults,High,Male,High Fat,Moderate,Normal,24.7,6.1,2320.0,5,8.5,2.7
+2007,Utah,Children,Middle,Male,Balanced,Moderate,Normal,22.6,9.75,2509.3,0,6.9,4.9
+2000,Maine,Adolescents,Low,Female,Low Fat,Moderate,Obese,31.8,11.0,1514.7,0,3.1,6.9
+2014,Tennessee,Seniors,Low,Male,Low Fat,Moderate,Obese,31.4,8.5,2883.4,2,3.5,3.4
+2017,South Dakota,Adolescents,Low,Female,Low Fat,Moderate,Obese,34.4,12.0,2820.0,1,3.8,1.1
+2022,Oregon,Adolescents,Middle,Male,High Fat,Sedentary,Normal,24.0,1.6,1576.8,4,2.1,5.7
+2009,Colorado,Seniors,Middle,Male,Low Fat,Moderate,Overweight,25.9,9.75,2236.5,4,3.5,6.5
+2002,Montana,Adolescents,Unknown,Female,High Fat,Sedentary,Normal,18.8,3.4,3458.1,2,2.9,9.7
+2006,North Dakota,Adolescents,Middle,Male,High Fat,Moderate,Overweight,25.0,10.0,2341.5,1,5.15,6.3
+2015,Vermont,Children,Middle,Male,Low Fat,Sedentary,Obese,32.0,4.3,2503.9,1,9.2,5.2
+2015,Colorado,Children,High,Unknown,Low Fat,Moderate,Normal,24.7,5.7,3319.9,4,1.9,6.2
+2019,Oregon,Seniors,Low,Female,Balanced,Moderate,Obese,30.2,8.0,2930.0,1,5.15,9.4
+2016,North Carolina,Children,Unknown,Female,Balanced,Active,Overweight,26.0,16.0,2664.1,3,7.2,8.5
+2001,Michigan,Children,Low,Female,Low Fat,Sedentary,Overweight,28.6,0.3,3095.6,0,1.9,3.9
+2004,Massachusetts,Adolescents,Low,Female,High Fat,Active,Normal,21.3,13.0,3228.7,1,9.3,3.1
+2015,Colorado,Adults,Low,Male,High Fat,Active,Overweight,27.4,13.4,2413.8,3,6.1,3.4
+2011,Colorado,Children,Low,Female,High Fat,Active,Underweight,12.0,16.0,2450.2,1,4.3,5.5
+2004,Texas,Adults,Low,Male,High Fat,Active,Overweight,26.1,18.7,2272.1,3,7.8,7.7
+2004,Arkansas,Children,Low,Male,High Fat,Sedentary,Normal,18.8,0.4,3433.4,2,3.3,5.5
+2022,New York,Children,High,Male,Balanced,Sedentary,Obese,33.0,3.1,2890.0,2,7.2,1.6
+2008,Hawaii,Seniors,Low,Female,Low Fat,Active,Obese,30.9,17.7,1666.4,1,1.4,7.5
+2008,New Jersey,Unknown,High,Female,Balanced,Moderate,Overweight,29.0,9.2,3220.0,2,8.6,8.3
+2002,New Mexico,Seniors,Middle,Male,High Fat,Moderate,Obese,34.6,11.3,2461.1,0,5.0,3.6
+2018,Mississippi,Adults,Low,Female,High Fat,Active,Normal,22.3,13.0,1630.0,1,6.7,7.0
+2015,Florida,Adolescents,Middle,Female,High Fat,Active,Obese,35.7,13.6,2599.4,0,3.0,4.8
+2015,Arizona,Children,Middle,Female,High Fat,Active,Obese,31.7,18.6,2334.3,5,7.1,9.0
+2002,New Mexico,Children,Middle,Female,Low Fat,Active,Overweight,25.8,19.9,3255.5,4,8.0,8.6
+2019,South Carolina,Children,High,Male,High Fat,Active,Obese,32.7,14.4,1908.0,3,5.3,5.7
+2023,Oregon,Adults,Middle,Male,Low Fat,Moderate,Normal,21.5,5.7,3152.9,1,6.6,7.2
+2021,Oklahoma,Seniors,Middle,Female,Unknown,Active,Normal,22.9,17.0,2615.4,2,5.15,9.0
+2023,Mississippi,Adolescents,Middle,Unknown,Low Fat,Sedentary,Normal,24.0,1.0,1609.2,1,9.0,5.5
+2000,New Mexico,Adults,Low,Female,Balanced,Moderate,Normal,24.4,9.75,3443.7,4,5.5,3.8
+2012,Colorado,Seniors,Low,Unknown,High Fat,Active,Normal,21.7,17.0,2525.2,1,8.6,7.8
+2019,Alaska,Adults,High,Male,Low Fat,Moderate,Obese,33.1,5.1,2272.1,0,8.2,3.0
+2010,Maryland,Adolescents,High,Male,Balanced,Sedentary,Overweight,25.7,4.4,2438.8,3,4.7,4.5
+2014,Nevada,Seniors,Low,Male,High Fat,Sedentary,Overweight,28.8,2.8,3215.7,1,3.1,8.8
+2007,Hawaii,Adults,High,Female,High Fat,Active,Normal,24.1,17.2,2109.8,3,4.7,7.5
+2003,Arkansas,Adolescents,Low,Male,High Fat,Moderate,Underweight,17.9,10.0,1885.4,0,8.4,4.6
+2005,Iowa,Children,Middle,Female,Low Fat,Active,Overweight,28.0,13.5,1758.1,2,3.0,2.9
+2007,Colorado,Adolescents,Middle,Male,Low Fat,Sedentary,Underweight,17.4,4.8,2090.0,2,5.7,4.2
+2019,Wisconsin,Children,High,Male,Balanced,Active,Overweight,26.0,15.2,3060.1,1,8.3,3.6
+2002,New Jersey,Adults,Low,Female,Low Fat,Active,Normal,20.2,15.2,2443.3,3,4.2,2.6
+2015,Pennsylvania,Seniors,Low,Unknown,Low Fat,Moderate,Obese,36.9,6.3,1955.0,3,6.8,7.7
+2002,Alaska,Seniors,High,Female,High Fat,Moderate,Obese,31.6,9.75,1830.0,1,3.2,3.3
+2017,Iowa,Adults,Low,Female,High Fat,Sedentary,Overweight,27.5,4.2,2165.5,1,2.0,5.1
+2013,Hawaii,Seniors,Middle,Female,High Fat,Active,Obese,33.0,19.5,3379.8,3,8.1,4.5
+2017,Delaware,Seniors,High,Female,High Fat,Active,Normal,22.8,12.9,2186.1,1,1.9,9.8
+2001,Montana,Children,High,Female,High Fat,Active,Overweight,29.0,18.7,3470.0,0,3.4,4.5
+2021,Vermont,Adults,Low,Female,High Fat,Moderate,Overweight,28.0,6.1,2470.5,1,8.7,1.7
+2002,Utah,Adolescents,High,Male,High Fat,Active,Overweight,28.3,15.6,1858.3,3,4.1,1.8
+2015,California,Children,Low,Female,Balanced,Active,Obese,33.4,15.3,3282.3,4,9.8,6.3
+2008,Colorado,Adults,Low,Female,Balanced,Active,Obese,30.7,13.8,2420.7,2,9.8,6.4
+2003,Montana,Unknown,Low,Male,Balanced,Active,Overweight,28.4,19.3,2919.3,0,3.4,4.8
+2000,Arkansas,Adolescents,Low,Female,Balanced,Moderate,Underweight,18.0,7.9,3460.0,2,1.4,4.9
+2003,Maine,Adolescents,Low,Male,High Fat,Sedentary,Normal,22.2,2.6,1600.4,1,7.3,1.5
+2000,Maryland,Adults,High,Male,Balanced,Active,Overweight,26.4,13.0,1693.4,3,5.1,5.6
+2013,North Carolina,Adolescents,Unknown,Female,High Fat,Active,Overweight,27.0,14.6,2940.9,2,1.9,5.5
+2020,Maryland,Children,Middle,Male,Balanced,Moderate,Normal,21.3,11.5,2063.7,2,7.4,2.3
+2015,Wisconsin,Adolescents,High,Female,Low Fat,Sedentary,Obese,39.1,4.1,1868.6,2,1.3,1.9
+2014,Idaho,Children,High,Male,Balanced,Moderate,Obese,34.6,10.0,1578.7,0,8.8,2.1
+2023,Washington,Children,Middle,Male,Balanced,Moderate,Obese,30.0,6.2,1543.7,3,2.2,1.9
+2004,Alabama,Adolescents,Middle,Male,High Fat,Moderate,Overweight,27.4,8.5,3049.0,2,2.1,6.5
+2006,Montana,Adults,Middle,Female,Balanced,Active,Overweight,25.9,12.9,1768.9,0,2.6,2.8
+2002,Indiana,Seniors,Middle,Female,Unknown,Active,Normal,22.2,14.9,2430.0,2,9.6,3.3
+2014,Pennsylvania,Adolescents,Middle,Male,High Fat,Sedentary,Overweight,27.0,4.6,2711.8,2,7.2,2.6
+2000,Oregon,Children,Low,Male,High Fat,Moderate,Overweight,28.0,8.1,2350.0,2,8.2,9.6
+2015,Hawaii,Children,High,Female,Balanced,Moderate,Normal,20.8,5.4,1554.2,2,4.6,8.7
+2011,Oklahoma,Adolescents,Low,Female,High Fat,Sedentary,Overweight,28.7,4.0,3067.0,3,4.0,3.1
+2018,Illinois,Adults,Middle,Male,High Fat,Active,Overweight,26.2,15.7,1521.0,1,3.1,3.9
+2021,Texas,Adults,Middle,Male,High Fat,Active,Underweight,17.0,18.2,3023.8,2,5.3,2.9
+2022,Arizona,Children,Middle,Female,High Fat,Moderate,Normal,22.7,7.4,3286.6,2,6.0,5.4
+2021,North Carolina,Children,Low,Female,High Fat,Active,Obese,24.9,15.0,2365.7,3,6.7,1.2
+2013,Colorado,Adults,Low,Female,High Fat,Active,Obese,36.0,17.9,2571.1,2,3.3,7.0
+2004,Wyoming,Seniors,Middle,Female,Low Fat,Active,Overweight,27.0,16.9,2454.0,4,9.5,5.7
+2005,Georgia,Adolescents,Low,Female,Balanced,Sedentary,Normal,20.3,3.7,2278.4,2,2.5,9.1
+2012,California,Children,Low,Male,Low Fat,Active,Overweight,29.4,19.1,3274.8,1,9.7,2.5
+2018,Minnesota,Children,Middle,Female,High Fat,Moderate,Normal,19.3,7.5,3287.9,1,1.1,8.2
+2021,Georgia,Adults,Low,Male,High Fat,Moderate,Obese,32.4,6.8,2171.6,0,5.3,8.1
+2007,Utah,Adolescents,High,Female,Balanced,Sedentary,Normal,24.0,1.2,2730.1,2,4.0,2.1
+2004,Alaska,Adults,High,Male,Low Fat,Moderate,Overweight,26.5,9.7,3353.8,4,5.0,4.6
+2020,Illinois,Adolescents,Unknown,Female,Balanced,Sedentary,Obese,33.6,2.2,3424.1,1,6.1,2.5
+2000,South Carolina,Adolescents,High,Female,Low Fat,Moderate,Normal,20.6,5.0,2517.9,0,4.9,3.3
+2014,Alaska,Adolescents,Middle,Male,High Fat,Moderate,Normal,20.0,6.3,2405.6,2,4.7,3.4
+2000,Maryland,Children,Middle,Male,Balanced,Active,Normal,24.0,16.2,2050.0,0,7.6,6.0
+2004,Alabama,Seniors,Middle,Female,Balanced,Active,Obese,32.2,17.5,3417.7,0,7.2,5.4
+2015,Oregon,Adults,High,Unknown,High Fat,Moderate,Normal,19.4,6.0,1785.6,3,8.5,9.5
+2018,Florida,Seniors,High,Female,Balanced,Active,Underweight,12.8,17.2,2659.7,2,3.2,2.1
+2003,Kentucky,Adults,Low,Female,Low Fat,Active,Normal,24.7,17.1,2065.1,3,6.5,9.8
+2002,Florida,Adolescents,Low,Female,Low Fat,Active,Overweight,29.8,15.3,2058.0,1,6.3,3.1
+2016,Hawaii,Children,High,Male,Low Fat,Sedentary,Obese,33.0,2.9,2309.9,1,4.3,8.0
+2016,Iowa,Seniors,High,Male,Low Fat,Active,Normal,24.7,13.8,3497.6,2,5.4,4.1
+2011,Unknown,Children,High,Female,High Fat,Active,Obese,24.9,18.0,1609.9,4,3.8,2.3
+2013,Oregon,Adults,High,Male,Balanced,Active,Obese,32.8,13.7,2657.1,3,2.3,8.7
+2020,Ohio,Children,Low,Male,Low Fat,Moderate,Underweight,17.7,6.6,1665.1,1,2.9,3.8
+2005,New Jersey,Children,High,Male,High Fat,Moderate,Overweight,25.0,10.0,1800.0,4,1.9,6.9
+2002,New Mexico,Unknown,Low,Female,Balanced,Active,Overweight,28.0,12.9,2379.1,1,7.1,6.1
+2012,Wisconsin,Adolescents,High,Male,Balanced,Moderate,Overweight,29.2,10.2,2520.9,3,6.9,5.4
+2004,California,Children,High,Female,High Fat,Sedentary,Normal,24.5,2.4,2017.6,1,9.6,5.5
+2023,Utah,Adolescents,High,Male,High Fat,Moderate,Overweight,27.0,6.2,2132.9,1,7.6,7.6
+2014,Wyoming,Adults,Low,Female,Low Fat,Active,Underweight,14.6,16.0,1673.9,2,1.5,1.8
+2013,Indiana,Children,Low,Male,Balanced,Active,Normal,23.7,17.2,2106.4,3,9.0,7.0
+2020,Hawaii,Seniors,Middle,Female,Balanced,Sedentary,Overweight,29.3,2.7,3433.1,1,8.8,9.1
+2004,Florida,Adults,High,Female,High Fat,Active,Normal,22.1,19.0,3389.4,3,5.0,1.5
+2004,North Dakota,Unknown,Middle,Male,Balanced,Moderate,Overweight,27.3,6.6,2169.8,2,6.3,2.3
+2019,Idaho,Seniors,Middle,Female,Low Fat,Active,Overweight,29.2,13.2,2272.1,3,9.8,7.4
+2020,Ohio,Children,Low,Female,Balanced,Active,Overweight,25.3,15.0,2272.1,2,5.15,4.9
+2022,Ohio,Children,Low,Female,High Fat,Active,Overweight,27.0,16.2,1512.4,0,9.1,4.6
+2000,Alabama,Adults,Middle,Female,High Fat,Active,Normal,22.2,18.0,2272.1,5,5.15,2.2
+2002,South Carolina,Children,Unknown,Female,Low Fat,Moderate,Overweight,26.0,6.3,3396.7,2,2.7,5.6
+2017,Michigan,Adolescents,Low,Female,Low Fat,Active,Obese,30.1,17.0,2272.1,2,5.0,2.1
+2009,New Hampshire,Seniors,High,Unknown,Balanced,Sedentary,Overweight,27.8,2.6,1822.9,0,6.3,5.3
+2021,Delaware,Adolescents,Unknown,Female,Balanced,Active,Normal,24.0,14.1,3420.0,4,8.3,7.9
+2002,Hawaii,Children,Middle,Male,High Fat,Active,Overweight,28.1,14.8,2575.1,1,9.9,3.3
+2007,South Dakota,Adults,Middle,Male,Low Fat,Active,Obese,30.6,13.6,1520.0,1,4.5,5.3
+2014,Oregon,Seniors,Middle,Female,Low Fat,Moderate,Underweight,16.8,5.0,2010.0,5,1.4,9.9
+2023,Indiana,Children,Middle,Female,Low Fat,Active,Obese,32.8,17.5,2399.9,0,8.2,7.2
+2017,New Jersey,Children,Low,Male,Balanced,Sedentary,Overweight,25.3,3.4,2885.8,2,6.4,8.6
+2014,Ohio,Adults,Low,Male,Low Fat,Sedentary,Overweight,29.1,1.1,2966.3,1,2.8,4.7
+2021,Massachusetts,Adults,Middle,Male,High Fat,Active,Obese,33.0,14.3,3490.0,3,5.5,7.9
+2012,Oregon,Adolescents,Low,Female,High Fat,Moderate,Normal,20.1,9.5,2075.0,2,7.7,1.4
+2001,California,Seniors,Middle,Male,Balanced,Active,Normal,23.5,17.0,2576.4,5,7.9,2.1
+2009,Maine,Seniors,High,Female,Balanced,Moderate,Overweight,25.6,7.7,2560.0,3,5.5,2.8
+2001,Indiana,Adults,High,Female,Low Fat,Sedentary,Normal,23.0,3.4,2310.0,0,3.7,4.6
+2014,Montana,Adolescents,High,Male,Balanced,Active,Obese,35.0,16.7,1838.3,2,9.8,8.6
+2007,Arkansas,Seniors,Middle,Female,High Fat,Moderate,Normal,22.7,11.0,3454.9,1,7.0,5.4
+2004,Missouri,Adults,High,Female,Low Fat,Sedentary,Normal,24.2,3.8,3206.6,0,4.7,5.4
+2008,Vermont,Children,Low,Unknown,High Fat,Active,Overweight,28.0,14.4,2490.0,1,3.5,7.4
+2010,Tennessee,Seniors,High,Female,Low Fat,Moderate,Normal,21.0,10.2,2706.5,3,7.6,6.3
+2021,Missouri,Adolescents,High,Male,Balanced,Moderate,Overweight,25.0,9.75,1954.5,1,3.2,4.2
+2015,Louisiana,Adolescents,High,Male,Low Fat,Moderate,Overweight,28.6,9.2,2587.6,1,2.5,5.4
+2006,South Carolina,Adolescents,Low,Female,Low Fat,Active,Overweight,25.3,16.6,2889.9,0,5.8,4.1
+2004,Delaware,Children,Middle,Female,Unknown,Active,Overweight,26.5,16.6,2530.3,2,3.6,1.8
+2022,Rhode Island,Seniors,Low,Male,High Fat,Active,Normal,24.4,14.2,3480.6,3,6.7,9.9
+2012,South Carolina,Seniors,Middle,Female,Low Fat,Sedentary,Normal,19.4,2.1,2720.0,4,2.1,2.1
+2014,Indiana,Children,Middle,Male,Balanced,Active,Overweight,28.0,16.8,2241.9,2,6.9,1.7
+2023,New York,Seniors,High,Female,Balanced,Active,Obese,35.0,13.4,3040.0,3,3.5,8.9
+2014,Pennsylvania,Children,Middle,Female,High Fat,Active,Overweight,27.0,13.9,1840.9,3,1.0,3.7
+2006,North Carolina,Children,Low,Male,Balanced,Moderate,Overweight,28.1,7.3,2269.0,2,2.1,6.9
+2003,Minnesota,Children,Low,Male,High Fat,Active,Obese,30.5,17.6,2193.9,3,9.4,4.0
+2012,Iowa,Adolescents,Middle,Male,Balanced,Active,Normal,20.7,14.5,2363.6,0,8.8,4.5
+2019,North Carolina,Seniors,High,Male,Low Fat,Sedentary,Obese,35.5,2.3,3063.6,2,3.1,3.4
+2000,Missouri,Children,High,Female,High Fat,Moderate,Overweight,28.0,8.2,2468.3,2,8.0,4.1
+2004,Kentucky,Seniors,Low,Male,High Fat,Active,Obese,35.2,17.7,3088.0,4,6.5,4.7
+2012,North Carolina,Unknown,High,Female,Low Fat,Sedentary,Normal,23.3,0.9,2653.0,2,9.7,7.5
+2015,Washington,Children,Middle,Male,High Fat,Active,Obese,36.1,19.0,2184.1,2,4.4,5.6
+2013,Alaska,Adults,Middle,Male,Balanced,Active,Obese,30.9,13.6,3120.0,2,7.1,9.5
+2011,Indiana,Adolescents,Low,Female,Balanced,Moderate,Overweight,29.8,12.0,1976.6,2,1.6,1.4
+2018,South Carolina,Adults,Middle,Male,High Fat,Moderate,Overweight,28.2,5.4,1940.0,1,4.6,5.5
+2021,South Carolina,Seniors,Low,Unknown,Balanced,Moderate,Overweight,25.0,5.0,2509.0,2,9.7,6.3
+2014,Ohio,Seniors,Middle,Male,High Fat,Active,Obese,33.0,18.8,2021.7,3,5.9,9.3
+2001,Colorado,Adolescents,Low,Male,Low Fat,Moderate,Overweight,27.7,6.0,1518.2,1,3.6,1.4
+2001,Unknown,Seniors,High,Female,High Fat,Active,Underweight,17.2,15.5,2796.6,3,2.1,6.2
+2022,Arizona,Adults,Middle,Female,Low Fat,Moderate,Normal,21.4,7.9,2522.2,3,7.3,8.7
+2012,Connecticut,Children,Middle,Male,Balanced,Sedentary,Overweight,26.1,2.8,2391.0,1,6.8,5.4
+2014,Delaware,Children,Low,Male,Low Fat,Sedentary,Overweight,28.5,0.2,3433.9,1,4.4,8.9
+2021,Tennessee,Children,Low,Male,Balanced,Moderate,Overweight,26.7,10.0,2642.4,4,9.6,1.2
+2012,Iowa,Adolescents,Middle,Female,High Fat,Active,Obese,33.0,19.5,3226.9,2,1.2,7.6
+2016,Washington,Seniors,Low,Female,Balanced,Moderate,Underweight,17.2,7.4,1778.9,1,3.7,9.4
+2019,New Hampshire,Adults,Middle,Female,High Fat,Moderate,Overweight,27.0,7.1,2638.4,1,9.3,6.9
+2009,New York,Seniors,High,Female,High Fat,Moderate,Underweight,17.0,6.9,3236.0,0,3.9,5.0
+2004,New Jersey,Seniors,Low,Male,Low Fat,Moderate,Obese,30.8,10.0,2660.0,2,3.3,1.4
+2014,Rhode Island,Seniors,Middle,Male,Low Fat,Moderate,Overweight,26.5,8.8,2936.0,3,5.8,9.3
+2021,Nebraska,Unknown,High,Male,Low Fat,Active,Overweight,29.1,17.6,2240.0,2,8.4,5.2
+2010,Oklahoma,Adults,High,Female,Low Fat,Moderate,Normal,22.7,10.1,1680.0,1,1.9,1.3
+2004,New Hampshire,Adults,Unknown,Male,Balanced,Moderate,Obese,33.4,10.2,2415.8,1,9.5,7.2
+2000,Pennsylvania,Seniors,Low,Female,Balanced,Sedentary,Obese,32.2,2.8,2289.0,4,8.2,5.3
+2007,North Carolina,Children,Middle,Female,Balanced,Active,Obese,29.9,19.7,3234.1,1,2.6,2.1
+2020,Oregon,Children,High,Male,High Fat,Moderate,Overweight,26.0,5.0,1988.0,1,7.4,2.9
+2011,Nebraska,Adults,Middle,Male,Balanced,Sedentary,Obese,29.9,1.5,3433.5,3,4.5,1.6
+2011,North Carolina,Children,Low,Male,Balanced,Active,Normal,23.0,13.3,3416.3,1,4.6,6.2
+2004,Arkansas,Children,High,Female,Balanced,Moderate,Obese,31.3,11.9,1990.0,1,8.0,6.6
+2006,Michigan,Children,Middle,Female,Low Fat,Moderate,Obese,35.2,8.3,2190.0,3,9.7,5.6
+2003,Alaska,Adolescents,Low,Male,Balanced,Moderate,Obese,32.4,8.4,3291.1,2,2.1,8.4
+2005,Georgia,Seniors,High,Male,High Fat,Active,Normal,23.4,15.0,3433.2,2,4.8,8.7
+2014,California,Adults,Low,Female,Low Fat,Sedentary,Overweight,28.8,3.9,2380.0,2,5.3,6.5
+2019,Georgia,Adults,High,Male,High Fat,Active,Normal,20.0,16.4,2140.0,2,4.4,1.1
+2014,New York,Adolescents,Middle,Female,Balanced,Active,Overweight,29.0,13.0,2550.0,3,4.3,7.3
+2002,Pennsylvania,Seniors,Low,Female,Low Fat,Moderate,Overweight,29.3,8.4,2875.5,3,1.5,4.8
+2022,Illinois,Adults,High,Male,High Fat,Moderate,Underweight,17.7,9.2,2046.9,5,7.2,6.1
+2007,New Mexico,Children,Low,Male,Balanced,Moderate,Normal,21.2,5.1,2972.9,1,4.9,6.8
+2019,Texas,Adults,Low,Male,High Fat,Active,Overweight,25.6,15.0,1603.3,3,2.8,4.2
+2015,Oklahoma,Unknown,Middle,Male,High Fat,Moderate,Overweight,25.5,10.3,1598.6,1,8.3,9.3
+2012,Vermont,Adolescents,Low,Female,High Fat,Moderate,Normal,21.0,6.4,2272.6,0,8.2,2.2
+2017,Mississippi,Children,High,Female,Balanced,Moderate,Overweight,28.9,11.0,2206.9,2,5.4,7.0
+2004,Iowa,Adults,High,Female,Balanced,Active,Overweight,28.3,19.9,2131.3,3,3.7,1.0
+2014,New Hampshire,Adults,High,Male,High Fat,Moderate,Overweight,26.0,8.7,2482.0,1,6.7,9.3
+2016,Delaware,Adults,High,Female,Low Fat,Active,Normal,23.2,18.4,2140.0,4,3.6,2.0
+2021,California,Adolescents,Middle,Male,Low Fat,Moderate,Obese,32.2,6.9,1884.5,1,3.1,1.9
+2014,New Hampshire,Adolescents,Low,Male,Balanced,Sedentary,Obese,35.0,1.1,2118.9,0,7.6,4.0
+2022,Washington,Seniors,Unknown,Male,Balanced,Sedentary,Normal,24.0,4.1,3440.0,2,1.4,4.4
+2004,Arkansas,Adults,Low,Male,Balanced,Moderate,Normal,23.9,8.4,2322.2,0,5.15,2.9
+2020,Idaho,Children,Low,Male,Balanced,Sedentary,Overweight,29.0,4.4,2272.1,4,1.1,6.3
+2021,Vermont,Adolescents,Low,Male,Balanced,Sedentary,Overweight,25.2,0.0,2653.1,1,2.4,5.0
+2008,Alaska,Adults,Middle,Female,Low Fat,Moderate,Overweight,26.3,9.75,3466.7,2,1.6,1.3
+2011,Nebraska,Adults,Low,Male,Balanced,Active,Obese,30.0,16.0,1983.2,1,10.0,3.9
+2021,New Mexico,Adolescents,Middle,Female,High Fat,Active,Underweight,17.5,14.8,2272.1,1,3.6,5.4
+2000,Unknown,Seniors,High,Female,High Fat,Sedentary,Obese,33.6,3.4,2930.0,1,2.3,7.2
+2000,Oklahoma,Adolescents,High,Unknown,Low Fat,Sedentary,Overweight,27.0,2.4,2714.6,2,5.15,7.5
+2014,Montana,Adolescents,Low,Male,High Fat,Sedentary,Obese,24.9,1.4,1677.2,1,9.4,7.3
+2004,Texas,Children,Middle,Male,Low Fat,Active,Overweight,26.6,14.5,2853.7,2,5.7,3.8
+2021,Nebraska,Children,High,Female,Low Fat,Active,Overweight,26.8,18.0,1620.0,3,4.3,1.9
+2015,California,Seniors,Middle,Male,High Fat,Moderate,Underweight,18.3,8.6,2692.3,4,8.9,3.5
+2007,Maryland,Adults,Middle,Female,Balanced,Sedentary,Obese,34.0,2.4,2979.2,2,4.6,8.5
+2012,Hawaii,Adolescents,Low,Male,High Fat,Moderate,Overweight,27.2,10.2,1921.9,3,4.0,9.8
+2020,Georgia,Seniors,High,Male,High Fat,Moderate,Overweight,29.2,7.0,3183.2,3,2.9,5.4
+2000,South Carolina,Children,Low,Female,Low Fat,Moderate,Obese,31.8,7.5,1560.7,3,4.4,1.1
+2015,Pennsylvania,Adolescents,Low,Female,High Fat,Moderate,Normal,21.9,12.4,3187.6,2,3.9,2.3
+2006,Colorado,Adults,High,Male,Low Fat,Active,Overweight,29.0,14.0,2420.7,3,7.1,3.9
+2004,Delaware,Children,High,Female,Balanced,Sedentary,Overweight,25.7,2.2,1935.2,1,3.6,6.2
+2021,Minnesota,Children,Middle,Female,Balanced,Moderate,Obese,31.2,9.75,1767.6,4,6.2,1.7
+2022,Washington,Children,High,Female,Balanced,Active,Underweight,16.4,19.9,3406.6,0,1.6,9.5
+2002,Montana,Seniors,Middle,Unknown,High Fat,Sedentary,Overweight,26.5,4.7,2272.1,5,2.7,4.3
+2011,Virginia,Adults,Middle,Female,Low Fat,Sedentary,Overweight,27.0,1.1,1898.2,2,4.7,9.2
+2015,Texas,Adolescents,Middle,Male,Balanced,Sedentary,Overweight,29.2,3.8,2195.6,1,5.15,8.0
+2018,Idaho,Seniors,High,Male,Low Fat,Sedentary,Overweight,29.0,0.8,2740.5,1,4.4,7.8
+2004,Montana,Seniors,Low,Female,Low Fat,Moderate,Normal,23.0,7.8,2589.6,1,7.0,6.5
+2021,Illinois,Seniors,Middle,Male,Balanced,Active,Normal,23.4,16.0,1750.0,2,3.3,6.6
+2013,South Carolina,Children,Low,Male,Balanced,Moderate,Overweight,27.0,6.8,2079.5,1,2.1,6.7
+2004,Louisiana,Adults,Low,Female,Low Fat,Moderate,Normal,22.5,9.75,1977.5,4,1.5,6.7
+2014,Missouri,Seniors,High,Male,Balanced,Active,Obese,31.0,13.5,1927.1,3,3.7,6.0
+2016,North Carolina,Adolescents,Low,Female,Low Fat,Moderate,Overweight,25.2,10.2,2320.0,0,2.4,9.9
+2013,Texas,Adults,Low,Female,Low Fat,Active,Underweight,12.5,17.2,2908.1,2,2.6,7.6
+2019,Unknown,Adolescents,High,Male,Balanced,Active,Overweight,25.1,17.0,1934.9,0,7.8,8.0
+2004,Texas,Adults,Middle,Female,High Fat,Sedentary,Normal,21.8,0.2,2233.4,0,1.1,5.4
+2011,Idaho,Unknown,Low,Female,Balanced,Active,Underweight,18.0,15.6,2281.8,2,6.0,2.9
+2015,Utah,Children,High,Female,High Fat,Moderate,Normal,20.0,9.2,3452.9,3,4.4,1.8
+2015,Oklahoma,Seniors,Low,Female,Low Fat,Active,Overweight,27.5,19.8,3409.3,2,5.6,5.4
+2020,West Virginia,Adolescents,Low,Female,Low Fat,Moderate,Obese,33.0,9.7,2272.1,2,6.1,5.6
+2006,Arkansas,Adults,Unknown,Male,High Fat,Active,Overweight,28.6,19.7,1983.3,1,3.8,8.5
+2003,California,Seniors,Low,Male,Low Fat,Active,Normal,24.0,15.1,1636.1,0,3.7,5.0
+2000,Oregon,Seniors,High,Female,High Fat,Moderate,Overweight,29.3,5.0,2133.8,2,7.6,6.1
+2004,Delaware,Adults,Low,Female,High Fat,Moderate,Normal,24.7,10.8,2033.6,3,8.8,5.7
+2022,Tennessee,Adolescents,Middle,Male,Low Fat,Active,Normal,23.5,19.8,2511.9,3,5.15,1.3
+2009,Wisconsin,Children,Middle,Female,Unknown,Active,Normal,21.2,17.2,3055.5,3,1.9,6.5
+2021,Nevada,Children,High,Male,Balanced,Sedentary,Underweight,18.2,1.9,3216.6,3,9.1,8.5
+2004,New York,Adolescents,Middle,Female,Balanced,Active,Overweight,25.1,14.0,3189.7,0,5.15,5.4
+2003,Florida,Seniors,Low,Female,Low Fat,Moderate,Overweight,27.8,6.9,2210.0,1,6.0,6.3
+2001,New Hampshire,Seniors,Middle,Female,Low Fat,Sedentary,Overweight,26.5,0.1,2870.0,2,4.2,6.3
+2019,Indiana,Seniors,High,Female,High Fat,Moderate,Obese,24.9,8.1,2125.7,1,2.1,2.5
+2009,South Carolina,Seniors,Middle,Female,High Fat,Sedentary,Normal,22.0,4.7,1621.8,4,6.3,5.4
+2018,South Dakota,Adolescents,Middle,Female,High Fat,Active,Obese,30.0,16.4,2903.1,0,5.7,9.8
+2000,Michigan,Seniors,Middle,Female,High Fat,Moderate,Normal,20.4,6.7,1519.7,1,2.8,4.5
+2023,Hawaii,Adults,High,Male,Balanced,Active,Obese,30.9,16.6,2310.0,4,5.1,3.0
+2004,Minnesota,Seniors,Middle,Male,Balanced,Moderate,Normal,22.0,9.75,2158.8,1,8.2,2.5
+2012,Alabama,Children,Middle,Male,Unknown,Moderate,Normal,23.2,6.2,2880.0,0,6.3,7.0
+2003,Virginia,Seniors,Low,Female,High Fat,Sedentary,Normal,19.7,4.8,3032.5,4,1.9,6.5
+2014,Oregon,Adolescents,High,Female,High Fat,Sedentary,Normal,24.0,4.7,2108.2,2,5.15,6.8
+2023,Massachusetts,Children,Middle,Female,Low Fat,Sedentary,Obese,31.9,1.4,3123.3,3,7.3,1.8
+2015,Montana,Adolescents,High,Female,High Fat,Sedentary,Overweight,29.6,3.7,2087.8,1,8.1,9.0
+2022,Unknown,Adolescents,Middle,Female,High Fat,Moderate,Obese,31.9,11.1,2390.0,2,6.7,4.5
+2001,Unknown,Children,Middle,Female,High Fat,Moderate,Overweight,29.6,5.8,2954.0,1,2.4,3.8
+2016,Minnesota,Adolescents,Middle,Female,High Fat,Moderate,Normal,21.5,8.3,2885.8,3,7.4,5.2
+2019,Alabama,Adolescents,Low,Male,High Fat,Moderate,Overweight,25.3,7.5,3474.7,3,7.1,4.5
+2023,South Carolina,Unknown,Low,Female,Low Fat,Active,Normal,23.1,17.5,1950.3,1,1.2,8.8
+2011,Iowa,Adults,Low,Male,High Fat,Active,Obese,33.7,18.1,2824.6,3,4.7,9.4
+2017,Massachusetts,Adolescents,High,Male,Low Fat,Moderate,Normal,21.0,9.9,2719.4,3,4.0,3.7
+2002,Washington,Adolescents,High,Female,High Fat,Moderate,Obese,31.5,6.6,3330.2,3,7.0,8.8
+2000,Florida,Adolescents,Low,Female,Balanced,Sedentary,Obese,31.5,2.1,1812.7,4,2.9,8.0
+2000,Florida,Seniors,High,Male,Balanced,Active,Obese,36.1,19.1,3000.0,0,6.3,9.4
+2012,Georgia,Adults,Middle,Unknown,Balanced,Sedentary,Overweight,25.0,1.2,2636.5,4,9.2,3.2
+2010,Montana,Children,Middle,Female,Balanced,Moderate,Obese,30.6,6.0,2049.3,1,8.2,6.2
+2004,South Dakota,Seniors,Middle,Female,Low Fat,Moderate,Obese,38.4,6.0,2440.0,2,9.3,3.5
+2011,Ohio,Seniors,Low,Male,Low Fat,Moderate,Normal,23.9,6.4,2167.6,2,9.8,8.4
+2002,Missouri,Adults,High,Female,High Fat,Sedentary,Normal,19.3,3.3,2650.0,1,1.1,1.0
+2004,Unknown,Adults,Low,Female,Balanced,Active,Underweight,17.6,15.7,3278.0,2,5.15,6.1
+2000,Hawaii,Seniors,High,Female,Low Fat,Sedentary,Obese,30.6,2.4,2638.6,6,4.7,4.1
+2007,Pennsylvania,Children,Middle,Male,High Fat,Moderate,Underweight,17.6,12.0,2763.4,0,8.7,3.9
+2009,Alaska,Seniors,Low,Male,High Fat,Sedentary,Overweight,25.1,2.5,2537.5,4,3.3,6.8
+2010,Connecticut,Adults,High,Male,Low Fat,Sedentary,Overweight,29.0,1.4,1602.3,2,9.8,8.7
+2011,Louisiana,Children,High,Female,Unknown,Active,Overweight,27.9,18.2,1965.7,1,6.5,6.5
+2014,Nebraska,Adults,Middle,Female,High Fat,Sedentary,Overweight,29.1,3.8,2484.0,2,5.15,8.7
+2011,North Dakota,Children,Low,Male,Unknown,Active,Overweight,28.1,16.4,2120.5,4,1.8,3.4
+2013,Nebraska,Adolescents,Low,Male,Balanced,Moderate,Obese,33.4,10.0,1863.5,1,2.7,5.7
+2001,Kentucky,Adults,Low,Male,Balanced,Sedentary,Normal,22.0,1.6,2508.3,2,7.8,5.1
+2018,Texas,Adults,Middle,Female,High Fat,Active,Normal,23.6,19.1,2140.0,2,1.2,1.1
+2017,Utah,Seniors,Low,Male,Balanced,Sedentary,Normal,23.1,4.9,2016.2,5,8.4,6.0
+2002,Mississippi,Adults,Middle,Male,High Fat,Active,Obese,31.2,17.2,2428.0,1,1.1,7.0
+2021,Missouri,Adults,Middle,Female,Balanced,Sedentary,Obese,31.5,3.4,1766.6,0,6.9,6.3
+2016,Connecticut,Adolescents,Middle,Female,High Fat,Active,Overweight,29.3,17.1,3355.5,2,4.3,7.6
+2007,Unknown,Adults,High,Female,Balanced,Sedentary,Obese,32.9,0.3,3235.4,1,6.5,6.1
+2004,Mississippi,Adolescents,Low,Male,Low Fat,Moderate,Normal,21.1,10.2,2915.2,0,7.3,1.6
+2001,North Carolina,Adolescents,Low,Female,Balanced,Active,Obese,35.3,15.4,1710.0,1,4.1,2.0
+2018,Wisconsin,Adolescents,Middle,Female,Balanced,Active,Obese,34.6,18.7,3051.8,1,2.0,6.4
+2012,New York,Adolescents,Middle,Male,High Fat,Active,Obese,30.0,18.2,3115.9,2,1.6,3.5
+2006,Texas,Children,Low,Female,High Fat,Moderate,Obese,35.9,9.75,3035.5,2,6.3,1.7
+2003,Michigan,Seniors,Middle,Male,Balanced,Active,Normal,18.7,17.8,1727.9,2,5.7,4.9
+2020,Montana,Unknown,Low,Male,Low Fat,Sedentary,Normal,24.4,4.0,2780.0,0,7.7,6.0
+2017,Nevada,Adults,High,Female,Low Fat,Moderate,Normal,23.3,5.7,3168.6,3,5.15,4.0
+2012,Wyoming,Children,Middle,Female,High Fat,Moderate,Obese,30.6,5.8,2650.0,1,4.8,7.5
+2010,Massachusetts,Children,Low,Female,Low Fat,Moderate,Normal,21.7,7.5,2792.8,1,4.6,6.8
+2023,Wisconsin,Adults,Middle,Female,Balanced,Moderate,Obese,30.8,7.9,2416.7,3,1.2,4.0
+2003,Connecticut,Adults,Low,Female,High Fat,Moderate,Obese,33.9,10.0,2557.4,1,5.15,7.8
+2020,Kentucky,Adults,Low,Female,Balanced,Sedentary,Obese,30.5,3.2,1568.8,0,9.8,6.8
+2003,Maryland,Children,Middle,Male,High Fat,Active,Overweight,28.4,13.0,2777.9,1,8.9,6.7
+2004,South Dakota,Children,High,Male,High Fat,Sedentary,Overweight,27.0,3.4,1662.9,2,4.0,6.0
+2004,Wisconsin,Adults,Low,Female,High Fat,Moderate,Normal,22.8,6.2,2370.0,2,6.3,1.1
+2008,Maryland,Seniors,Low,Male,High Fat,Moderate,Obese,33.0,9.75,2085.3,1,5.15,7.3
+2023,Michigan,Seniors,Low,Female,Low Fat,Active,Obese,30.9,15.9,2272.1,1,5.0,4.4
+2002,Nevada,Adolescents,High,Male,Balanced,Active,Overweight,26.8,14.8,1766.8,4,1.2,9.5
+2016,South Carolina,Adults,High,Male,Balanced,Moderate,Obese,24.9,12.0,2883.3,3,1.7,8.4
+2002,Wisconsin,Adolescents,Middle,Male,Balanced,Sedentary,Underweight,16.0,3.1,3090.0,0,5.6,6.3
+2014,Unknown,Seniors,High,Female,High Fat,Moderate,Normal,21.0,10.0,1826.7,1,9.7,3.3
+2003,Alaska,Adolescents,Middle,Male,Low Fat,Sedentary,Obese,36.6,1.7,1708.6,3,7.2,2.8
+2017,New York,Adults,Middle,Unknown,Balanced,Moderate,Normal,20.0,9.75,1791.0,3,1.6,4.1
+2016,Illinois,Adults,High,Male,Low Fat,Moderate,Overweight,27.9,8.3,2272.1,1,2.7,5.3
+2006,New Jersey,Adults,Middle,Male,High Fat,Sedentary,Obese,32.0,0.8,2556.4,2,7.9,3.7
+2023,Minnesota,Children,High,Male,Balanced,Moderate,Normal,20.7,5.5,2272.1,0,8.6,5.6
+2022,Maine,Adolescents,Middle,Male,Low Fat,Active,Overweight,27.9,19.1,1713.4,1,6.6,2.5
+2004,New York,Seniors,High,Male,High Fat,Active,Obese,31.7,19.1,2799.1,0,6.8,9.8
+2011,New Jersey,Seniors,High,Female,Low Fat,Moderate,Overweight,27.1,7.0,3236.0,2,1.3,2.0
+2016,New Hampshire,Seniors,Middle,Female,Balanced,Sedentary,Obese,41.3,0.9,3156.4,3,8.5,9.4
+2022,Wisconsin,Children,Low,Male,Balanced,Sedentary,Normal,18.7,3.6,2272.1,2,8.1,9.2
+2012,Vermont,Children,Middle,Male,High Fat,Moderate,Obese,32.3,7.8,1650.6,3,3.3,5.7
+2022,New Hampshire,Adults,High,Male,High Fat,Active,Overweight,26.0,19.0,1724.8,0,7.4,7.5
+2002,New Jersey,Seniors,Low,Male,High Fat,Sedentary,Overweight,27.0,2.8,1590.0,2,2.9,4.9
+2004,Kansas,Children,Middle,Female,Low Fat,Active,Overweight,29.2,15.3,2010.0,4,1.4,6.7
+2016,South Carolina,Adults,Middle,Male,Low Fat,Sedentary,Normal,23.3,2.2,1771.3,4,2.8,4.1
+2016,Maine,Seniors,Middle,Female,Low Fat,Active,Overweight,28.0,19.6,2020.1,2,2.6,3.7
+2019,Louisiana,Adolescents,Low,Male,High Fat,Moderate,Overweight,27.0,7.6,2270.1,2,4.0,6.2
+2015,Alabama,Adults,High,Female,Balanced,Active,Obese,30.0,15.5,3386.0,1,4.8,5.5
+2021,Indiana,Children,Middle,Male,Balanced,Moderate,Overweight,28.5,6.9,2720.8,1,5.6,6.2
+2012,Washington,Children,Middle,Male,Low Fat,Active,Obese,30.2,12.6,3169.9,0,5.3,3.6
+2018,Wyoming,Adults,Middle,Female,Low Fat,Sedentary,Obese,32.3,3.8,2920.7,2,3.4,4.3
+2014,Alaska,Adults,Middle,Male,Balanced,Sedentary,Overweight,28.8,2.9,1725.0,0,1.3,1.8
+2004,Nevada,Children,Middle,Male,Balanced,Active,Overweight,27.7,18.8,2971.8,1,6.4,1.5
+2011,Unknown,Adolescents,High,Male,Low Fat,Active,Normal,22.0,18.0,2050.2,3,4.6,3.3
+2008,Wyoming,Seniors,High,Female,Low Fat,Active,Normal,23.4,17.7,2778.2,0,3.7,1.7
+2014,New York,Adolescents,Middle,Male,Balanced,Active,Obese,32.0,12.5,2181.9,2,8.8,1.9
+2011,Pennsylvania,Adults,Low,Male,High Fat,Active,Obese,34.0,16.0,3495.3,1,7.7,8.3
+2008,Arkansas,Adolescents,High,Female,Low Fat,Sedentary,Overweight,25.8,1.4,2027.1,2,8.7,1.3
+2006,Alaska,Children,Low,Female,Balanced,Moderate,Overweight,27.2,6.7,2058.3,0,5.5,6.9
+2013,Delaware,Adults,High,Female,Balanced,Moderate,Normal,22.0,6.3,3361.3,2,2.2,3.5
+2019,New Hampshire,Seniors,Middle,Male,Balanced,Active,Obese,32.9,12.7,1549.3,1,7.3,8.8
+2014,Rhode Island,Children,High,Male,Balanced,Moderate,Obese,30.0,7.1,2893.4,3,2.9,5.4
+2014,Arizona,Children,Middle,Male,High Fat,Sedentary,Obese,36.7,3.0,2272.1,3,5.0,3.8
+2015,Unknown,Seniors,High,Female,Balanced,Moderate,Normal,22.6,11.9,3172.8,2,1.6,5.7
+2020,Georgia,Unknown,Middle,Male,Low Fat,Active,Overweight,25.1,16.0,3448.9,2,8.4,4.4
+2004,Georgia,Adolescents,Middle,Male,High Fat,Moderate,Overweight,28.2,7.6,3451.2,2,2.1,6.1
+2004,Maine,Unknown,Middle,Female,Balanced,Sedentary,Obese,30.2,2.6,1630.6,0,9.1,2.0
+2011,Virginia,Seniors,Middle,Female,High Fat,Sedentary,Overweight,25.9,3.9,3140.0,2,8.8,10.0
+2019,North Dakota,Seniors,Low,Female,Low Fat,Sedentary,Normal,22.6,4.7,2792.6,2,5.2,4.8
+2020,North Carolina,Adults,Middle,Female,Balanced,Moderate,Obese,31.4,6.0,2794.7,1,7.7,4.1
+2003,Minnesota,Seniors,Low,Female,Low Fat,Moderate,Obese,30.6,12.0,1750.0,3,6.6,7.4
+2020,Nevada,Seniors,Low,Male,Balanced,Moderate,Normal,22.4,12.0,2800.4,1,8.2,4.3
+2021,New York,Adolescents,Middle,Female,Balanced,Active,Obese,33.8,13.9,3465.0,1,4.9,8.5
+2014,Wyoming,Children,Low,Male,Balanced,Moderate,Obese,32.9,7.3,3323.6,2,8.1,5.1
+2006,Connecticut,Children,High,Male,Balanced,Active,Overweight,27.7,16.5,2378.3,1,5.2,7.5
+2012,New Hampshire,Children,Middle,Female,Balanced,Sedentary,Overweight,27.4,4.1,1579.9,1,9.5,2.0
+2020,Delaware,Children,Low,Female,High Fat,Moderate,Overweight,29.0,9.4,2220.0,0,5.4,8.6
+2009,Alaska,Seniors,Middle,Female,Balanced,Active,Normal,22.7,16.0,3150.0,3,5.2,7.6
+2006,Arizona,Adults,Middle,Male,Unknown,Sedentary,Overweight,27.2,3.6,2903.0,3,8.1,2.9
+2013,Mississippi,Adults,Middle,Female,High Fat,Sedentary,Underweight,16.0,2.2,2418.7,2,8.4,2.3
+2004,Maine,Adolescents,Low,Female,High Fat,Active,Obese,31.4,17.7,1610.2,4,6.0,3.8
+2002,Delaware,Adolescents,High,Female,High Fat,Moderate,Normal,19.2,6.9,2353.8,1,2.6,9.8
+2022,Washington,Unknown,High,Female,High Fat,Active,Obese,34.5,13.7,2438.0,3,5.2,3.3
+2010,Oregon,Adults,Unknown,Female,High Fat,Sedentary,Overweight,25.3,0.5,3350.0,2,9.7,5.1
+2010,Arizona,Adults,Middle,Unknown,High Fat,Active,Overweight,25.9,13.8,2780.0,2,7.8,1.3
+2012,North Carolina,Children,Low,Male,Balanced,Moderate,Normal,23.0,6.3,2123.3,1,8.3,4.6
+2014,Nevada,Seniors,Low,Male,Balanced,Sedentary,Overweight,25.6,1.1,2550.6,3,1.3,6.1
+2011,Washington,Seniors,Low,Female,Low Fat,Moderate,Obese,34.1,12.2,1632.1,1,5.2,9.6
+2008,Delaware,Children,Middle,Female,Unknown,Sedentary,Underweight,14.0,4.8,3445.1,2,6.8,5.7
+2009,North Dakota,Seniors,Low,Female,Balanced,Moderate,Obese,33.4,7.7,2220.1,1,8.5,8.4
+2011,Ohio,Seniors,Middle,Male,High Fat,Sedentary,Overweight,28.7,1.6,2450.0,3,1.4,5.9
+2016,New York,Adolescents,Low,Female,High Fat,Sedentary,Normal,21.0,2.9,2210.6,3,8.7,1.4
+2005,Mississippi,Adults,High,Female,Balanced,Moderate,Normal,21.0,6.0,2865.0,1,5.9,3.8
+2006,Indiana,Seniors,Low,Female,Low Fat,Sedentary,Obese,35.4,1.8,2824.5,2,2.8,6.2
+2013,New York,Adolescents,Low,Male,High Fat,Active,Normal,22.3,18.2,2930.6,0,3.9,9.6
+2012,Virginia,Adults,High,Female,Balanced,Sedentary,Normal,21.2,0.1,2036.3,2,3.5,8.7
+2004,Texas,Children,Middle,Male,Balanced,Moderate,Obese,32.7,9.7,2131.3,2,5.8,3.1
+2009,Kansas,Adolescents,Middle,Female,Low Fat,Sedentary,Overweight,28.7,2.5,1750.5,0,1.5,3.0
+2008,Arkansas,Adolescents,Low,Male,Low Fat,Moderate,Normal,22.3,6.2,2811.0,3,2.4,2.8
+2017,Oregon,Adults,High,Male,High Fat,Active,Overweight,28.1,18.5,1579.6,4,8.3,9.3
+2001,Massachusetts,Children,Middle,Male,Low Fat,Sedentary,Normal,21.9,3.2,2695.4,0,2.2,8.7
+2004,Indiana,Adolescents,Low,Female,Balanced,Active,Obese,32.5,19.3,3239.4,3,3.1,5.4
+2004,Unknown,Seniors,High,Female,Balanced,Sedentary,Obese,32.3,4.1,3281.7,1,5.1,4.5
+2004,Unknown,Seniors,Middle,Male,Low Fat,Active,Overweight,29.0,14.0,2398.1,2,5.7,5.5
+2014,Louisiana,Seniors,Middle,Male,Low Fat,Moderate,Overweight,28.8,10.9,2418.6,3,7.9,5.2
+2007,Connecticut,Children,High,Female,Low Fat,Active,Obese,35.8,17.7,1653.9,2,5.0,3.3
+2015,Georgia,Adolescents,High,Female,Low Fat,Moderate,Overweight,27.0,11.1,2841.5,0,8.1,5.5
+2012,California,Seniors,High,Male,High Fat,Moderate,Normal,21.1,10.7,3142.5,0,6.6,1.3
+2004,North Carolina,Children,High,Female,Low Fat,Sedentary,Overweight,29.2,3.9,1989.3,1,2.0,2.2
+2021,Minnesota,Seniors,Low,Female,High Fat,Sedentary,Obese,37.0,3.3,2342.6,4,2.4,9.0
+2014,Massachusetts,Adults,High,Female,Balanced,Active,Normal,21.9,18.3,3177.7,1,4.9,7.8
+2016,Maine,Adolescents,Middle,Female,Low Fat,Moderate,Overweight,25.2,9.75,3250.0,0,4.6,4.8
+2006,West Virginia,Adolescents,Middle,Male,High Fat,Moderate,Overweight,29.1,7.4,1986.4,2,7.7,5.7
+2012,Maine,Children,Low,Female,Low Fat,Active,Overweight,26.7,15.2,2600.0,0,6.2,4.3
+2004,Oklahoma,Children,Middle,Female,Balanced,Moderate,Normal,22.0,6.8,1880.0,3,4.5,7.7
+2003,New York,Adolescents,Middle,Male,Balanced,Active,Obese,32.6,19.0,1703.8,3,2.5,8.1
+2005,Louisiana,Seniors,Unknown,Male,Balanced,Active,Obese,38.6,14.8,3320.0,2,3.0,7.9
+2018,Alaska,Seniors,Middle,Female,Low Fat,Moderate,Overweight,28.0,11.9,3141.0,4,6.2,7.5
+2011,Alabama,Adults,Low,Female,Low Fat,Moderate,Normal,22.5,9.75,3020.0,0,4.8,2.8
+2021,Texas,Unknown,High,Female,High Fat,Sedentary,Normal,19.3,1.0,1597.5,4,5.6,4.0
+2006,California,Children,High,Female,Balanced,Moderate,Overweight,28.3,5.1,3187.5,1,2.5,5.2
+2009,Maryland,Children,Low,Male,Low Fat,Moderate,Obese,32.5,9.3,2370.0,2,7.0,4.0
+2014,Hawaii,Seniors,High,Male,Balanced,Sedentary,Overweight,29.4,4.5,2184.8,1,8.7,7.8
+2006,Tennessee,Children,High,Male,Balanced,Active,Overweight,27.0,14.0,2593.0,1,3.3,4.0
+2002,Alaska,Adolescents,Low,Female,High Fat,Active,Normal,24.0,18.0,1680.0,4,5.4,2.2
+2014,Arizona,Adolescents,High,Female,High Fat,Moderate,Normal,21.5,8.5,3013.3,0,9.8,4.6
+2014,Minnesota,Seniors,Unknown,Female,Unknown,Moderate,Obese,31.2,6.8,2664.9,0,4.0,9.8
+2017,Idaho,Adolescents,Low,Female,High Fat,Active,Obese,31.6,19.2,1873.2,3,6.4,3.0
+2019,Maryland,Adolescents,Middle,Male,Balanced,Moderate,Normal,19.3,8.9,1876.5,1,1.8,6.5
+2007,California,Adults,Middle,Male,High Fat,Moderate,Obese,34.9,9.8,1868.5,2,6.5,4.9
+2008,Oregon,Adults,High,Female,High Fat,Moderate,Obese,29.9,7.0,1614.0,1,1.8,1.6
+2004,Pennsylvania,Adolescents,High,Male,High Fat,Moderate,Obese,34.0,9.75,2675.6,2,9.6,5.4
+2000,New Jersey,Seniors,Low,Female,High Fat,Moderate,Normal,20.0,11.4,3180.7,3,7.4,7.3
+2002,Unknown,Adults,High,Female,Balanced,Active,Normal,20.0,15.2,1535.0,3,8.1,5.6
+2012,New York,Children,Low,Male,High Fat,Active,Overweight,26.3,16.2,2272.1,1,7.3,8.8
+2016,Utah,Children,Low,Female,Balanced,Moderate,Overweight,29.5,6.8,2645.5,1,6.3,3.6
+2023,Ohio,Children,High,Female,Low Fat,Moderate,Obese,36.0,8.7,2272.1,2,5.0,1.8
+2004,Michigan,Seniors,Low,Male,Balanced,Active,Obese,30.0,17.0,2153.5,4,8.7,9.4
+2005,Utah,Adolescents,Middle,Female,Balanced,Moderate,Overweight,25.8,7.3,2199.2,2,9.6,4.4
+2020,Mississippi,Children,High,Female,High Fat,Active,Normal,21.9,15.9,2692.7,4,5.5,6.2
+2005,Kentucky,Seniors,Middle,Male,Low Fat,Active,Obese,33.0,18.8,2048.4,4,9.4,8.1
+2011,Georgia,Adults,High,Female,Low Fat,Active,Normal,22.2,12.5,1553.2,4,6.2,3.9
+2014,New Jersey,Adolescents,Low,Male,Low Fat,Active,Obese,35.1,14.8,2970.5,2,5.8,7.4
+2012,Virginia,Adults,High,Female,Low Fat,Active,Overweight,25.6,16.1,2751.3,2,5.1,2.2
+2014,Minnesota,Seniors,Middle,Male,Balanced,Active,Obese,35.0,16.0,2272.1,0,2.9,3.6
+2020,New York,Children,Low,Male,Low Fat,Moderate,Obese,30.4,7.9,2980.0,2,1.0,2.3
+2015,Kentucky,Children,High,Male,Unknown,Sedentary,Overweight,26.3,1.0,2850.0,1,3.2,8.3
+2021,Wyoming,Seniors,High,Female,Unknown,Moderate,Normal,24.4,8.0,1911.8,2,5.6,3.0
+2020,Unknown,Children,High,Male,Balanced,Active,Overweight,25.3,13.5,2205.0,2,4.4,7.5
+2014,Indiana,Adolescents,Middle,Male,Low Fat,Moderate,Overweight,29.1,9.0,1752.2,1,5.0,9.5
+2004,Florida,Seniors,Middle,Male,High Fat,Active,Overweight,27.4,15.0,1750.0,5,9.8,5.7
+2003,South Carolina,Adults,High,Male,High Fat,Moderate,Normal,24.0,7.1,2852.4,1,4.2,5.9
+2004,Alaska,Seniors,Low,Male,Low Fat,Active,Overweight,26.2,12.7,3217.2,3,5.1,5.1
+2014,Vermont,Adolescents,Low,Female,High Fat,Sedentary,Overweight,27.0,3.7,2272.1,2,2.2,3.9
+2019,Missouri,Adolescents,Middle,Female,High Fat,Active,Underweight,16.4,15.0,2750.0,4,1.4,5.3
+2017,Rhode Island,Seniors,Low,Female,Balanced,Moderate,Overweight,29.3,9.75,1868.2,4,8.0,6.4
+2014,Florida,Seniors,Middle,Female,Balanced,Sedentary,Normal,22.1,4.1,1711.3,1,6.1,9.9
+2008,Michigan,Children,High,Female,Unknown,Moderate,Normal,21.2,5.8,3125.7,0,7.8,9.4
+2014,Texas,Adolescents,Middle,Female,Low Fat,Active,Normal,18.6,15.0,2650.0,4,2.3,8.8
+2013,Virginia,Seniors,Middle,Female,High Fat,Moderate,Underweight,18.0,9.7,2736.6,3,6.1,9.0
+2014,Arkansas,Seniors,High,Male,Balanced,Sedentary,Normal,20.0,4.3,3062.9,1,3.3,5.2
+2000,Montana,Adolescents,Low,Female,Low Fat,Active,Normal,23.5,19.3,2900.0,2,3.1,6.9
+2020,New Hampshire,Seniors,Middle,Male,Low Fat,Active,Obese,36.8,14.3,3168.9,4,1.1,9.1
+2021,Vermont,Children,Middle,Male,Low Fat,Active,Normal,24.4,19.1,1612.4,3,2.2,4.5
+2021,North Dakota,Adolescents,High,Female,Low Fat,Moderate,Overweight,27.0,8.5,2990.0,1,3.8,9.7
+2002,Minnesota,Children,Low,Male,Low Fat,Moderate,Overweight,29.0,9.5,3200.0,0,2.1,4.7
+2014,Oregon,Children,Middle,Male,Low Fat,Active,Overweight,27.7,18.0,2072.3,4,9.9,6.4
+2022,Hawaii,Children,High,Male,High Fat,Moderate,Overweight,26.6,10.5,2780.9,1,3.8,7.4
+2014,Colorado,Children,Middle,Male,Balanced,Active,Overweight,27.0,14.1,2120.0,1,2.2,9.6
+2012,Louisiana,Adolescents,High,Female,Balanced,Moderate,Obese,34.3,5.0,3415.9,3,2.8,3.2
+2009,Massachusetts,Children,Low,Female,Low Fat,Moderate,Obese,36.0,8.9,1566.8,3,6.3,7.7
+2015,Tennessee,Children,Low,Female,Balanced,Sedentary,Normal,18.6,2.5,2659.6,2,1.6,5.7
+2004,Oklahoma,Seniors,Low,Female,Balanced,Sedentary,Normal,21.9,4.1,1830.0,0,8.8,5.4
+2005,South Dakota,Adolescents,Low,Unknown,Balanced,Sedentary,Overweight,25.6,0.0,2924.4,3,9.7,8.0
+2011,Pennsylvania,Adolescents,Middle,Female,Low Fat,Sedentary,Normal,22.0,0.8,1851.8,1,3.2,6.0
+2023,North Dakota,Adults,Middle,Female,Low Fat,Active,Overweight,29.5,19.5,2272.1,1,5.1,6.9
+2020,Kentucky,Adolescents,Low,Female,Balanced,Sedentary,Normal,23.4,4.8,2488.7,2,1.2,3.9
+2012,New Hampshire,Adults,Low,Male,Balanced,Active,Obese,38.1,17.5,2651.3,1,7.4,5.8
+2022,Unknown,Adolescents,Middle,Female,High Fat,Moderate,Obese,31.9,11.1,2392.7,2,6.7,4.5
+2013,Alaska,Adults,Middle,Male,Balanced,Active,Obese,30.0,13.6,3120.0,2,7.1,9.5
+2010,New York,Adolescents,Middle,Male,Balanced,Active,Overweight,25.5,15.6,1659.4,1,5.0,9.2
+2022,Arizona,Children,Middle,Female,High Fat,Moderate,Normal,22.7,7.4,3286.6,2,6.0,5.4
+2000,Texas,Adults,Middle,Male,High Fat,Active,Obese,30.8,14.7,1909.6,1,9.6,2.8
+2000,Illinois,Seniors,High,Male,High Fat,Moderate,Obese,30.4,10.4,2389.1,6,2.5,5.5
+2005,Iowa,Children,Middle,Female,Low Fat,Active,Overweight,28.4,13.5,1758.1,2,3.0,2.9
+2002,Utah,Adolescents,High,Male,High Fat,Active,Overweight,28.0,15.0,1858.3,3,4.1,1.8
+2021,Ohio,Children,Low,Female,Balanced,Active,Overweight,25.0,15.0,2272.1,2,5.15,4.9
+2004,Florida,Seniors,Middle,Male,High Fat,Active,Overweight,27.4,15.0,1759.7,5,9.8,5.7
+2021,Georgia,Adults,Low,Male,High Fat,Moderate,Obese,32.4,6.8,2171.6,0,5.3,8.1
+2002,Michigan,Children,Middle,Unknown,Low Fat,Moderate,Overweight,26.1,9.4,3159.1,2,6.3,5.1
+2014,Alabama,Children,Low,Male,Low Fat,Sedentary,Normal,21.3,1.2,3365.7,0,3.3,9.6
+2020,Delaware,Children,Low,Female,High Fat,Moderate,Overweight,29.8,9.4,2224.6,0,5.4,8.6
+2015,Alabama,Adults,High,Female,Balanced,Active,Obese,30.0,15.5,3380.0,1,4.8,5.5
+2020,New York,Adolescents,Middle,Female,High Fat,Active,Underweight,17.5,14.8,2272.1,1,3.6,5.4
+2004,Texas,Adolescents,High,Female,High Fat,Moderate,Obese,31.5,6.6,3330.2,3,7.0,8.8
+2018,Louisiana,Seniors,Middle,Male,Low Fat,Moderate,Overweight,28.8,10.9,2410.0,3,7.9,5.2
+2014,Montana,Adolescents,High,Female,High Fat,Sedentary,Overweight,29.0,3.7,2087.8,1,8.1,9.0
+2017,Michigan,Adolescents,Low,Female,Low Fat,Active,Obese,30.1,17.0,2272.1,2,5.0,2.1
+2004,Kentucky,Adults,Low,Female,Low Fat,Active,Normal,24.7,17.0,2065.1,3,6.5,9.8
+2023,Maine,Children,High,Male,Balanced,Moderate,Normal,20.7,5.5,2272.1,2,8.6,5.6
+2007,Colorado,Adolescents,Middle,Male,Low Fat,Sedentary,Underweight,17.4,4.8,2095.7,2,5.7,4.2
+2019,Alaska,Adults,High,Male,Low Fat,Moderate,Obese,33.1,5.1,2272.1,0,8.2,3.0
+2021,Illinois,Adolescents,Unknown,Female,Balanced,Sedentary,Obese,33.6,2.2,3424.1,1,6.1,2.5
+2020,West Virginia,Adolescents,Low,Female,Low Fat,Moderate,Obese,33.6,9.7,2272.1,2,6.1,5.6
+2004,West Virginia,Adolescents,Low,Female,Low Fat,Moderate,Obese,36.0,12.0,2734.4,2,4.9,5.2
+2000,Washington,Children,Low,Male,Balanced,Moderate,Obese,34.9,5.4,2829.5,1,8.1,3.8
+2016,Oregon,Adults,Low,Female,Balanced,Moderate,Overweight,28.6,5.7,2254.4,4,3.8,4.7
+2013,Unknown,Children,Middle,Male,Low Fat,Moderate,Overweight,25.4,9.8,2761.5,1,1.3,4.5
+2018,Wisconsin,Adolescents,Middle,Female,Balanced,Active,Obese,34.6,18.7,3051.8,1,2.0,6.4
+2004,Colorado,Seniors,Low,Female,Low Fat,Moderate,Overweight,29.4,6.7,3015.6,2,5.8,8.7
+2004,North Dakota,Adults,Low,Female,Balanced,Moderate,Overweight,27.9,10.8,1605.5,2,5.4,4.4
+2008,Nebraska,Adults,High,Female,High Fat,Sedentary,Overweight,29.0,2.7,2437.1,1,4.7,2.4

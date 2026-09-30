@@ -1,0 +1,22 @@
+
+Obesity Levels by State Dataset
+=================================
+
+This dataset contains simulated data about obesity levels in the United States. It includes 700 observations with 14 variables, as described below:
+1. Year: (Continuous) The year of observation, ranging from 2000 to 2023.
+2. State: (Categorical) The U.S. state where the observation was recorded.
+3. AgeGroup: (Categorical) The age group of the individual, one of ['Children', 'Adolescents', 'Adults', 'Seniors'].
+4. IncomeLevel: (Categorical) The income level of the individual, one of ['Low', 'Middle', 'High'].
+5. Gender: (Categorical) The gender of the individual, one of ['Male', 'Female'].
+6. DietType: (Categorical) The predominant diet type, one of ['High Fat', 'Low Fat', 'Balanced'].
+7. ActivityLevel: (Categorical) The physical activity level, one of ['Sedentary', 'Moderate', 'Active'].
+8. ObesityLevel: (Categorical) The obesity classification, one of ['Underweight', 'Normal', 'Overweight', 'Obese'].
+9. BMI: (Continuous) The Body Mass Index (BMI), normally distributed around a mean of 27 with a standard deviation of 5.
+10. PhysicalActivityHours: (Continuous) Hours of physical activity per week, ranging from 0 to 20.
+11. CaloricIntake: (Continuous) Daily caloric intake in kilocalories, ranging from 1500 to 3500.
+12. MedicalVisits: (Continuous - Integer) The number of medical visits per year, following a Poisson distribution with a mean of 2.
+13. ScreenTimeHours: (Continuous) Average daily screen time in hours, ranging from 1 to 10.
+14. StressLevel: (Continuous) Perceived stress level on a scale of 1 to 10.
+
+
+This dataset is ideal for exploring patterns and relationships related to obesity levels in the U.S. over time and across states.
