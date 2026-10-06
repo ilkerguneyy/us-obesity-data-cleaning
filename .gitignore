@@ -2,3 +2,13 @@
 __pycache__/
 .ipynb_checkpoints/
 unique_values/
+iframe_figures/   # plotly notebook calistirildiginda uretir
+
+# --- gizlilik siperi (2026-10-06) ---
+# report.pdf 7 takim uyesinin ogrenci numarasini tasiyor: ASLA commit edilmez.
+# STAT365 repo'sunda ayni hata bir kez yapildi (public .docx, 3 ogrenci numarasi),
+# bu satirlar 'git add .' kazasini bastan engellemek icin.
+report.pdf
+*report*.pdf
+*.docx
+*.doc
